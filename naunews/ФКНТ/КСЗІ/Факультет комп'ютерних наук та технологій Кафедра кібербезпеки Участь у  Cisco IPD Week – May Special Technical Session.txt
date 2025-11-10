@@ -1,0 +1,17 @@
+Заголовок: Участь у  Cisco IPD Week – May Special Technical Session
+URL: http://kszi.nau.edu.ua/novini/359-uchast-u-cisco-ipd-week-may-special-technical-session
+==================================================
+Участь у  Cisco IPD Week – May Special Technical Session
+У період з 05 - 13 травня 2025 р. мережевою академією Cisco Networking Academy  було проведено спеціальну технічну сесію для підвищення фаховості викладачів-інструкторів локальних мережевих академій (LNA)  Cisco з усього світу.
+У травневій Cisco IPD (Instructor Professional Development) Week - Special Technical Session взяла участь інструктор  LNA Cisco кафедри кібербезпеки ФКНТ,  старший викладач Олена Дубчак.
+Під час Cisco IPD Week - Special Technical Session розглядалися важливі питання щодо: новітніх та удосконалення наявних мережевих технологій, зокрема, проєктування, керування та захист мереж за допомогою АІ; засобів кібербезпеки; використання АІ для удосконалення освітнього процесу; ключових можливостей Cisco Packet Tracer 9.0.0.;  використання мови програмування Python  у завданнях аналітики даних, зокрема, особливості бібліотек Pandas, NumPy, Matplotlib/Seaborn і Scikit-Learn; інтернету агентів АІ та їхнього впливу на перетворення інтелектуальних екосистем; ефективних методів і ресурсів навчання під час викладання курсів Cybersecurity Essentials та Networking Essentials (з використанням Cisco® Packet Tracer для навчання на основі моделювання), тощо.
+Серед тем, що розглядалися, зокрема, були такі:
+Practical Uses of AI Tools in your Classroom
+A cyber year in review with threat intelligence and Cisco Talos
+Industrial Networking Essentials & Cisco Packet Tracer 9.0.0
+Auth, Tokens, and Trust: A Modern Look at API Security
+Mastering Data Analytics with Python
+Smarter Networks, Smarter Engineers: Learn AI Skills That Solve Real Problems
+The Next Internet: Internet of AI Agents
+Getting Ready to Teach Cybersecurity Essentials and Networking Essentials
+Отримана інформація надає викладачам – інструкторам LNA Cisco кафедри можливість поглибити свої знання, досвід і навички, озброївшись інструментарієм, який необхідний для навігації складним ландшафтом галузі кібербезпеки під час викладання відповідних освітніх компонентів здобувачам вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності «Кібербезпека та захист інформації».

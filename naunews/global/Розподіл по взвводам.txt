@@ -1,0 +1,7 @@
+Заголовок:Розподіл по взвводам
+
+Дата: ----------
+URL: https://kvpoz.nau.edu.ua/%d1%80%d0%be%d0%b7%d0%bf%d0%be%d0%b4%d1%96%d0%bb-%d0%bf%d0%be-%d0%b2%d0%b7%d0%b2%d0%b2%d0%be%d0%b4%d0%b0%d0%bc/
+==================================================
+Розподіл по взвводам
+[gview file=”http://kvpoz.nau.edu.ua/wp-content/uploads/2014/10/розподіл.xls”]

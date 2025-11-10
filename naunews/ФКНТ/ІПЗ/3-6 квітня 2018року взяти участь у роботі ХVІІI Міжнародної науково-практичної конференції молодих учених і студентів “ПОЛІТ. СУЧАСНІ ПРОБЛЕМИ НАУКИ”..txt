@@ -1,0 +1,125 @@
+Заголовок: 3-6 квітня 2018року взяти участь у роботі ХVІІI Міжнародної науково-практичної конференції молодих учених і студентів “ПОЛІТ. СУЧАСНІ ПРОБЛЕМИ НАУКИ”.
+URL: https://sed.nau.edu.ua/3-6-%d0%ba%d0%b2%d1%96%d1%82%d0%bd%d1%8f-2018%d1%80%d0%be%d0%ba%d1%83-%d0%b2%d0%b7%d1%8f%d1%82%d0%b8-%d1%83%d1%87%d0%b0%d1%81%d1%82%d1%8c-%d1%83-%d1%80%d0%be%d0%b1%d0%be%d1%82%d1%96-%d1%85v%d1%96/
+==================================================
+Розклад роботи секції «інженерія програмного забезпечення»
+Пятниця  06.04.2018
+Секретар секції   доцент каф. ІПЗ Чебанюк О.В.
+Час
+Тема доповіді та доповідач
+8
+15
+-8
+30
+Відкриття підсекції «Фундаментальні дослідження у галузі Інженерія програмного забезпечення» ауд 6.200
+8
+30
+-8
+40
+Research and Development Workstation Environment: the new class of CRIS
+Kyrylo Malakhov
+Scientific advisor:PhD, assoc prof. Vitalii Velychko
+8
+4
+0
+-8
+50
+Designing Action Language for Foundational UML Metamodel
+Teslenko A.V.
+Scientific advisor: PhD assoc. Prof. Chebanyuk O.V.
+9
+00
+-9
+1
+0
+A technique for software models merging
+Mironov Yuriy
+Scientific adviser: PhD., Assoc. prof. Chebanyuk O.V.
+9
+10
+-9
+20
+A Technique For Software Models Comparison
+Povaliaiev D.V.
+Scientific Advisor: associate professor Chebanyuk O.V
+9
+20
+-9
+30
+A tool for designing architectural solutions in a cloud environment
+Maksym Chukhrii
+Scientific Advisor: associate professor Chebanyuk O.V
+Перерва 9
+30
+-9
+40
+9
+40
+Відкриття підсекції «Прикладні дослідження у галузі Інженерія програмного забезпечення» ауд 6.311
+9
+50
+-10
+00
+Investigation of Unity3D timers performance
+Krainy Mykyta
+Scientific Advisor: associate professor Chebanyuk O.V
+10
+00
+-10
+10
+Ways of data exchange between sessions and scenes in Unity3D
+Yulia Chukhrii
+Scientific Advisor: associate professor Chebanyuk O.V
+10
+20
+-10
+3
+0
+An Approach to Application Optimization before Compilation under Android Operation System
+Volodymyr Yevtukh
+Scientific Advisor: associate professor Chebanyuk O.V
+10
+30
+-10
+4
+0
+Дослідження основних підходів покращення розробки архітектури програмного продукту
+Котенко Денис Валентинович
+науковий керівник: Конрад Тетяна Ігорівна
+10
+40
+-10
+5
+0
+Аналіз сучасного стану досліджень в галузі штучного інтелекту в Україні
+Шевчук О.О.
+науковий керівник: Конрад Тетяна Ігорівна
+10
+50
+-11
+0
+0
+Дослідження доцільності впровадження концепції Internet of Everything в галузь вищої освіти в Україні
+Соколенко П. Ю.
+науковий керівник: Конрад Тетяна Ігорівна
+11
+00
+-11
+1
+0
+Кросплатформеність. Огляд платформи .NET Core
+Мороз О.Д.
+науковий керівник: Скалова В.А
+11
+10
+-11
+2
+0
+The present and future of Android development
+Duchkova Krystyna
+Scientific advicer: Tkachenko O. A.
+11
+20
+-11
+3
+0
+Закриття секції

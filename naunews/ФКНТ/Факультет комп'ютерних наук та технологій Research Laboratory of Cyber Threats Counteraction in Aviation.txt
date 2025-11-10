@@ -1,0 +1,168 @@
+Заголовок:Research Laboratory of Cyber Threats Counteraction in Aviation
+Дата: ----------
+URL: https://cyberlab.nau.edu.ua/
+==================================================
+Research Laboratory of Cyber Threats Counteraction in Aviation
+
+About Us
+Research laboratory of cyber threats counteraction in aviation (NAU Cybersecurity R&D Lab) was founded in October, 2019 as the structural unit of the Faculty of Cybersecurity, Computer and Software Engineering in National Aviation University (Kyiv, Ukraine). It was based on Cybersecurity Research Group formed in September, 2012.
+
+The main objectives of NAU Cybersecurity R&D Lab are following:
+
+research study in cybersecurity;
+development, expertise and assessment of cybersecurity products / services;
+organization of scientific and practical conferences / seminars / trainings in cybersecurity;
+improvement cybersecurity level in aviation and other sectors of critical infrastructure;
+support of young cybersecurity researchers in National Aviation University and Ukraine;
+cybersecurity popularization on both local and international level.
+Our Expertise:
+
+development and optimization of web-sites / web-applications;
+penetration testing and security analysis of web-sites / information-communication systems / software-hardware complexes;
+information security / cybersecurity audit;
+encryption algorithms / PRNGs / hash-functions development, software / hardware realization and security level assessment against various attacks;
+software realization of algorithms of any complexity in C / С++, Python, Java;
+designing and implementation of printed circuit boards and antennas, digital electronics of any complexity;
+deep investigation of software / hardware solutions in IT, cybersecurity, telecommunications;
+designing and conducting training courses, workshops and laboratory testing in information security (cybersecurity) / CIIP / cryptography / computer networks / AI / ML / Big Data etc.
+Our Team
+
+Sergiy Gnatyuk
+DSc, PhD, Associate Professor Scientific Adviser of the Lab
+
+
+Tetiana Okhrimenko
+PhD, Associate Professor Chief of the Lab
+
+
+Roman Odarchenko
+DSc, PhD, Associate Professor Project Manager / Lecturer
+
+
+Viktoriia Sydorenko
+PhD, Associate Professor Researcher / Lecturer
+
+
+Vasyl Kinzeryavyy
+PhD, Associate Professor Researcher and Consultant
+
+
+Yuliia Polishchuk
+PhD Student, Junior Researcher
+
+ 
+
+
+Sergiy Dorozhynskyy
+PhD Student, Developer and Junior Researcher
+
+
+Bohdan Horbakha
+Student, Developer and Technical Specialist
+
+
+Ivan Azarov
+Developer and Technical Specialist
+
+ 
+
+
+Martyniuk Hanna
+Associate Professor
+
+ 
+
+
+Dmytro Proskurin
+Postgraduate
+
+ 
+
+
+Andriy Fesenko
+Candidate of Technical Sciences, Assoc. Professor
+
+
+Myroslav Riabyi
+LLC "Omega Solutions"
+
+
+Oleh Polihenko
+PhD, Technical Specialist / Lecturer
+
+If you are interested for cooperation, please contact us!
+
+Scientific Projects
+Quantum cryptography methods for ensuring confidentiality of critical information infrastructure of the state is project of young scientists funding by Ministry of Education and Science of Ukraine from October, 2017 till September2019. The main goal of this project was improving data confidentiality and privacy in critical infrastructure by developing new PRNG, protocols of key distribution and encryption. The project was completed successfully and results were implemented in various state and private companies (DSc Sergiy Gnatyuk was Manager / Lead Researcher, PhD Tetyana Okhrimenko (Zhmurko) was Principal Investigator / Senior Researcher of this project);
+Methods and tools for quantum key distribution implementation in critical infrastructure of the state is collaborated research project of scientists from State Scientific and Research Institute of Cybersecurity Technologies and Information Protection and NAU Cybersecurity R&D Lab funding by State Service of Special Communications and Information Protection of Ukraine. The main goal of this project is requirements defining for future state quantum cybersecurity system based on QKD and secure block encryption. This project started in December, 2019 and must be finished in October, 2020 (DSc Sergiy Gnatyuk is Co-Manager / Chief Researcher of the project);
+System for ensuring confidentiality of critical information infrastructure of the state based on quantum deterministic protocols is project of young scientists funding by Ministry of Education and Science of Ukraine. The main goal of this project is constructing the system for ensuring confidentiality of critical information infrastructure of the state by methods of quantum and post-quantum cryptography. The project began in January, 2020 and must be finished in December, 2021 (DSc Sergiy Gnatyuk is Manager / Lead Researcher, PhD Tetyana Okhrimenko is Principal Investigator / Senior Researcher of this project);
+Methods, models and tools for security events and incidents management for detecting and preventing cyber attacks on critical infrastructures of digital economics is international collaborated research project of scientists from Almaty University of Power Engineering and Telecommunications and NAU Cybersecurity R&D Lab funding by Ministry of Digital Development, Defense and Aerospace Industry of the Republic of Kazakhstan. The main goal of this project is framework development for effective incident management (detect, identify, response, prevent, predict etc) in sectors of critical infrastructure of the state. The project was started in May, 2020 and it must be completed in April, 2022 (DSc Sergiy Gnatyuk is Lead Researcher of the project);
+5G-Xcast: Broadcast and Multicast Communication Enablers for the Fifth Generation of Wireless Systems is Horizon 2020 international research grant project funding by European Commission from July, 2017 till June 2019 (H2020-ICT-2016-2 call, grant number 761498). This project has paved the way towards the use of 5G broadcast and multicast. 5G-Xcast has developed a conceptually novel and forward-looking 5G network architecture for large scale immersive media delivery through the use of point-to multipoint transmissions. This project was completed successfully as well as results were implemented in companies of EU (DSc Roman Odarchenko was Lead Researcher of the project);
+5G-TOURS: SmarT mObility, media and e-health for toURists and citizenS is Horizon 2020 international research grant project funding by European Commission. The goal of 5G-TOURS is to get the European 5G Vision of “5G empowering vertical industries” closer to commercial deployment with highly innovative use cases involving cross-industry partnerships. The knowledge acquired from this project, and especially with respect to the development of applications enabled by 5G technology that are needed for the envisioned use cases and deployment of three large-scale field-trials. This project started in July, 2019 and must be completed in June, 2022 (DSc Roman Odarchenko is Lead Researcher of the project);
+Cyber incident response platform for 5G cellular networks is international collaborated research project of scientists from Caucasus University and NAU Cybersecurity R&D Lab funding by Shota Rustaveli National Science Foundation. Main idea of the project is to develop novel AI / ML based 5G Cybersecurity platform to provide the highest cybersecurity level and to ensure all subscribers in overall safety. The project was started in August, 2020 and it must be completed in July, 2021 (DSc Sergiy Gnatyuk and DSc Roman Odarchenko are Lead Researchers of the project);
+Promotion of the Cyber Hygiene E-Learning Course (grant number G-202112-68299) is educational project funding by CRDF Global during 2022. More than 500 students of non-professional specialties (except cyber security) are to be trained in issues related to cyber hygiene;
+Integration of new Cybersecurity course into Curriculum (grant number G-202202-68482) is educational project funded by CRDF Global during 2022 and completed successfully in September, 2022. New developed course “Cybersecurity in the context of digitalization and informatization of the society” was integrated into curriculum of the Faculty of Cybersecurity, Computer and Software Engineering;
+Semantic analysis of web resources for detection of Russian disinformation activities (grant number G-202210-69388) is research project funding by CRDF Global from October, 2022 till April, 2023. The main goal of the project is to develop software that will identify whether information posted on social media and other web resources is disinformation;
+USAID Cybersecurity for Critical Infrastructure in Ukraine is international project funded by USAID and implemented by DAI. The main objective of this project is to develop cybersecurity workforce. It includes trainings for teachers, improvements for curriculum and educational courses. The project was started in National Aviation University in July, 2022;
+Intellectualized system of secure transmission of packet data on the basis of reconnaissance and search unmanned aerial vehicle is a project funded by the Ministry of Education and Science of Ukraine from January 2022 to December 2024. The goal of this project is to ensure the confidentiality of packet data which transmitted from the reconnaissance UAV cameras by an optical channel in conditions of limited computing resources based on modern methods of artificial intelligence, compression and encryption. The practical level of conducting aerial reconnaissance during current warfare demonstrates the urgent need to create unmanned aircraft systems which capable of performing flight tasks and aerial reconnaissance in the mode of installed radio interference, and also emphasizes the importance of ensuring the data confidentiality about target objects transmitted by an optical channel for the implementation of their processing in automated systems (DSc Sergiy Gnatyuk is the Manager / Lead Researcher, Ph.D. student Yuliia Polishchuk is the Principal Investigator / Junior Researcher of this project);
+CRDF Global was issuing a grant to Yuliia Polishchuk (Ph.D. student) to support research on detecting Russian disinformation on chemical, biological, and nuclear weapons through a semantic analysis of web resources. The grant focus on investigating the extent to which Russian disinformation discredits established nonproliferation norms in Ukraine, as well as how fake news surrounding the current Russian-Ukrainian war impacts these same norms. The main goal of the project is to develop software that will identify whether information posted on social media and other web resources is disinformation and publish a scientific article about the result of the project. The results from this project will be used for trainings and educational courses for the population of Ukraine, as well as the scientific community at large;
+Methods, models and algorithms for constructing a quantum-secure information infrastructure is project of young scientists funding by Ministry of Education and Science of Ukraine from March, 2022 till December, 2023. The main goal of this project is creation of a confidentiality ensuring system for critical information infrastructure of the state through the development and improvement of quantum methods for generating and distributing cryptographic keys, as well as a post-quantum method of data encryption. (DSc Sergiy Gnatyuk is Scientific Adviser / Manager / Lead Researcher, PhD Tetiana Okhrimenko (Zhmurko) is Principal Investigator / Senior Researcher of this project;
+Quantum-driven security in emerging 5G networking is CRDF Global scientific project. Duration: July 2021 – July 2022. The project aims to perform analysis, design, build and apply quantum-computing and quantum-resistant methods to protect 5G networks which quickly have been appearing in people’s lives since 2018. (Tetiana Okhrimenko, Researcher)
+
+Training Center
+The pilot project of the Training Center of NAU Cybersecurity R&D Lab is NAU Penetration Testing School. It was beginning in March, 2020, but due to COVID-19 pandemic quarantine educational process is conducting on-line.
+
+
+Scientific Events
+NAU Cybersecurity R&D Lab was one of the main organizer of 1st International Conference on Cyber Hygiene & Conflict Management in Global Information Networks (Ukraine, Kyiv-Lviv, November 29-30, 2019), included 2 following specialized workshops:
+International Workshop on Conflict Management in Global Information Networks (CMiGIN-2019) was hold in Lviv on November 29, 2019. CMiGIN-2019 was intended to attract researchers with a strong background in the field of on conflict management in global information networks with the main focus on analytical processing, optimization and control of global information networks. The main workshop sections:
+Conflict Management on the Internet
+Analytical Processing of Social Networks
+Optimization of Online Information Networks
+Control of Global Information Networks
+Social Networking Services
+Digital Content Processing
+Papers of CMiGIN-2019 Workshop were published in CEUR Workshop Proceedings and indexed in Scopus and DBLP.
+International Workshop on Cyber Hygiene (CyberHygiene-2019) was hold in Kyiv on November 30, 2019. CyberHygiene-2019 was intended to attract researchers with a strong background in the field of on cyber hygiene and cybersecurity, ICT infrastructures and systems, CIIP, social engineering etc. The main workshop sections:
+Security and Privacy of Critical Applications
+ICT Infrastructures and Systems
+Management of Cyber Incidents, Warfare and Conflicts
+Social Engineering and Identity Theft Protection Techniques
+Papers of CyberHygiene-2019 Workshop were published in CEUR Workshop Proceedings and indexed in Scopus and DBLP.
+
+Our Partners
+Card image cap
+Ukrainian Information Technology Laboratory
+(Kyiv, Ukraine)
+
+Ukrainian Information Technology Laboratory (UITL) provides trainings and workshops related with up-to-date IT and applications. UITL have supported Training Center of NAU Cybersecurity R&D Lab organization including computer (hardware and software) and network maintenance. Also, lecturers and researchers of our Lab cooperate with UITL in trainings organization.
+
+Card image cap
+Cipher company
+(Kyiv, Ukraine)
+
+The Cipher company provides services in information security and banking technologies in Ukraine since 1995. The main activities are data protection of organizations, payment systems of banks, implementation and maintenance of e-banking. Our Lab cooperates with Cipher in the research study and development of cryptographic information security systems.
+
+Card image cap
+Scientific Cyber Security Association
+(Tbilisi, Georgia)
+
+SCSA is international organization for development of scientific and practical directions in cybersecurity as well popularization cybersecurity on both local and international levels. We have strong cooperation with SCSA for many years in development and security improvement of quantum and post-quantum cryptography systems.
+
+Card image cap
+MECS Press
+(Hong Kong, China)
+
+MECS Press is an independent publisher of peer-reviewed journals covering a wide range of academic disciplines. MECS Press publishes 10 open access, peer-reviewed journals and many of them are included in the leading abstracting and indexing databases (Scopus, Inspec, EBSCO, Baidu Wenku etc). Researchers of our Lab participate in Editorial Boards of MECS Press journals and Program Committee of MECS Press conferences, and other collaborated activities.
+
+Card image cap
+Vocational Training Center
+(Nowy Sacz, Poland)
+
+Vocational Training Center (Centrum Kształcenia Zawodowego, CKZ – in Polish) is educational and research organization, which oriented on training courses and fellowships in programming, computer systems and networks, cybersecurity. We have strong cooperation with CKZ in both directions: the internships for scientists of our Lab as well as collaborated research projects in cybersecurity (cryptography, CIIP, WSN).
+
+Card image cap
+Cybersecurity Scientific Association of Ukraine
+(Kyiv, Ukraine)
+
+The main goal of the Cybersecurity Scientific Association of Ukraine is to increase the general level of cyber security of Ukrainian society through the implementation of scientific, scientific and technical and educational activities in the field of cyber security and related fields, aimed at the development of the specified field and the satisfaction of the professional interests of its members.

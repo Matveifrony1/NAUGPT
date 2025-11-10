@@ -1,0 +1,79 @@
+Заголовок: 03 квітня було проведено ХІХ Міжнародну науково-практичну конференцію молодих учених і студентів «Політ. Сучасні проблеми науки».
+URL: https://sed.nau.edu.ua/03-%d0%ba%d0%b2%d1%96%d1%82%d0%bd%d1%8f-%d0%b1%d1%83%d0%bb%d0%be-%d0%bf%d1%80%d0%be%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%be-%d1%85%d1%96%d1%85-%d0%bc%d1%96%d0%b6%d0%bd%d0%b0%d1%80%d0%be%d0%b4%d0%bd%d1%83/
+==================================================
+Список тез, підготовлених для участі у конференції . Секція інженерія програмного забезпечення
+№
+Назва
+  тез
+Прізвище
+  студента
+Прізвище
+  керівника
+1
+Peculiarities
+  of assets reuse for mobile applications development in Unity3D
+Krainy Mykyta
+Chebanyuk
+  O.V.
+2
+Peculiarities of requirement analysis in mobile
+  application designing by means on game scene prototyping  in Unity3D
+Yulia Chukhrii
+Chebanyuk
+  O.V.
+3
+An
+  approach of effective user interface components reusing
+Shyrokykh Ivan
+Chebanyuk
+  O.V.
+4
+Mobile
+  application for simulation virtual 3D surfaces via augmented reality core
+Maksym
+  Karlash
+Chebanyuk
+  O.V.
+5
+Technique of data migration after database
+  renewing  in “Model First” approach
+Pystohov Maksym
+Chebanyuk
+  O.V.
+6
+Reverse software modeling using .NET reflection
+  mechanism
+Mykhailo Kovalchuk, 
+  Yaroslav Zakharchuk
+Chebanyuk
+  O.V.
+7
+Software
+  tool for architectural solution designing in Model-Driven Development
+  approach
+Dima Musiienko 
+   
+  Eugene Mihailovsky
+Chebanyuk
+  O.V.
+8
+Аналіз
+  загроз інформаційної безпеки та способів попередження вторгнень
+Ужва А. В. 
+  Тишкевич Д. В. 
+  Тустановський В. В.
+Конрад Т.І.
+9
+Comprehensive  module  for
+  charging and using discounts
+Maxim Chemeris
+Vitkovska І.І.
+10
+Переваги ручного
+  тестування в умовах автоматизації
+Катерина Гордієнко
+Вітковська І.І.
+11
+Побудова стратегії автоматизованого тестування
+Катерина Новосьол
+Вітковська І.І.

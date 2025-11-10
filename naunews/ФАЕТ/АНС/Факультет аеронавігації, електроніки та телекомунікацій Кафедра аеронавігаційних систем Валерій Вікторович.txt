@@ -1,0 +1,178 @@
+Заголовок:Валерій Вікторович
+Конін
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/cadre_konin_ua
+==================================================
+Співробітники кафедри
+
+Конін Валерій ВікторовичВалерій Вікторович
+Конін
+доктор технічних наук
+професор, старший науковий співробітник
+професор кафедри АНС
+E-mail: valerii.konin@npp.kai.edu.ua
+ORCID: 0000-0003-4467-4245
+Google Scholar
+SCOPUS
+RG
+Google Scholar
+Конін Валерій Вікторович (1943, Рибінськ, Росія), заслужений машинобудівник України, почесний працівник космічної галузі. У 1969 році закінчив Рибінський авіа-технологічний інститут (нині Рибінська державна авіаційна технологічна академія імені П.А.Соловйова) за фахом конструювання та виробництво радіоапаратури (дипломний проект «Приймально-передавальна антена доплерівського вимірювача швидкості і кута зносу літака»).
+
+
+У 70-х роках займався дослідним виробництвом, серійним освоєнням і розробкою перших радянських доплеровских вимірювачів швидкості і кута зносу, встановлених на повітряних суднах, ракетах і міжпланетної станції. Потім його наукова і практична діяльність була пов'язана з розробкою радіотехнічних систем для нового покоління кораблів ВМФ СРСР, зокрема, авіаносців.
+
+
+Науковим підсумком цієї роботи став захист докторської дисертації з теорії та техніки понадбагатоканальних мікрохвильових систем фазованих антенних решіток (1992 рік). Починаючи з 90-х років і по теперішній час займається дослідженнями і розробками в області систем і апаратури супутникової радіонавігації. Безпосередньо брав участь у розробці, впровадженні, серійному освоєнні і виробництві високотехнологічної науково-технічної продукції спеціального призначення за 17 темами.
+
+Сфера наукових інтересів: супутникова радіонавігація, теорія і техніка мікрохвильових систем, комп'ютерне моделювання, техніка експерименту.
+
+Має более 200 наукових праць, у тому числі 17 винаходів і патентів.
+
+Публікації
+1982
+Конин В. В. Полосковые делители СВЧ-мощности/В. В. Конин, Н. С. Сыч// Обзор.- Л.: ЦНИИ "Румб", 1982.- 35 с. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25215
+1984
+Конин В. В. Микроэлектронные устройства СВЧ/Н.Т. Бова, Ю. Г. Ефремов, В. В. Конин, Б. Д. Солганик. - К.: Техніка, 1984 .-184 с. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25234
+1994
+Антенны и устройства СВЧ. Проектирование фазированных антенных решеток/ Воскресенский Дмитрий Иванович, Филипппов Владимир Сергеевич, Конин Валерий Викторович, всего 17 авторов// Москва "Радио и связь", 1994 Доступно: http://er.nau.edu.ua:8080/handle/NAU/25183
+1997
+Конин В. В. Линейные многоканальные устройства сверхвысоких частот/ В. И. Гостев, В. В. Конин, Мацепура А. Л.// Киев: Радіоаматор, 1997.- 315 с. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25230
+2001
+Конин В. В. Обеспечение точных заходов на посадку методами спутниковой навигации в системе CNS/ATM Украины/ В.В.Загоруйко, В.В.Конин// Космічна наука і технология. –2001. – том 7, №4.– С. 25 – 30 Доступно: http://er.nau.edu.ua:8080/handle/NAU/25600
+Конин В. В.Обеспечение точных заходов на посадку методами спутниковой навигации/ В. В. Конин, В. В. Загоруйко// Матеріали III Міжнар. наук.–техн. конф."Авіа-2001", 24- 26 квітня 2001 р. - К.: НАУ.– 2001. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25233
+Конин В. В. Вопросы развития авиационной радиосвязи в Украине/В. В. Загоруйко, В. В. Конин// Матеріали III Міжнар. наук.–техн. конф."Авіа-2001", 24- 26 квітня 2001 р. - К.: НАУ.– 2001.– C. 7.101 - 7.103. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25605
+Конин В. В. Модулятор канала предачи данных спутниковой системы посадки воздушных судов/ Э.А. Ковалевский, В. В. Конин, И. А. Липовой// Матеріали III Міжнар. наук.–техн. конф."Авіа-2001", 24- 26 квітня 2001 р. - К.: НАУ.– 2001.– C. 7.38 - 7.41. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25604
+Конин В. В. Обеспечение точных заходов на посадку методами спутниковой навигации/В. В. Загоруйко, В. В. Конин// Матеріали III Міжнар. наук.–техн. конф."Авіа-2001", 24- 26 квітня 2001 р. - К.: НАУ.– 2001.– C. 7.104 - 7.107. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25606
+2003
+Konin, V. User’s data positioning by GPS and GLONASS navigation satellites measurements/ V. Konin, V. Kharchenko, A. Pohurelsky// The World Congress “Aviation in the XXIst Century». – Kyiv.: NAU. – 2003. – P. 5.40 – 5.46. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25598
+2004
+Конин В. Способы и средства оценки тактико-технических характеристик широкозонных функциональных дополнений GPS (GNSS)/ В.П. Харченко, А.А. Жалило, В.В. Конин, В.М. Кондратюк// Матеріали VI Міжнар. наук.–техн. конф."Авіа-2004".– К.: НАУ.– 2004.– Т2.–C. 21.16 - 21.22. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25608
+Конин В. В. Оценка возможности создания системы наблюдения за движением самолетов и других подвижных объектов по поверхности аэродромов/Е.Т.СКОРИК, В.М. КОНДРАТЮК, В.В. КОНИН// Матеріали VI Міжнар. наук.–техн. конф."Авіа-2004".– К.: НАУ.– 2004.– Т2.–C. 21.30 - 21.34. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25609
+Конин В.В. Зарубежный опыт создания и применения систем FIS (FLIGHT INSPECTION SYSTEMS) для контроля характеристик и сертификации авионики и аэронавигационного обеспечения воздушных судов с использованием DGPS (DGNSS) подсистем/ В.П. Харченко, А.А. Жалило, В.В. Конин, В.М. Кондратюк// Матеріали VI Міжнар. наук.–техн. конф."Авіа-2004".– К.: НАУ.– 2004.– Т2.– C. 21.1 - 21.9. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25611
+Конин В. В. Методики экспериментальной оценки навигационных характеристик широкозонных функциональных дополнений GPS (GNSS)/ В.П. Харченко, А.А. Жалило, В.В. Конин, В.М. Кондратюк// Матеріали VI Міжнар. наук.–техн. конф."Авіа-2004".– К.: НАУ.– 2004.– Т2.– C. 21.10 - 21.16. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25622
+Конин В. В. Системы контроля характеристик выдерживания высоты летательных аппаратов/ Е.Т.СКОРИК, В.М. КОНДРАТЮК, В.В. КОНИН// Матеріали VI Міжнар. наук.–техн. конф."Авіа-2004".– К.: НАУ.– 2004.– Т2.–C. 21.24 - 21.28. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25623
+2005
+Konin V. V. COMPUTER - AIDED SYSTEM OF NAVIGATION SYSTEMS ACCESSIBILITY FORECASTING/V.V. Konin, О.P. Sushich, D.Babeychuk, S.V. Vodopianov// Proceedings of the Second World Congress “ Aviation in the XXI- st Century” . Kyiv, Ukraine, 2005.- P. 3.57-3. 61. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25624
+Konin V. V. SATELLITE AERONAVIGATION CENTER OF NATIONAL AVIATION UNIVERSITY/ V. Kharchenko, V. Konin// Proceedings of NАU. 2005. №2. – P. 72-77. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25645
+2006
+Конин, В. Экспериментальная оценка точности GPS-навигации и геодезической съемки в г. Киеве с использованием дифференциальных VBS&HP-коррекций/ В.П. Бабак, А.А. Жалило, В.М. Кондратюк, В.В. Конин, В.Г. Сушко, В.П. Харченко, Д.А. Шелковенков, В.М. Шокало// VII Международная научно-техническая конференция “АВІА-2006 Национальный авиационный університет Киев, Украина, 25-27 сентября 2006 г. Презентация на 35 слайдах. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25597
+2007
+Конин В. В. Спутниковые системы связи, навигации, наблюдения, Киев, 2007, - 246 с. Доступность: http://er.nau.edu.ua:8080/handle/NAU/25226
+Конин В. GPS-навигация и геодезическая съемка - результаты экспериментальной верификации технологии OMNISTAR/ А. А. Жалило, В. М. Кондратюк, В. В. Конин, В. Г. Сушко, В. П. Харченко, Д. А. Шелковенков, В. М. Шокало, А. В. Куценко// Научный вестник ГосНИИ „АЭРОНАВИГАЦИЯ”. М. : Государственный НИИ Аэронавигации.– 2007.–№ 7.– C. 28- 36. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25602
+2008
+Конин В. В. Використання сигналів різних частот супутника для підвищення точності навігаційних визначень/ В. В. Конин, Э. А. Ковалевский, А. С. Погурельский// Вісник Національного авіаційного університету.– 2008.– № 1.– C. 8- 11. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25243
+Конин В. В. Спутниковые системы навигации. Учебное пособие/ В. Конин, Л. А. Конина// Электронная библиотека системы федеральных образовательных порталов.ФГУ ГНИИ «Информатика» Министерства образования и науки Российской федерации. Рег. № 90 - 01/001. М.: 2008.– 287 с Доступность: http://er.nau.edu.ua:8080/handle/NAU/25225
+2009
+Конин В. В. Модель сигналу системи GALILEO з новим типом модуляції ВОС/В. В. Конин, О. С. Савчук// Авіа-2009: IX міжнар. наук.-техн. конф., 21–23 вересня 2009 р.: тези доп. –К., 2009. – Т.1.– С.7.21-7. 24. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25514
+Конін В. В. Дослідження ефективності навігаційних визначень при використанні систем GPS та ГЛОНАСС /В. В. Конін, О.С. Погурельський// Авіа-2009: IX міжнар. наук.-техн. конф., 21–23 вересня 2009 р.: тези доп. –К., 2009. – Т.1.– С.7.25-7. 28 Доступно: http://er.nau.edu.ua:8080/handle/NAU/25515
+Конин В. В. Определение траектории и параметров движения объекта методом пассивной локации/Медведев В. П., Конина Л. А., Конин В. В.// Авіа-2009: IX міжнар. наук.-техн. конф., 21–23 вересня 2009 р.: тези доп. –К., 2009. – Т.1.– С.7.33-7. 36 Доступно: http://er.nau.edu.ua:8080/handle/NAU/25513
+Конін В. В. Методика оцінки параметрів цілісності авіаційною контрольно-корегувальною станцією/В. В. Конін, О. В. Куценко// Вісник Інженерної академії України: зб. наук. праць. – К.: Національний університет кораблебудування ім. адм. Макарова.– 2009.– вип. 1.– С. 12-17. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25467
+2011
+Формирование псевдослучайного кода сигнала Е5 спутниковой радионавигационной системы GALILEO / В.В. Конин, А.А. Юрчук, В.Н. Шутко // Радиотехника: Всеукр. межвед. науч.-техн. сб. 2011. Вып. 167. С. 148-152. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25447
+Конин В. В. Особенности эфемеридного обеспечения действующих и перспективных спутниковых радионавигационных систем/ В. В. Конин, А. С. Погурельский// АВІА-2011: X міжнар. наук.-техн. конф., 19-21 квитня 2011 р. : тези доп. –К.: НАУ, 2011.– Т2.– С.8. 7 – 8. 9. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25487
+Конін В. В. Модель сигналу системи GALILEO на частоті E1/ В. В. Конін, А. О. Юрчук, В. М. Шутко// Четверта міжнар. науково- практ. конф. «Інтегровані інтелектуальні робото технічні комплекси», 23-25 травня 2011 р.: К.: НАУ, 2011.– C. 92 – 94.
+Конин В. В. Исследование и развитие методов расчета эфемерид спутниковой системы ГЛОНАСС на текущий момент времени/В. В. Конин, К. О. Миронов//4-й Международ. радиоэлектронный форум «Прикладная радиоэлектроника. Перспективы развития», 18-21 жовтня 2011р.: тези доп. – Харьков: ХНУРЕ, 2011.– С.74 - 78. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25491
+Конин В. В. Исследование точности позиционирования при минимальніх объединенных конфигурациях GPS и ГЛОНАСС/В. В. Конин, А. С. Погурельский// Вісник Інженерної академії України: зб. наук. праць. – К.: Національний університет кораблебудування ім. адм. Макарова, 2011.– вип. 1.– С. 35-39 Доступно: http://er.nau.edu.ua:8080/handle/NAU/25512
+Конин В. В. Формирование псевдослучайного кода сигнала Е5 спутниковой радионавигационной системы GALILEO / В.В. Конин, А.А. Юрчук, В.Н. Шутко // Радиотехника: Всеукр. межвед. науч.-техн. сб. 2011. Вып. 167. С. 148-152. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25447
+2012
+Konin V. V. GNSS technology landing system option for flying machine/ V. V. Konin, E.A. Kovalevskiy, T.I. Olevinska // Proceedings Fifth World Congress “Aviation in the XXI– st Century” . “Safety in Aviation and Space Technologies” – V. 2, September 25-27 2012 .– K.: NAU, Ukraine.– P. 3.2.21 – 3.2.24. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25424
+Устройства СВЧ и антенны. Проектирование фазированных антенных решеток/ Д.И. Воскресенський, В. С. Филлипов, В.М. Максимов, В. В. Конин, та інши, всього 32 осіби. Учебное пособие для ВУЗов.– М.: Радиотехника, 2012. .– 744 с.
+Konin V. V. Research of EGNOS reliability in Kiev/ V. V. Konin, F.O. Shyshkov// Proceedings Fifth World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 25–27, 2012 .– Kyiv: NAU, 2012. – V.2, – P. 3.2.45 – 3.2.50. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25425
+Konin V. V. Monitoring and control technical means used in airport infrastructure based on GNSS/ V. V. Konin, K.O. Mironov // Proceedings Fifth World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 25–27, 2012 .– Kyiv: NAU, 2012. – V.2, – P. 3.2.59- 3.2.6. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25426
+Konin V. Results of complex processing GPS and GLONASS data in case of restricted visibility of navigation satellites/ V. Konin, O. Pogurelskiy //Proceedings Fifth World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 25-27, 2012 .– Kyiv: NAU, 2012. – V.2. – P.3.2.61-3.2.64. Доступно: Доступно: Доступно: Доступно: http://er.nau.edu.ua:8080/handle/NAU/25427
+Конін В. В. Розповсюдження супутникових сигналів в міських умовах, ефект багатопроменевости/ А. О. Юрчук, В. М. Шутко, В. В. Конін, О. О. Колганова, О. О. Кучерук // Вісник Інженерної академії України: зб. наук. праць. – К.: Національний університет кораблебудування ім. адм. Макарова, 2012.– вип. 3-4.– С. 46-49.
+Конін В. В. Побудова характеристик виявлення супутникового сигналу з наявністю ефекту багатопроменевості/ В. М. Шутко, А. О. Юрчук, В. В. Конін //Науковий вісник Академії муніципального управління: зб. наук. праць. – К.:АМУ, 2012.– вип. 5.– С. 214 - 217.
+2013
+Конин В. В. Сплайн-аппроксимация c аналитическими связями для корреляционных последовательностей и модификации оператора свертки/ А. А. Юрчук, В. Н. Шутко, Е. О. Колганова, В. В. Конин // Современная наука: Актуальные проблемы теории и практики: сб. научных трудов. – М.: ООО НАУЧНЫЕ ТЕХНОЛОГИИ, 2013.– № 7/8.– С. 16 - 20. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25644
+Конін В. В. Особливості визначення рівнів захисту супутникової системи посадки/ В. В. Конін, О. В. Куценко //АВІА–2013: XI Міжнар. наук.-техн. конф., 21-23 травня 2013 р.: тези доп. – К., 2013.– Т2.– С.7. 9-7. 12. Доступна: http://er.nau.edu.ua:8080/handle/NAU/25439
+Конин В. В. Применение метода наименьших квадратов и фильтра Калмана в алгоритме решения навигационной задачи/ В. В. Конин, А. С. Погурельский//АВІА – 2013: XI Міжнар. наук.–техн. конф., 21-23 травня 2013 р.: тези доп. – К., 2013.– Т2.– С.7. 17-7. 20. Доступна: http://er.nau.edu.ua:8080/handle/NAU/25440
+Конин В. В. Доступность GNSS для беспилотной авиации/ В. В. Конин // АВІА –2013: XI Міжнар. наук.–техн. конф., 21-23 травня 2013 р.: тези доп. – К., 2013.– Т2.– С.9. 31-9. 34. (Доступно http://er.nau.edu.ua:8080/handle/NAU/25227).
+Конін В. В. Метод покращенного виявлення супутникових сигналів, який базується на основі модифікації оператора згортки/ А. О. Юрчук, В. М. Шутко, В. В. Конін, О. О. Колганова // Авіа–2013: XI Міжнар. наук.–техн. конф., 21-23 травня 2013 р.: тези доп. – К., 2013.– Т2.– С.13. 1-13. 4. Доступна: http://er.nau.edu.ua:8080/handle/NAU/25441
+Конін В. В. Визначення цілісності сигналів у просторі супутниковою системою посадки повітряних суден/ В. В. Конін, О. В. Куценко //П,ята міжнар. наук.–практич. конф. Сучасні інформаційні та інноваційні технології на транспорті, 28–30 травня 2013 р.: тези доп. – Херсон: Херсоньска державна морська академія, 2013. –Т1.– С. 17 - 20. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25488
+Конін В. В. Використання сплайн-апроксимації з аналітичним зв’язком для первинної обробки супутникових сигналів/ А. О. Юрчук, В. М. Шутко, В. В. Конін, О. О. Колганова// Міжнар. наук. конф. Статистичні методи обробки сигналів і даних,16 – 17 жовтня 2013 р.: тези доп. – К., 2013 .– С. 170 – 173. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25442
+Konin V. V. Satellite Signal Detection Method Based on Modification Compression Opperator/ A. A. Yurchuk, E. O. Kolganova, V. N. Shutko , V. V. Konin // Electronics and Control Systems. – 2013.– N 3 (37).– P. 27 - 32. (Доступно http://er.nau.edu.ua:8080/handle/NAU/25241)
+Konin V. V. GNSS TECHNOLOGY DETERMINATION OF FLYING MACHINE GUIDANCE PARAMETERS/ V. V. Konin, E.A. Kovalevskiy, T.I. Olevinska //Proceedings of the National Aviation University. – 2013.– N 3 (56).– P. 18 – 21. (Доступна http://er.nau.edu.ua:8080/handle/NAU/25242)
+2014
+Конін В. В. Точність наземного обладнання супутниковой системи посадки/В. В. Конін, О. В. Куценко// П,ята міжнар. наук.–практич. конф. Сучасні інформаційні та інноваційні технології на транспорті, 27–29 травня 2014 р.: зб. матеріалів конф. – Херсон: Херсоньска державна морська академія. – 2014. –Т1.– С. 41 - 44. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25489
+Konin V. Simmulation of navigation satellites availability in the near-earth space/ V. Konin, O. Pogurelskiy, F. Shyshkov// Proceedings, THE SIXTH World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 23–25 2014 .– Kyiv: NAU.– 2014. – V.2. – P. 3.2.26-3.2.29. (Доступно http://er.nau.edu.ua:8080/handle/NAU/25238).
+Konin V. Model for navigation satellite availability on various Orbits analysis/ V. Konin, O. Pogurelskiy, F. Shyshkov// Proceedings, THE SIXTH World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 23–25 2014 .– Kyiv: NAU. – 2014. – V.2, – P. 3.2.22 – 3.2.25. (Доступно: http://er.nau.edu.ua:8080/handle/NAU/25239).
+Konin V. Initial analysis of space debris hazard/V. Konin, O. Pogurelskiy, F. Shyshkov// Proceedings, THE SIXTH World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 23–25 2014 .– Kyiv: NAU. – 2014. – V.2, – P. 3.2.18 – 3.2.21 (Доступно http://er.nau.edu.ua:8080/handle/NAU/25240).
+Konin V. Near-earth space navigation using over-the-hopizonsatellites/ V. Konin, O. Pogurelskiy, F. Shyshkov//5-й Междунар. радиоэлектронный форум «Прикладная радиоэлектроника. Cостояние и перспективы развития», 14-17 жовтня 2014р.: тези доп. – Харьков.–2014.–Т. 1.–С. 205 -206. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25511
+Konin V. Aircraft Landing Flare/ E. Kovalevskiy, V. Konin , T. Olevinska // Proceedings of the National Aviation University. – 2014.– N 2 (59).– P. 15 - 17. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25444
+Конин В. В. Спутниковые навигационные системы в неустойчивом радионавигационном поле/ Вісник Інженерної академії України: зб. наук. праць. – К.: Національний університет кораблебудування ім. адм. Макарова, 2014.– вип. 2.– С. 14-19. (Доступна http://er.nau.edu.ua:8080/handle/NAU/25237).
+Конін В. В. Оцінки координат виміряних супутниковою навігаційною системою ГЛОНАСС/ В. В. Конін, Б. В. Мельничук //Свідоцтво про реєстрацію авторського права на твір №55980 (08.08.2014).
+Конін В. В. Оцінки координат виміряних супутниковою навігаційною системою GPS/ В. В. Конін, В. О. Захарова//Свідоцтво про реєстрацію авторського права на твір №55985 (08.08.2014).
+2015
+Конін В. В. Розрахунок геометричних факторів супутникових навігаційних систем/В. В. Конін, В. С. Коршак //Свідоцтво про реєстрацію авторського права на твір №58601 (12.02.2015).
+Конін В. В. Модуль оцінки вимірювальної інформації GNSS приймача безпілотного апарата/ В. В Конін., Д.С. Рудніченко //Свідоцтво про реєстрацію авторського права на твір №58594 (12.02.2015).
+Конін В. В., Лахтадир А.В. Розрахунок часу в супутникових навігаційних системах/ В. В. Конін, А.В. Лахтадир //Свідоцтво про реєстрацію авторського права на твір №59467 (29.04.2015)
+Konin V. Acceleration of GNSS applications development and facilitation of their broad acceptance in Ukraine through international cooperation and own experience/ V. Kharchenko, V. Konin, V. Kondratyuk, S. Ilnytska, O. Kutsenko, E. Vyshnyakova, T. Shmelyova, F. Shyshkov // Авіа–2015: XV Міжнар. наук.–техн. конф., 28-29 квітня 2015 р.: тези доп. – К.: NAU.–2015.– С. 8. 89 - 8. 101. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25410
+Конин В. В. Геометрический фактор созвездий геостационарных спутников/ Авіа–2015: XV Міжнар. наук.–техн. конф., 28-29 квітня 2015 р.: тези доп. – К.: NAU.– 2015.– С. 8. 27 - 8. 30.\ Доступно: http://er.nau.edu.ua:8080/handle/NAU/25409
+Konin V. Extending the Reach of SBAS Some Aspects of EGNOS Performance in Ukraine/ V. Konin, F. Shyshkov //InsideGNSS. – Januaru– February, 2015. – P.50 – 54. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25445
+Konin V. European geostationary navigation overlay service in Ukraine/ V. Konin, F. Shyshkov//Proceedings of the National Aviation University. – Kyiv: NAU. – 2015. – V. 2. – P. 23-26. (Доступна: http://er.nau.edu.ua:8080/handle/NAU/25236)
+Konin V. GNSS availability on geostationary orbit/ V. Konin, O. Pogurelskiy, F. Shyshkov //5-я международная конференция «Космические технологии: настоящее и будущее» 18 – 21 мая 2015 года: тезисы доклада.- Днепропетровск : КБ «Южное» . –2015. – С. 82. (Доступна http://er.nau.edu.ua:8080/handle/NAU/25209)
+Конин В. В. СПУТНИКОВАЯ НАВИГАЦИЯ В НАЦИОНАЛЬНОМ АВИАЦИОННОМ УНИВЕРСИТЕТЕ (Презентация)/ Всеукраїнська науково-практична конференція "Інноваційні геопросторові технології корпорації Trimble для землеустрою та кадастру", 19 ноября 2015. Доступна: http://er.nau.edu.ua:8080/handle/NAU/25208.
+2016
+Конин В. В. Перспективы развития GNSS в Украине./В. В. Конин// Вісник Інженерної академії України: зб. наук. праць. – К.: Національний університет кораблебудування ім. адм. Макарова.–2016.–вип. 2.– С. 13-18. Доступна: http://er.nau.edu.ua:8080/handle/NAU/25212
+Конин В. В. Перспективы развития GNSS в Украине/ VI міжнародна науково-технічна конференція «ITSEC» (Презентация), (The 6th International Scientific Conference «ITSEC»), 17-19 мая 2016 г. (Доступна презентация http://er.nau.edu.ua:8080/handle/NAU/25211)
+Konin V. Autonomous navigation of service spacecrafts on geostationary orbit using GNSS signals/ V. Konin, F. Shyshkov//Radioelectronics and Communications Systems.– 2016.– Vol. 59.– No. 12.– P. 562-566. © Allerton Press, Inc., 2016. Доступно: DOI: 10.3103/S0735272716120049; http://er.nau.edu.ua:8080/handle/NAU/25255
+Конин В. В. Супутникова навігація космічних апаратів у нестійкому навіга- ційному полі в задачах утилізації космічного сміття (Презентация НДР №945-ДБ14, № держреєстрацiї 0114U001602)/ Конін В. В., Погурельський О. С., Кондратюк В. М.,Ковалевський Е. О.Ільницька С., Ясенко С., Сушич О. П., Куценко О., Олевінська Т.,НАУ, 2016. Доступна презентация: http://er.nau.edu.ua:8080/handle/NAU/25216.
+Конин В. В. Определение приборной скорости самолета без системы воздушных сигналов/ В. В. Конин, Т. И. Олевинская //Вісник інженерної академії України.– 2016.–№ 3.– С. 15 - 18. Доступна: http://er.nau.edu.ua:8080/handle/NAU/25258.
+Konin V. V. Activities of the National Aviation University in "UKRAINE" project of Horizon2020 to foster EGNSS implementation in aviation sphere in Ukraine/V.P. Kharchenko, V.V. Konin, V.M. Kondratiuk, S.I. Ilnytska, F.O. Shyshkov// Proceedings, THE SEVENTH World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 19–21, 2016 .– Kyiv: NAU.– 2016.– P. 3.6.31 - 3.6.35. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25483
+Konin V. V. Concept of group debris cleaning using unmanned servicing spacecraft/ V.V. Konin, E.A. Kovalevskiy, F.O. Shyshkov// Proceedings, THE SEVENTH World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 19–21, 2016.– Kyiv: NAU.– 2016.– P.2.34 – 2.37. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25485
+Konin V. V. Determination of the indicated air speed without data from pitot tubes/ V.V. Konin, T.I. Olevinska// Proceedings, THE SEVENTH World Congress. Aviation in the XXI- st Century. Safety in Aviation and Space Technologies, September 19–21, 2016 .– Kyiv: NAU.– 2016, – P.2.22 -2.26. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25486
+Конин В. В. Модель для оценки доступности спутников навигационных систем для объектовна высотах до 36 000 км/ В.В. Конин, А.С. Погурельский, Ф.А.Шишков// 14-а УКРАЇНСЬКА КОНФЕРЕНЦІЯ З КОСМІЧНИХ ДОСЛІДЖЕНЬ (14th UKRAINIAN CONFERENCE ON SPACE RESEARCH), September, 8 – 12, - Uzhgorod , 2014. – P. 100. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25408
+Конин В. В. Тестирование модели для оценки доступности спутников навигационных систем на высотах до 36 000 км/ В.В. Конин, А.С. Погурельский, Ф.А.Шишков//14-а УКРАЇНСЬКА КОНФЕРЕНЦІЯ З КОСМІЧНИХ ДОСЛІДЖЕНЬ (14th UKRAINIAN CONFERENCE ON SPACE RESEARCH), September, 8 – 12, - Uzhgorod , 2014. – P. 127. http://er.nau.edu.ua:8080/handle/NAU/25406
+Valeriy Konin; Fedir Shyshkov; Olexiy Pogurelskiy. Estimation of coordinates on geostationary orbit by using GNSS signals.- EEE, : 2016. - 32 – 35 DOI: 10,1109 / RMSW.2016.7778544
+Конин В. В. Экспериментальное исследование точности определения координат по сигналам GALILEO/В.Конин, А. Шаваран//Науково-технічна конференція «ПРОБЛЕМИ РОЗВИТКУ ГЛОБАЛЬНОЇ СИСТЕМИ ЗВ’ЯЗКУ, НАВІГАЦІЇ, СПОСТЕРЕЖЕННЯ ТА ОРГАНІЗАЦІЇ ПОВІТРЯНОГО РУХУ CNS/ATM». – Київ 21 - 23 листопада 2016 р. – К.:НАУ. – 2016. – С. 11. Доступно: http://er.nau.edu.ua:8080/handle/NAU/25443
+Конин В., Шишков Ф. EGNOS PEGASUS Report on 1.09.16/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on 5.09.16/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (26.09.16, 26.09.16)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (13.09.16 20.09.16)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (15.11.16, 22.11.16)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (23.11.16, 29.11.16)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on 13.12.16/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on 07.12.16/asc.nau.edu.ua/files/EGNOS_Monitoring
+2017
+Конин В. В. Методика моніторингу характеристик EGNOS із застосуванням програмного забезпечення PEGASUS/В. Конін, О. Погурельський, Ф. Шишков // Авіа–2017. Матеріали XIII Міжнар. наук.–техн. конф., 19-21 квітня 2017 р. – К.: НАУ.– 2017.– С. 12. 72 - 12. 76.
+Konin V. Use of GNSS for autonomous navigation on medium Earth orbits/ V. Konin, O. Pogurelskiy, F. Shyshkov// Авіа–2017. Матеріали XIII Міжнар. наук.–техн. конф., 19-21 квітня 2017 р. – К.: НАУ.– 2017.– С. 12. 25 - 12. 29.
+Kutsenko O, Ilnytska S, Konin V. TROPOSPHERE PARAMETERS CALCULATION AND RESIDUAL ERROR MODELING FOR GNSS LANDING SYSTEM/ Proceedings of the 20th Conference for Junior Researchers ‘Science – Future of Lithuania’ TRANSPORT ENGINEERING AND MANAGEMENT, 12 May 2017, Vilnius, Lithuania. - P. 63-68.
+Конин В. Экспериментальная оценка применения высокоточных технологий GNSS для посадки воздушных судов малой авиации/В. Конин, А. Куценко, Т. Олевинская////Вісник інженерної академії України.– 2017.–№ 1.– С. 8 - 13.
+Конин В., Шишков Ф. EGNOS PEGASUS Report on 16.01.17/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (26.01.17, 27.01.17, 31.01.17)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (23.01.17, 24.01.17, 25.01.17)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (14.02.17, 15.02.17, 17.02.17, 20.02.17)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф. EGNOS PEGASUS Report on (21.02.17, 22.02.17,-23.02.17,24.02.17,25.02.17,27.02.17,8.02.17) /asc.nau.edu.ua/files/EGNOS_Monitoring
+Конин В., Шишков Ф.,Погурельский А. EGNOS PEGASUS Report on (01.03.17, 03.03.17, 07.03.17)/asc.nau.edu.ua/files/EGNOS_Monitoring
+Konin V., Pogurelskiy O., Shyshkov F. Differences in Measurements with Separate use of Frequencies L1 and L2 for the Application of Satellite Navigation in Near-Earth Space/2017 IEEE Microwaves, Radar and Remote Sensing Symposium Proceedings. - Kyiv, Ukraine, August, 29-31, 2017. – p. 67-70. ( Scopus).
+Kharchenko V.,Konin V., Olevinska T. Aircraft navigation efficiency improving during landing using satellite navigation system. / Proceedings of the National Aviation University. – Kyiv: NAU, 2017. – V. 4. – P. 8 – 17.
+Конин В., Шишков Ф. Графоаналітична модель інтегрального оцінювання якості супутникової навігації на геостаціонарній орбіті./ Вісник Інженерної академії України: зб. наук. праць. –2017.– вип. 4.– С. 21-25.
+Kutsenko O.V. , Ilnytska S.I., Kondratyuk V.M., Konin V. V. Unmanned Aerial Vehicle Position Determination in GNSS Landing System./ 2017 IEEE 4th International Conference Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD, Proceedings), 17-19 Oct. 2017. –K. – P. 79-83. ( Scopus).
+2018
+Konin V., Kutsenko O., Lukianenko E.. Ilnytska S. Experimental Investigation of Multi-GNSS in Static Mode./ 2018 IEEE 5th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC, Proceedings), 16-18 Oct. 2018. –K. – P. 179-182. ( Scopus).
+Kutsenko O., Ilnytska S., Konin V. Investigation of the residual tropospheric error influence on the coordinate determination accuracy in a satellite landing system./ Aviation. 22, 4 (Dec. 2018). – P. 156-165. ( Scopus).
+2019
+Shyshkov F., Konin V. Computer Modelling of Autonomous Satellite Navigation haracteristics on Geostationary Orbit. // Cases on Modern Computer Systems in Aviation. – Hershey: IGI Global, 2019.- P. 311-338. DOI: 10.4018/978-1-5225-7588-7.ch013.
+Kondratyuk V., Konin V., Kutsenko O., Ilnytska S. Testing Static and Kinematic Modes of Precise Point Positioning Service in Ukraine/Radioelectronics and Communications Systems.– 2019.– Vol. 62.– No. 10.– P. 530-540.- Allerton Press, Inc., 2019. DOI: 10.3103/S0735272719100054 (Scopus).
+S. Ilnytska, V. Kondratiuk, O. Kutsenko and V. Konin, "Potential Possibilities of Highly Accurate Satellite Navigation Use for Landing Operations of Unmanned Aerial Systems," 2019 IEEE 5th International Conference Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD), 2019, pp. 174-177, doi: 10.1109/APUAVD47061.2019.8943873.
+2020
+Y. Averyanova, O. Kutsenko and V. Konin, "Interference Suppression at Cooperative Use of GPS, GLONASS, GALILEO, BEIDOU," 2020 IEEE Ukrainian Microwave Week (UkrMW), 2020, pp. 1-5, doi: 10.1109/UkrMW49653.2020.9252766. (Scopus)
+Experimental estimation of GNSS performances at the national aviation university/V. Kharchenko, V. Konin, O. Pogurelsky and E. Stativa//E3S Web Conf., 164 (2020) 03052. – pp. 1-10, DOI: https://doi.org/10.1051/e3sconf/202016403052 (Scopus).
+Руденко А. П., Конін В. В. Система моніторингу радіонавігаційного поля України/Всеукраїнська науково-практична конференція «Проблеми аеронавігації, електроніки та телекомунікацій», 26-27 листопада 2020 р._ 2020. - С. 92 – 94.
+2021
+V. Konin, O. Pogurelskiy, I. Pryhodko and T. Maliutenko, "Methods for Research and Study GNSS in Remote Mode," 2021 IEEE International Conference on Information and Telecommunication Technologies and Radio Electronics (UkrMiCo), 2021, pp. 195-198, doi: 10.1109/UkrMiCo52950.2021.9716655. (Scopus)
+V. Konin, O. Pogurelskiy and A. Turovska, "Simulation and Estimation Parameters of Low Orbit Satellite Navigation System," 2021 IEEE International Conference on Information and Telecommunication Technologies and Radio Electronics (UkrMiCo), 2021, pp. 160-163, doi: 10.1109/UkrMiCo52950.2021.9716604. (Scopus)
+Y. Averyanova, O. Kutsenko, V. Konin. METHOD OF GPS, GLONASS, GALILEO, AND BEIDOU SYSTEMS SPOOFING SUPPRESSION. - Telecommunications and Radio Engineering 80(7):51–64 (2021). DOI: 10.1615/TelecomRadEng.2021037162. Scopus
+Конін В.В. МОДЕЛЮВАННЯ ХАРАКТЕРИСТИК СУПУТНИКІВ У НИЗЬКООРБІТАЛЬНОМУ КОСМІЧНОМУ ПРОСТОРІ/ ІV науково-практична конференція «Аерокосмічні технології в Україні: проблеми та перспективи»/ - 9-10 вересня 2021 року, 2021. – c. 29-30.
+O. Kutsenko, Y. Averyanova and V. Konin, "Simulation of Four- Directional Spoofing Suppression with Five-Elements Antenna Array," 2021 IEEE 3rd Ukraine Conference on Electrical and Computer Engineering (UKRCON), 2021, pp. 213-216, doi: 10.1109/UKRCON53503.2021.9575929.( Scopus)
+V.V. Konin, PhD, O.M. Ishchenko, A.V. Krisko, N.V. Maksymenko. Experimental research and modeling of the parameters of the Quasi-Zenith Satellite System in Ukraine/ Авіа–2021. Матеріали XXI Міжнар. наук.–техн. конф., 19-21 квітня 2021 р. – К.: НАУ.– 2021.– С. 6.25-6.29.
+F. Shyshkov and V. Konin, “Computer modelling of autonomous satellite navigation characteristics on geostationary orbit,” in Research Anthology on Reliability and Safety in Aviation Systems, Spacecraft, and Air Transport, IGI Global, 2021, pp. 425–452. DOI: 10.4018/978-1-7998-5357-2.ch016 (Scopus)
+V.V. Konin (Dr.techn.), A.Y. Pereima. Investigation of orbital characteristics of spacecraft/ Авіа–2021. Матеріали XXI Міжнар. наук.–техн. конф., 19-21 квітня 2021 р. – К.: НАУ.– 2021.– С. 6.1-6.5.
+Конін В.В., Погурельський О.С., Малютенко Т.Л., Приходько І.А., Сушич О.П. Дистанційне дослідження глобальних навігаційних супутникових систем/ MATLAB та комп’ютерні обчислення в освіті, науці та інженерії, Квітень 24 – 28, 2021 р., Київ.
+2022
+V. Konin, Y. Averyanova and O. Ishchenko, "Aircraft Antenna Array for Spoofing Suppression from Upper and Lower Hemispheres," 2022 IEEE 2nd Ukrainian Microwave Week (UkrMW), Ukraine, 2022, pp. 596-599, doi: 10.1109/UkrMW58013.2022.10037025.
+V. Konin, O. Pogurelskiy, A. Turovska and O. Melnykova, "Monitoring of GNSS Positioning Accuracy in a Given Area," 2022 IEEE 41st International Conference on Electronics and Nanotechnology (ELNANO), 2022, pp. 541-545, doi: 10.1109/ELNANO54667.2022.9927102.
+2023
+Konin, V., Pogurelskiy, O., Prykhodko, I., Maliutenko, T., Sushych, O., Ishchenko, O. (2023). Multi-GNSS in Limited Navigation Satellite Availability. In: Ostroumov, I., Zaliskyi, M. (eds) Proceedings of the International Workshop on Advances in Civil Aviation Systems Development. ACASD 2023. Lecture Notes in Networks and Systems, vol 736. Springer, Cham. https://doi.org/10.1007/978-3-031-38082-2_10.
+Pogurelskiy, O., Konin, V., Prykhodko, I., Maliutenko, T., Sushych, O., Turovska, A. (2023). GNSS Constellation Availability and Positioning Accuracy Outside the Terrestrial Service Volume. In: Ostroumov, I., Zaliskyi, M. (eds) Proceedings of the International Workshop on Advances in Civil Aviation Systems Development. ACASD 2023. Lecture Notes in Networks and Systems, vol 736. Springer, Cham. https://doi.org/10.1007/978-3-031-38082-2_8.
+

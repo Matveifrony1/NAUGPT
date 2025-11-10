@@ -1,0 +1,7 @@
+Заголовок: «Incident Response of the Network – Navigating Cyber Crises» від Cisco Networking Academy
+URL: http://kszi.nau.edu.ua/novini/308-incident-response-of-the-network-navigating-cyber-crises-vid-cisco-networking-academy
+==================================================
+«Incident Response of the Network – Navigating Cyber Crises» від Cisco Networking Academy
+11 грудня 2024 р,. за запрошенням  Cisco Networking Academy (СNA), інструктор СNA, старший викладач кафедри кібербезпеки ФКНТ Олена Дубчак взяла участь у вебінарі від СNA.
+Рейчел Аланья, керівник відділу інформаційної безпеки в СNA (Rachael Alagna, Leader of Information Security at СNA), презентувала доповідь  «Incident Response of the Network – Navigating Cyber Crises» (Реагування на інциденти в мережі — подолання кіберкриз).
+Під час вебінару учасникам була надана можливість отримати не тільки інформацію від спеціаліста з кібербезпеки з реальним досвідом реагування на інциденти, але й набути практичні знання щодо життєвого циклу інцидентів і повного спектру загроз щодо кібербезпеки. Також було презентовано новітні освітні програми СNA, спеціально розроблені для вирішення завдань з кібербезпеки щодо подолання кіберкриз.

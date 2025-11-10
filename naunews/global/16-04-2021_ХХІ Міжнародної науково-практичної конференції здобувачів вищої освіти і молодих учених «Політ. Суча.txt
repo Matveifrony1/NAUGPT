@@ -1,0 +1,81 @@
+Заголовок: ХХІ Міжнародної науково-практичної конференції здобувачів вищої освіти і молодих учених «Політ. Сучасні проблеми науки»
+Дата: 16/04/2021
+URL: https://nau.edu.ua/ua/news/2021/4/hhi-mizhnarodnoi-naukovo-praktichnoi-konferentsii-zdobuvachiv-vishchoi-osviti-i-molodih-uchenih-polit-suchasni-problemi-nauki.html
+==================================================
+
+5 - 9 квітня 2021 року в Аерокосмічному факультеті пройшла ХVІIІ Міжнародна науково-практична конференція молодих учених і студентів «Політ. Сучасні проблеми науки» за напрямом «Сучасні авіаційні технології».
+В роботі конференції прийняло участь більше 100 студентів.
+За результатами роботи секцій розподіл призових місць:
+• Підтримання льотної придатності повітряних суден
+1 місце - Остапчук А.П., НАУ, Київ
+Використання моделювання для управління ризиками в системах підтримання льотної придатності експлуатанта пс в умовах коронавіруса
+Науковий керівник – Салімов Р.М. к.т.н. доцент
+2 місце – Ishunin E.K., NАU, Kyiv
+Importance of fatigue monitoring, flight 243
+Scientific advisor – Voznyuk A.P
+3 місце - Щуровський В.С., НАУ, Київ
+Змінення підходу до технічного обслуговування повітряних суден в умовах пандемії
+Науковий керівник – Салімов Р.М. к.т.н. доцент
+• Авіаційні двигуни та енергетичні установки
+1 місце – Kozlenko M.O., NАU, Kyiv
+Investigation of the effect of hydrogen additions on the performance characteristics of a diesel engine
+Scientific adviser – Andriets O.G, Ph Doctor
+2 місце – Rymarenko Y.O, Antonov Company, Kyiv
+Determination of characteristic of acoustic liners using an impedance tube using the standing wave method
+Scientific adviser – Doroshenko K.V., Dr. Tech. Sc., Docent
+3 місце - Хижняк М.В., НАУ, Київ
+Технологія cfd для моделювання течії в в осьових компресорах
+Науковий керівник - Дорошенко К.В., д-р. т. н.
+• Рідинно-газові системи літальних апаратів
+1 місце - Єременко Р.О., НАУ, Київ
+Віртуальний комплекс для дослідження рідинно-газових систем літальних апаратів
+Науковий керівник – Бадах В.М., с.н.с., доц.
+• Менеджмент технологій аеропортів
+1 місце - Яретик Д.В., НАУ, Київ
+Екологічна безпека сучасних аеропортових технологій
+Науковий керівник – Личик В.І.,ст.. викладач.
+2 місце – Bugay A.V., NАU, Kyiv
+Information technologies in the field of international transportation and logistics
+Scientific supervisor – Mazur V.I., senior lecturer.
+3 місце - Miedviedieva N. A., NАU, Kyiv
+Analysis of energy and ecological efficiency of airports
+• Design,maintanance and diagnostics of aircraft and gas turbines
+1 місце – Nicholas Nwaribe, NAU, Kyiv
+Active magnet bearings
+Scientific supervisor – Gvozdetsky I.I., PhD, Associate Professor
+2 місце – Pikul M., Otroshchenko V. NAU, Kiev
+Analysis of the efficiency of a gas turbine unit with two-stage compression
+Scientific supervisor – Volianska L.G. PhD, Associate Professor
+3 місце – Anyim Iheanyi Micheal, NAU, Kyiv
+Civil aviation authority of nigeria and its history. local and international airports in nigeria
+Scientific supervisor – Gvozdetsky I.I., PhD, Associate Professor
+• Контроль якості, сучасні матеріали та трибо технології в машинобудуванні
+1 місце - Жосан О. Ю. , НАУ, Київ
+Оцінка міцністних характеристик гібридного композиційного матеріалу
+Науковий керівник – Мікосянчик О.О., д-р техн. наук, проф.
+2 місце – Пащенко М. О., НАУ, Київ
+Оцінка пружних характеристик однонаправленого шару композиційного матеріалу
+Науковий керівник – Мнацаканов Р.Г., д-р техн. наук, проф.
+3 місце – Долот Д.В., Пшеничний Д.А., НАУ, Київ
+Розсіювання міцності конструкційних авіаційних вуглепластиків в залежності від конструктивно технологічних чинників.
+Науковий керівник – Семак І. В., ст. викладач
+• Автоматизація та енергоефективність в авіаційній галузі
+1 місце - Пікуль М.О., НАУ, Київ
+Асинхронний двигун з покращеними пусковими характеристиками
+Науковий керівник - Тихонов В.В., к-т техн. наук, доц.
+2 місце – Tovkach S.S., NАU, Kyiv
+Integration of heterogeneous data of the aviation engine control system
+3 місце – Nwaribe Nicholas, NАU, Kyiv
+Aircraft electrical power conversion development
+Scientific adviser – Tovkach S. S., Candidate of Technical Sciences (Engineering), Associate Professor
+• Інформаційні технології в приладобудуванні та енергетиці
+1 місце – Vasylets K.S., NАU, Kyiv
+Uncertainty of electricity measurement over single channel of the metering unit under reduced load
+Scientific supervisor - Kvasnikov V.P., D.Sc., Professor
+• Аеродинаміка та безпека польотів ла
+1 місце - Саттаров А.І., Розбицький В.А., НАУ, Київ
+Чисельне дослідження аеродинаміки крила малого розмаху з об’ємними вихороутворювачами на передній кромці
+Науковий керівник – Ударцев Є.П., д-р техн. наук, проф.
+2 місце – Osadchyi D., Klinduhov A., NАU, Kyiv
+Direct lateral force control system in civil transport aviation
+Scientific supervisor - Oleg Truhan, Associate Professor, Ph.D. in Technology

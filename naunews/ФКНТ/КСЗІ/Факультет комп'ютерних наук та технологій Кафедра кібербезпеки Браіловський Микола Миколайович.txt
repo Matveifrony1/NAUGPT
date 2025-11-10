@@ -1,0 +1,67 @@
+Заголовок:Браіловський Микола Миколайович
+
+Дата: ----------
+URL: https://fit.knu.ua/archives/5652
+==================================================
+Браіловський Микола Миколайович
+Браіловський Микола Миколайович
+
+Кандидат технічних наук, доцент, доцент кафедри кібербезпеки та захисту інформації. 
+
+Вища освіта:
+
+Українська державна академія зв’язку ім. О.С. Попова (м. Одеса) інженер радіозв’язку, радіомовлення та телебачення.
+
+Захищені дисертації:
+
+Кандидатська дисертація:  за спеціальністю 05.13.21 – «Системи захисту інформації».
+Досвід роботи: 
+
+1994 – 2005 рр. Національний авіаційний університет, інженер, аспірант, асистент, доцент кафедри засобів захисту інформації
+Державний університет інформаційно-комунікаційних технологій(Державний університет телекомунікацій):
+– 2005 – 2007 рр. доцент кафедри безпеки інформаційних технологій;
+– 2007 – 2012 рр. завідувач кафедрою комп’ютерних систем та мереж;
+– 2013 – листопад 2014 рр. доцент кафедри комп’ютерних систем та мереж;
+– листопад 2014 – вересень 2015 рр. – докторант;
+– вересень 2015 – січень 2016 рр. – завідувач кафедрою комп’ютерних систем та мереж
+– січень 2016 – вересень 2016 рр. завідувач кафедрою системного аналізу
+вересень 2016 – по теперішній час доцент кафедри кібербезпеки та захисту інформації Київського національного університету імені Тараса Шевченка.
+Наукові праці: 
+
+Більше 130 наукових праць, серед яких 3 монографій, 3 навчальний посібник, понад 50 статей у фахових виданнях України, понад 70 тез доповідей на конференціях.
+
+Профілі:
+
+Google Scholar
+Scopus
+Web of Science
+Researchgate
+Orcid
+Основні публікації:
+
+1. Монографії, підручники, посібники
+
+– Лукова-Чуйко Н.В., С.В. Толюпа, В.С. Наконечний, Браіловський М.М. Системи виявлення вторгнень та функціональна стійкість розподілених інформаційних систем до кібернетичних загроз. : монографія – К.: Формат, 2021. – 407 с. (переглянути)
+– Браіловський М.М. Аналіз кіберзахищенності інформаційних систем: монографія/ Браіловський М.М., Зибін С.В., Кобозева А.А., Хорошко В.О., Хохлачова Ю.Є. К.: ФОП Ямчинський О.В., 2021. – 360 с. (переглянути)
+– Технології захисту інформації: підручник / М.М. Браіловський, С.В. Зибін, І.В. Пискун, В.О. Хорошко, Ю.Є. Хохлачова. – К.: ЦП «Компринт», 2021. – 296 с. (переглянути)
+– Толюпа С.В., Браіловський М.М., Наконечний В.С., Сайко В.Г. Мікропроцесорні системи на мікроконтролерах.  Навчальний посібник. – К: КНУ імені Тараса Шевченка, 2022. – с. 298. (переглянути)
+– Комп’ютерні технології: навчальний посібник/ М.М. Браіловський, Н.С. Вишневська, В.Д. Козюра, Ю.В. Пепа, В.О. Хорошко, Ю.Є. Хохлачова. –К.: ТОВ ЦП Компринт, 2023. – 199 с. (переглянути)
+
+2. Публікації, що індексуються у Scopus або Web of Science
+– Method for determining optimal transparency windows for mobile 5th generation Saiko, V., Nakonechnyi, V., Toliupa, S., Brailovskyi, M. 14th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering, TCSET 2018 – Proceedings, 2018, 2018-April, pp. 514–518 (переглянути)
+– Radiating telecommunication system of the sub-THz-band to protect objects from unauthorized access Saiko, V., Narytnyk, T., Brailovskyi, M., Nakonechnyi, V. 2019 IEEE International Scientific-Practical Conference: Problems of Infocommunications Science and Technology, PIC S and T 2019 – Proceedings, 2019, pp. 698–702, 9061483 (переглянути)
+– Terahertz Range Interconnecting Line for LEO-System Saiko, V., Nakonechnyi, V., Narytnyk, T., Brailovskyi, M., Lukova-Chuiko, N. Proceedings – 15th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering, TCSET 2020, 2020, pp. 425–429, 9088550 (переглянути)
+– Increasing Noise Immunity between LEO Satellite Radio Channels Saiko, V., Nakonechnyi, V., Narytnyk, T., Brailovskyi, M., Toliupa, S. Proceedings – 15th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering, TCSET 2020, 2020, pp. 442–446, 9088630 (переглянути)
+– Method of Increasing the Efficiency of Managing Energy Potential Protected Radioliniy Terahertz Range using Artificial Intelligence Saiko, V., Toliupa, S., Nakonechnyi, V., Brailovskyi, M., Narytnik, T. CEUR Workshop Proceedings, 2021, 3187, pp. 227–235 (переглянути)
+– Problems of Analysis and Forecasting of Information and Psychological Influences in Social Networks Brailovskyi, M., Toliupa, S. CEUR Workshop Proceedings, 2021, 3200, pp. 86–91 (переглянути)
+– Models of Improving the Efficiency of Radio Communication Systems Using the Terrahert Range Saiko, V., Toliupa, S., Nakonechnyi, V., Brailovskyi, M. 2020 IEEE International Conference on Problems of Infocommunications Science and Technology, PIC S and T 2020 – Proceedings, 2021, pp. 192–196, 9468022 (переглянути)
+– Model of Increase of Spectral Efficiency of Use of Frequency Resource of Low-Orbit System with Architecture of the Distributed Satellite Saiko, V., Toliupa, S., Nakonechnyi, V., Brailovskyi, M., Domrachev, V. Lecture Notes in Electrical Engineering, 2022, 831, pp. 410–423 (переглянути)
+– A Method of Increasing the Reliability of Heterogeneous 5g/Iot Special Communication Networks when Using the Terahertz Wave Range Saiko, V., Lukova-Chuiko, N., Zhurakovskyi, B., Nakonechnyi, V., Brailovskyi, M. CEUR Workshop Proceedings, 2022, 3384, pp. 120–131 (переглянути)
+
+Наукові інтереси:
+
+Технічний захист інформації, кібербезпека, національна безпека.
+
+Наукова та міжнародна діяльність:
+
+Член спеціалізованої вченої ради К 41.052.11, Одеський національний політехнічний університет.

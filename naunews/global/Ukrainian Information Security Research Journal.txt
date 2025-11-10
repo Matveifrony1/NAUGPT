@@ -1,0 +1,73 @@
+Заголовок:Ukrainian Information Security Research Journal
+Дата: ----------
+URL: https://jrnl.nau.edu.ua/index.php/ZI
+==================================================
+Ukrainian Information Security Research Journal
+Current Archives About  Search
+Register Login
+
+Current Issue
+Vol. 26 No. 2 (2024): Ukrainian Information Security Research Journal
+Published: 2024-12-31
+Full Issue
+ PDF (Українська)
+
+QUANTITATIVE ASSESSMENT OF SECURE OPERATION OF INFORMATION SYSTEMS
+Volodymyr Akhramovych, Sergii Chuprun, Roman Prydybailo
+227-236
+ PDF (Українська)
+
+MANAGEMENT OF INFORMATION FLOWS IN A CYBERSECURITY SYSTEM
+Andriy Fesenko, Nataliya Vyshnevska, Diana Kozlovska
+ PDF (Українська)
+
+METHOD FOR BUILDING A KEY CYBERSECURITY RISK FACTORS PROFILE OF MODERN DISTRIBUTED INFORMATION SYSTEMS
+Dmytro Palko, Larysa Myrutenko
+236-252
+ PDF (Українська)
+
+ADAPTIVE INTERFERENCE SUPPRESSION IN WIRELESS NETWORKS BASED ON ARTIFICIAL NOISE
+Stanislava Kudrenko, Valeriy Kozlovsky, Anna Stoliar
+252-258
+ PDF (Українська)
+
+ORGANIZING STUDENT OLYMPIADS AND OTHER COMPETITIONS IN INFORMATION SECURITY: IMPLEMENTING THEIR OUTCOMES INTO THE EDUCATIONAL PROCESS
+Valentyn Petryk
+264-270
+ PDF (Українська)
+
+IMPLEMENTATION OF PROTECTION OF SERVERS WITH ABNORMAL ACCOUNTS IN THE PACKAGE SYSTEM
+Petro Ponochovny, Yuriy Pepa
+270-277
+ PDF (Українська)
+
+SYSTEM APPROACH TO WEB APPLICATION SECURITY: ANALYSIS OF THREATS AND METHODS OF CYBER PROTECTION
+Anna Ilienko, Denys Spys, Liliia Halata, Olena Dubchak
+277-293
+ PDF (Українська)
+View All Issues
+Submitted articles should correspond to the requirements and guidelines, laid down by the journal staff.
+
+Year of establishment: 1999.
+
+Journal is included in the list of scientific professional periodicals (journals) of Certified Staff Evaluation, in which results of thesis works for getting academic degree of Doctor or Candidate of science (in engineering) can be published.
+
+Journal circulation comprises 300 copies. Journal is sent to the reserves of libraries, which list is affirmed by the Ruling of the Presidium of the Ukrainian Higher Attestation Commission №16/5 d/d May, 22, 1997, and also it is passed to the departments of foreign and native sets of Vernadsky National Library of Ukraine for the centralized exchange with national libraries and libraries of the leading foreign scientific centers (USA, Canada, Russia, Great Britain, Germany, France, Uzbekistan, China, etc).
+
+State Registration Certificate: Series КВ № 17079-5849 ПР d/d October, 14, 2010.
+
+Professional registration in Ukrainian Higher Attestation Commission: Enactment d/d October, 10, 2010. № 1-05/7.
+
+Field of science: engineering
+
+Periodicity: 4 times a year
+
+Language: Ukrainian, English
+
+Establisher: National Aviation University
+
+Оnline publication has been recorded in the ISSN Register as follows:
+ISSN 2410-7840
+Key title: Zahist ìnformacìï (Online)
+Abbreviated key title: Zahist ìnformacìï (Online)
+Variant title: Ukrainian information security research journal

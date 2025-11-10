@@ -1,0 +1,32 @@
+Заголовок:Alternative Positioning, Navigation, and Timing
+
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/direction_5_ua
+==================================================
+Alternative Positioning, Navigation, and Timing
+
+Positioning of aircraft location in the airspace is one of the key problem in aviation. Accuracy and availability of coordinate detection are valuable part of flight safety. Many different approaches have been using to improve positioning losses on board of aircraft.
+
+Nowadays Global Navigation Satellite System (GNSS) provides accurate global position data than other technics. Today GNSS represents by GPS, GALILEO and GLONASS satellite systems. In despite of high accuracy of GNSS special ground base augmentation systems (GBAS) are used in wide areas for GNSS improvements.
+
+
+Each airspace user has to use GNSS equipment for positioning purposes. But some time in some regions accuracy of positioning may be not enough for guaranteed requite level of flight safety. It may be result of radio frequency interference, geometry of space satellite location, solar activity and others. Flight management system (FMS) uses other positioning methods to determine the coordinates in case of malfunction airborne equipment of GNSS or inability to determine the coordinates. In this case we can use other positioning technics like inertial navigation or positioning by signals from radio beacons (NDB, DME, VOR, DVOR and e.t.). Inertial Navigation System may be used for limited time in consequence of the additive error. Positioning algorithms of FMS are alternative source of position information. It is based on using information from navigation beacons. According to a decrease positioning accuracy are used next navigation methods: DME/DME, VOR/DME, VOR/VOR, ADF/ADF.
+
+
+References
+Ostroumov I., Kuzmenko N. Accuracy estimation of alternative positioning in navigation / 2016 IEEE 4th International Conference «Methods and Systems of Navigation and Motion Control»(MSNMC), October 18-20, – 2016 : proceedings. – Kyiv, 2016. – 291-294 pp.
+Ostroumov I.V. Analysis of DME/DME positioning facility for Ukrainian airspace // The Seventh World Congress “AVIATION IN THE XXI-st CENTURY” - "Safety in Aviation and Space Technologies". Volume 2. – Kyiv: NAU, 2016. – 3.6.1-3.6.4 pp.
+Ostroumov I.V. Timing problem of multi DME/DME approach // The Seventh World Congress “AVIATION IN THE XXI-st CENTURY” - "Safety in Aviation and Space Technologies". Volume 2. – Kyiv: NAU, 2016. – 3.6.5-3.6.7 pp.
+Ostroumov I.V. Alternative positioning navigation by multi NAVAIDS / Ostroumov I.V. // Problems of CNS/ATM development and ATM. International Scientific-Metodical Conference of Researches– К.: НАУ, 2016. – с.58
+А. С. 53899 України. Комп’ютерна програма «Позиціонування за обладнанням VOR/DME» / І.В. Остроумов, Л.В. Супрун. – заявка від 26.10.14; опубл. 03.03.15.
+А. С. 52015 України. Комп’ютерна програма «Оцінювання точності позиціонування за далекомірними радіомаяками» / І.В. Остроумов, Т.Б. Лопатко. – заявка від 04.09.13; опубл. 04.11.13.
+Ostroumov I.V. Navaids facility for aircraft positioning / I.V. Ostroumov // The Sixth World Congress “AVIATION IN THE XXI-st CENTURY” - "Safety in Aviation and Space Technologies". Volume 2. – Kyiv: NAU, 2014. – 3.2.1-3.2.5 pp.
+Ostroumov I.V. Features of position detection by distance measurement equipment / I.V. Ostroumov // ІІI National Scientific Conference of young scientists and students «Problems and prospects of Aeronautics and Astronautics» 23 – 24 October 2014 y – Kyiv, 2014. – P. 15.
+Остроумов І.В. Оцінювання точності DME/DME позиціонування для повітряного простору України / Остроумов І.В. // Проблеми інформатизації та управління: Збірник наукових праць: Випуск 3(43). – К.:НАУ, 2013.– С. 61-67.
+Остроумов І.В. Використання радіомаяків DME для визначення місцеположення у повітряному просторі України / І.В.Остроумов, Т.Б. Лопатко // Вісник інженерної академії України. – 2013. – № 4. – С. 300–305.
+Остроумов І.В. Інтеграція координатної інформації у обчислювальній системі літаководіння/ І.В. Остроумов // тези науково-практичного семінару «Сучасні проблеми авіакосмічних технологій та систем» 17-23 червня 2013 року – Житомир, 2013. – С. 19.
+Лопатко Т.Б. Аналіз методів позиціонування обчислювальної системи літаководіння / Т.Б. Лопатко, І.В. Остроумов // ІІ Всеукраїнська науково-практична конференція молодих учених і студентів «проблеми та перспективи розвитку авіації та космонавтики» 23 – 24 жовтня 2013 року – Київ, 2013. – С. 7.
+Чаплінський Д.В. Оцінювання точності позиціонування за інформацією системи ACAS/ Д.В. Чаплінський, І.В. Остроумов // ІІ Всеукраїнська науково-практична конференція молодих учених і студентів «Проблеми та перспективи розвитку авіації та космонавтики» 23 – 24 жовтня 2013 року – Київ, 2013. – С. 12.
+Shulimov O.S. Analysis of DME/DME positioning capabilities for borispil airspace region / O.S. Shulimov, I.V. Ostroumov // ІІ National Scientific Conference of young scientists and students «Problems and prospects of Aeronautics and Astronautics» 23 – 24 October 2013 y – Kyiv, 2013. – P. 21.
+А. С. 52015 України. Комп’ютерна програма «Позиціонування за системою попередження зіткнень літаків у повітрі з оцінкою точності(«TCAS-Positioning»)» / І.В. Остроумов, Д.В. Чаплінський. – заявка від 04.09.13; опубл. 04.11.13.
+Ostroumov I. Positioning by VOR signals in Ukraine region // I. Ostroumov // Problems of CNS/ATM development and ATM. International Scientific-Metodical Conference of Researches, November 28 – 30, 2012 : theses. – К., 2012. – 74p.

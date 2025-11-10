@@ -1,0 +1,179 @@
+Заголовок:electronics and controlling systems journal
+Дата: ----------
+URL: https://jrnl.nau.edu.ua/index.php/ESU
+==================================================
+Current Issue
+Vol. 2 No. 84 (2025)
+Published: 2025-07-03
+COMPUTER SCIENCES AND INFORMATION TECHNOLOGIES
+Optimizing Kubernetes Autoscaling with Artificial Intelligence
+Olha Tkhai, Nataliia Shapoval
+9-14
+ PDF
+Multi-agent Control of UAVs Using Deep Reinforcement Learning
+Ihnat Myroshychenko
+15-20
+ PDF
+Orthophotomosaicing Framework for Thermal and Multispectral Images Collected with a UAV for Intelligent Systems
+Victor Sineglazov , Kyrylo Lesohorskyi
+21-28
+ PDF
+Parametric Optimization of the Hierarchical Fuzzy Model of Control with Transfer of Fuzzy Values of Intermediate Data
+Natalia Lazarieva
+29-33
+ PDF
+A Comprehensive Benchmark of Collaborative Filtering Methods on Implicit Feedback Datasets
+Ivan Pyshnograiev , Anar Shyralliev
+34-45
+ PDF
+Diagnosis of Vestibular Schwannoma Based on Intelligent MRI Image Processing
+Victor Sineglazov , Volodymyr Fedirko , Vasyl Shust , Andrew Sheruda , Maksym Shevchenko
+46-56
+ PDF
+COMPUTER ENGINEERING
+Air Raid Alert Mesh Network System: Key Provision
+Halyna Vlakh-Vyhrynovska , Yuriy Rudyy
+57-62
+ PDF
+AUTOMATION AND COMPUTER-INTEGRATED TECHNOLOGIES
+Accuracy Research for Non-orthogonal Configuration of Inertial Sensors
+Olha Sushchenko , Yurii Bezkorovainy
+68-75
+ PDF
+Security System for Office Premises with Use of Modern Information Technologies
+Mykola Vasylenko , Alina Zahorna
+63-67
+ PDF
+Prediction of Moving Targets and Adaptive Avoidance in Hybrid PSO-MPC for a Swarm of UAV’s
+Victor Sineglazov , Denys Taranov
+76-83
+ PDF
+TELECOMMUNICATIONS AND RADIO ENGINEERING
+A Method for Biometric Coding of Speech Signals Based on Adaptive Empirical Wavelet Transform
+Oleksandr Lavrynenko
+84-91
+ PDF
+Classification of Sentinel-2 Imagery Using Rayleigh Distribution Modeling
+Igor Prokopenko, Sofiia Alpert , Maksym Alpert , Anastasiia Dmytruk
+92-97
+ PDF
+AVIATION TRANSPORT
+Mathematical Model of Gyroscope with Contactless Suspended Rotor and Three-component Accelerometer for Solving Problems of Autonomous Autonomous Navigation
+Oleg Smirnov , Yuriy Kemenyash
+98-103
+ PDF
+Flight Safety Issues During Aircraft Landing Approach
+Yurii Hryshchenko, Maksym Zaliskyi , Oleksii Chuzha, Tetiana Solomakha , Dmytro Ivashchenko
+104-108
+ PDF
+View All Issues
+AIMS AND SCOPE
+
+International scientific journal “Electronics and Control Systems” is intended for publishing and further free distribution (Open Access Policy) of original English language articles, which are scientifically sound and relevant to an international academic and professional audience in the following research fields:
+
+Computer Sciences and Information Technologies
+Computer Engineering
+Power Machinery
+Automation and Computer-integrated Technologies
+Electronics
+Telecommunications and Radio Engineering
+Aviation Transport
+Articles, which are outside the Aims and Scope, are not accepted by the journal for publishing.
+
+The articles are published only in English since 2013.
+
+ 
+
+EDITORIAL BOARD
+
+Editor-in-Chief
+
+V. М. Sineglazov, IEEE Senior Member, Dr. Sci. (Eng.), Prof., Head of Aviation Computer Integrated Complexes Department, National Aviation University, Ukraine
+
+Deputies of Editor-in-Chief
+
+А. А. Tunik, IEEE Senior Member, Dr. Sci. (Eng.), Prof., National Aviation University, Ukraine
+
+F. J. Yanovsky, IEEE Fellow, Dr. Sci. (Eng.), Prof., Head of Electronics Department, National Aviation University, Ukraine
+
+Executive Secretary
+
+O. A. Sushchenko, Dr. Sci. (Eng.), Prof., National Aviation University, Ukraine
+
+Editorial Board Members
+
+P. I. Bidyuk, Dr. Sci. (Eng.), Prof., National Technical University of Ukraine “Kyiv Polytechnic Institute” named after Igor Sikorsky, Ukraine
+
+François Le Chevalier, Dr. Sci. (Eng.), Prof., Delft University of Technology, Netherlands
+
+Zhengbing Hu, Ph.D., Professor, Central China Normal University, China
+
+L. Ya. Ilnitskiy, Dr. Sci. (Eng.), Prof., National Aviation University, Ukraine
+
+Juri Jatskevich, Ph.D., (P.Eng.), IEEE Fellow, Professor of Electrical and Computer Engineering, University of British Columbia, Vancouver, Canada
+
+Kzhishtof Kulpa, Dr. Sci. (Eng.), Prof., Warsaw University of Technology, Poland
+
+Lyubka Doukovska, Dr. Sci., Institute of Information and Communication Technologies of Bulgarian Academy of Sciences, Bulgaria
+
+M. P. Mukhina, Dr. Sci. (Eng.), Ass. Prof., National Aviation University, Ukraine
+
+І. G. Prokopenko, Dr. Sci. (Eng.), Prof., National Aviation University, Ukraine
+
+George T. Schmidt, IEEE Fellow, Dr. Sci. (Eng.), Prof., Massachusetts Institute of Technology (Cambridge), USA
+
+Ahmet Serdar Turk, Ph.D., Professor, Yildiz Technical University, İstanbul, Turkey
+
+ 
+
+REGISTRATION INFORMATION
+
+The founder and publisher of the journal is the National Aviation University (Kyiv, Ukraine), which is a state higher educational institution.
+
+The Certificate of state registration of the printed mass media КВ № 16720-5292 ПР, registered on May 21, 2010.
+
+The International Standard Serial Number ISSN: 1990-5548 (Print).
+
+Journal articles have DOI and registered in the Crossref.
+
+The journal and its content are registered and also presented in the list of Ukraine Scientific Periodicals of the Vernadsky National Library of Ukraine, which is the main state academic library and scientific information center in Ukraine.
+
+The journal is registered in the list of scientific specialized editions of the Ministry of Education and Science of Ukraine, which allows the journal to publish the main results of theses in engineering sciences.
+
+ 
+
+INDEXING
+
+Crossref
+
+Index Copernicus
+
+Vernadsky National Library of Ukraine
+
+EBSCOhost (Electronics & Control Systems)
+
+Simple Search Metadata (SSM)
+
+Google Scholar
+
+Russian science citation index (RSCI)
+
+ 
+
+PUBLISHING SHEDULE
+
+The journal publishes 4 issues per year in accordance with the publishing schedule as follows.
+
+The first issue of the year is published in April of the current year.
+
+The second issue of the year is published in July of the current year.
+
+The third issue of the year is published in October of the current year.
+
+The fourth issue of the year is published in January of the next year.
+
+ 
+
+HOW TO SUBMIT AN ARTICLE TO THE JOURNAL
+
+If you want to submit an article or have questions, please contact the Executive Secretary of the journal via e-mail: sushoa@ukr.net

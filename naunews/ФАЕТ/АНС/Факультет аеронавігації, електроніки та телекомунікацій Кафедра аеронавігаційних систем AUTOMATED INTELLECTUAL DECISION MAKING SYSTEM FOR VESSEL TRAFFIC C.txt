@@ -1,0 +1,108 @@
+Заголовок:AUTOMATED INTELLECTUAL DECISION MAKING SYSTEM FOR VESSEL TRAFFIC CONTROL SYSTEMS
+
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/invention_atmk_ua
+==================================================
+
+AUTOMATED INTELLECTUAL DECISION MAKING SYSTEM FOR VESSEL TRAFFIC CONTROL SYSTEMS
+The Automated Intellectual Decision-Making System (AIDMS) has been developed for Vessel Traffic Service (VTS) systems.
+
+The AIDMS is intended for automated scheduling of VTS sailing plans free of conflicts, intellectual support of the solutions on the optimization of ship flow at the guaranteed level of safety and for procedural and trajectory control (radar, satellite etc) of the current ship traffic.
+
+The AIDMS is built on module principle and is designed for real-time operations.
+
+The system consists of the following subsystems: 
+Predictor
+Information-Planning Subsystem
+Router (Optimizer)
+Intellectual Support Subsystem
+ The Predictor is the main part of the system and together with other subsystems performs the following main functions: reception of applications for ship traffic service; ship navigation planning; isometric visualization of the traffic plans combined with channel scheme and current ship positions; representation of sailing plans in tabular form; displaying navigational, meteorological and other auxiliary information; displaying map data; plan validation; vessel traffic prediction; analysis of potential conflict situations; correction of navigation plans; radar data processing; procedural and trajectory control of ship position; correlation of planned and radar information; ship traffic simulation according to the plan; database management; preparation and printing of navigation plan in the approved format; delivery of the plan and meteorological information to users.	
+
+
+
+The Information-Planning Subsystem processes and displays planned and supplementary information in tabular form. Primarily it is validated plan data delivered to Local Vessel Traffic Control Centre.
+
+	
+
+The Router together with the Predictor and Intellectual Support Subsystem provides safe and economically grounded ship flow. This is based on artificial intelligence methodology.
+
+The intellectual component of control is intended to reduce an uncertainty level, which can appear in following cases due to: 
+spatial position of the objects under control
+time-delay of information about the controlled objects which is coming to the system
+non adequate information about real dynamic characteristics of objects under control
+factors caused by unpredictable or poor predictable finite actions of the operators team (pilots and service staff)
+substantial influence of uncontrolled components due to environment effects
+ The Intellectual Support Subsystem checks the navigation plans with taking into account regional navigation regulations. This subsystem checks ship plans for navigation within prohibited and restricted zones and analyses dangerous situations. It provides user with decision-making recommendations, weather prohibitions or limitations which should be removed, issues messages, precautions, and alerts.
+
+The subsystem includes database and knowledge-base, which contain: 
+formalized navigation regulations
+information on limitations, prohibitions and conditions of navigation
+information about sailing region, available navigation and surveillance aids, and meteorological data
+ship performances and current state of technical means
+recommendations on optimal and safe mode of ship navigation with use of speed and draught limitations in channel sections and seaports
+voice and text reference data of navigation rules
+ The Intellectual Subsystem includes the following algorithms: 
+detection of potentially dangerous situations
+checking for prohibitions, limitations and conditions of navigation
+calculation of day time duration
+issuing of recommendations for decision making
+estimation of elements for optimal mode of navigation
+ The results of subsystem functioning are given in the form of text, graphic and oral information messages and recommendations.
+
+The Intellectual Support Subsystem consists of three parts. They are connected with the corresponding stages of data processing during planning and navigation control. The first stage is data input from the applications for the ship pilotage. The second stage includes planning and the plan visualization. The third stage is the inspection of the plan realization
+
+The first part of the subsystem performs analysis of data from the applications and gives precautions about prohibitions and limitations of navigation with taking into account the conditions of navigation, hydrological and meteorological circumstances in the zone. The second part is intended for analysis of the navigation plan, fixing all breaking of the existing rules and indicating conditions of navigation in the zone. The third part of this subsystem includes the module of the inspection of navigation plan implementation. This step can indicate cases of deviations from the plan. If the value of the deviation is higher than the predetermined level the necessary correction of the plan is made according to measuring data of trajectory. The subsystem also includes the module of prediction and detection of potentially dangerous situations (conflicts) and gives corresponding messages including voice messages.
+
+AIDMS uses standard cartographic data formats and can be configured to any sea-channel structure.
+
+The Automated Intellectual Decision-Making System has been put into operational process in Black Sea region as a part of the regional vessel traffic service system. Using AIMDS increases traffic efficiency and safety, improves operator's quality of work.
+
+AIDMS is patented in Ukraine and Russia.	
+
+
+3D PREDICTOR
+The software realization of AIDMS is 3D PREDICTOR, which is a workstation of pilot-coordinator. The main difference between operation processes of pilot-coordinator and pilot-controller is the size of controlled area and the level of their responsibilities. Pilot-controller monitors current traffic at the local traffic centre. In contrast, pilot-coordinator has to plan traffic for a definite period of time (usually day or half of day) within global scope of the channel. He also is responsible for monitoring current traffic in the whole region which can consist of several local areas. The high-level complexity of pilot-coordinator's tasks requires convenient and comprehensive user interface with high rate of data refreshment. Simultaneous visualization of current and planned traffic data with maximum useful elements displayed is the key feature of such type of user interfaces. 3D Predictor graphical interface was designed in order to meet these requirements. The basic part of Predictor's main window is the workspace, where three-dimensional picture of channel chart and ship plans are displayed.
+
+
+It is known that in channels ships primarily move along straight lines or sections. In this condition it is convenient to display ship plans as lines on distance-time chart, where the horizontal axis is the channel distance axis and the vertical axis is the time-axis. The angle of plan presents ship speed. The sections of channel are straightened between each other and form vertically aligned planes. These planes present main channel directions and the angles between them are kept not null. For the BDLK-HMK Channel near Nikolaev the planes correspond to the main seaports located at the starting of each plane: 
+“Yuzhny” – 1st plane
+“Nikolaev” – 2nd plane
+“Kherson” – 3rd palne
+ The planes are attached to each other at the point of channel junction. It is also envisaged that only particular channel sections or branches can be displayed. Other child branches of the channel leading to new seaports can be also connected at any moment.
+
+The basis of the planes serves for channel scheme visualization where section limits, turns, anchor places, seaports etc are designated. Vertical lines correspond to channel turns and check points, and horizontal lines constitute the time-grid. In the real-time mode the basis of the planes is called 'life line' and it is used to display current traffic position, both actual and planned.
+
+3D PREDICTOR enables user to observe three-dimensional scene from arbitrary view point. This function is realized by special horizontal and vertical rotation scrollbars and by zoom-in/out controls. More detail inspection of the particular channel zone or ship plan can be done through the set of plane views.
+
+		
+
+		
+
+Other essential functions of the Predictor are time-scaling and time-scrolling. By the forward time-scrolling the operator can look-ahead for a few hours, day or more and draw conflict-free ship plans. The backward time-scrolling means looking into the past by rendering completed plans and actual trajectories of the ships. It has been practically proved that combination of the 'life line', future- and past-time ranges in the single chart is useful and convenient for operator.
+
+There are several tools for ship plan modification available to operator: 
+changing departure time
+changing ship speed along the whole route or in selected sections
+ship anchoring
+	
+
+In order to display ship importance degree (cargo, dimensions, draught, emergency, urgency) the ship prioritization rules are applied. According to these rules every ship plan is painted one of the following basic colors – red (highest priority), yellow (medium priority) and green (lowest priority). This helps operator to focus first of all on high priority plans.
+
+The possible conflicts between ships are detected as crossings of their plan-lines located at limited or prohibited areas. The Predictor displays conflicts both on the main plan chart and on the vector map, which contains different information layers (depth layers, nav-aids, shoreline, channel borders etc).
+
+
+The validation of ship plans is provided by the Intellectual Support Subsystem which issues warnings and notifications about violations of regional sailing rules.
+
+
+
+The wide application of standard navigation mapping enables pilot-coordinator to survive and compare actual and planned ship positions, place of ship anchoring and location of possible conflicts. Color palette and visibility of mapped layers can be tuned by users. Other standard mapping functions such as moving on map, zooming and distance/bearing measuring are also available.
+
+		
+
+The normal operating mode of the AIDMS implies installation of 3D PREDICTOR software on two computers. In this mode the screen of the first computer displays the main 3D PREDICTOR window – the planning workspace. The second one shows tabular and text data which can be both weather information and validated ship plans prepared for delivering to the local traffic control centre.
+
+	
+
+As long as both computers have identical programs installed and total data duplication is performed it is possible to use only one computer when another is inoperative. In this case one program instance implements the whole system functions.
+
+The input and output data formats meet requirements of ASTERIX standard for radar-data transfer protocols and can be modified according to demands of the local traffic control systems.

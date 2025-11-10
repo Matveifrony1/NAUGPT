@@ -1,0 +1,58 @@
+Заголовок:Участь професора кафедри у конференції IEEE IDAACS 2023
+
+Дата: ----------
+URL: https://ksm.nau.edu.ua/news/participation-professor-of-the-department-in-the-conference/
+==================================================
+Участь професора кафедри у конференції IEEE IDAACS 2023
+11/09/2023
+
+7-9 September 2023, Dortmund University of Applied Sciences and Arts, Germany відбулася  міжнародна конференція 12th IEEE International Conference on «Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications – IEEE IDAACS 2023.
+
+Професор кафедри, доктор технічних наук, професор Опанасенко В.М. брав участь в цієї конференції як голова секції «Design and Testing of Advanced Measuring and Computer Systems» та доповідач з доповіддю «The FPGA Implementation of Pseudorandom Word Generation Algorithms»:
+
+Poster session FPA1
+
+On-site: 1st floor hall
+
+Chair: Vladimir Opanasenko
+
+Design and Testing of Advanced Measuring and Computer Systems
+
+ #142 Approach to Acoustic Drone Detection System Development. Roman Kochan, Nataliya Hots, Sergiy Fabirovskyy, Volodymyr Storozh, Alexander Kosterov, Leonid Ozirkovskyy, Anna Helesh, Shulhai Arkadii, Volodymyr Kochan, Bohdan Strykhalyuk, Mykola Mykyichuk, Ivan Demydov
+
+ #282 Mathematical Models to Determine Temperature Fields in Heterogeneous Elements of Digital Devices with Thermal Sensitivity Taken into Account. Vasyl Havrysh, Volodymyr Kochan.
+
+ #284 Ad-hoc Signal Conditioning Transducer with Self-Testing for Data Acquisition Devices. Fangting Huang, Yuriy Drohobytskiy, Hanna Homeniuk, Volodymyr Kochan, Roman Kochan, Mariana Levkiv, Nataliia Kochan, Pavlo Bykovyy.
+
+ #26 Methods and Means of Reducing the Sensitivity Threshold of Systems With The Measurement of Small Phase Shifts Between Infra-Low-Frequency Harmonic Signals. Ihor Buchma, Mykhailo Voichenko.
+
+ #121 Means of Increasing the Accuracy of Digital Processing of Measuring Information. Leyla Shirinova.
+
+ #124 Designing a Pulse Shaper of Arbitrary Duration. Oleksandr Osolinskyi, Volodymyr Kochan, Anatoliy Sachenko, Diana Zahorodnia.
+
+ #223 Simulator of Microcontrollers Power Consumption. Orest Kochan, Oleksandr Osolinskyi, Anatoliy Sachenko, Volodymyr Kochan, Ihor Romanets.
+
+ #283 The Concept of Built-in Metrological Support of Voltage Measuring Channels for Internet of Things. Volodymyr Kochan, Serhii Mokhun, Olha Fedchyshyn, Svitlana Boitsaniuk, Pavlo Bykovyy, Vasyl Parakuda, Hu Jiwei, Xu Anrang.
+
+ 
+
+Session SC1: Workshop on Cyber Physical Systems for IoT Dependability and Resilience (CyberIoT 2023)
+
+On-site: Room A.2.02
+
+Chair: Vyacheslav Kharchenko
+
+ #287 Deploying the Reliable UAV Swarm for Providing P2P LiFi Communications Considering Physical Obstacles: Method of Rectangles, Algorithms, and Tool. Kyrylo Leichenko, Herman Fesenko, Vyacheslav Kharchenko.
+
+ #20 The FPGA Implementation of Pseudorandom Word Generation Algorithms. Volodymyr Opanasenko, Stanislav Zavyalov.
+
+ #196 A Testbench for Stereo-Processing Acceleration Based on PYNQ and the StereoPi. John Kalomiros, John Vourvoulakis, Stavros Vologiannidis.
+
+ #321 Towards Evidence-Based Cybersecurity Assessment of Programmable Systems to Ensure the Protection of Critical IT Infrastructure. Oleg Illiashenko, Vyacheslav Kharchenko, Oleg Odarushchenko.
+
+ #150 Implement of Edge Computing for Cyber- Physical System in the Smart Grids Quasi-Real Time Control Context. Michael Dombrowski, Zbyshek Dombrowski.
+
+ 
+
+За результатами конференції отримано сертифікати за участь в конференції.
+

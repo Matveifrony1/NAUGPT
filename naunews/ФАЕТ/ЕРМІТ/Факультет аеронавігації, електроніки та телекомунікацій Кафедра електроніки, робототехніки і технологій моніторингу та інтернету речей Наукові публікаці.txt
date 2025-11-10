@@ -1,0 +1,254 @@
+Заголовок:Наукові публікації співробітників кафедри за останні 5 років (2016-2021)
+
+Дата: ----------
+URL: https://kafelec.nau.edu.ua/Scientific%20publications%20of%20lecturers.html
+==================================================
+Наукові публікації співробітників кафедри за останні 5 років (2016-2021)
+Монографії
+Публікації у журналах з імпакт-фактором з Core Collection Scopus та Web of Science
+Публікації у виданнях у Scopus та Web of Science – статті у матеріалах та тези конференцій
+Статті у наукових фахових виданнях ДАК України (НАУ), включених до міжнародних наукометричних баз даних
+Статті у наукових фахових виданнях України (НАУ)
+Статті у наукових фахових виданнях ДАК України, включених до міжнародних наукометричних баз даних та з імпакт-фактором
+Статті у наукових виданнях інших держав
+Участь у конференціях: публікація матеріалів та тез наукових доповідей
+Навчально-методичні публікації
+
+Монографії
+Ulansky, V., Raza, A. and Oun, H. Electronic circuit with controllable negative differential resistance and its applications. Intelligent Electronic Devices: col. monography, eds. T.H. Meen, W. Zhao, C.F. Yang . - Basel: MDPI, 2020, P. 167-188.
+A. Raza, V. Ulansky. Optimal Preventive Maintenance of Wind Turbine Components with Imperfect Continuous Condition Monitoring. Maintenance Management of Wind Turbines: col. monography, ed. F.P.G. Marquez. - Basel: MDPI, 2020, P. 125-148.
+V. Ulansky, A. Raza. Sinusoidal oscillators operating at frequencies exceeding unity-gain bandwidth of operational amplifiers. Filter Design Solutions for RF Systems: col. monography, eds. L. Pantoli, V. Stornelli. - Basel: MDPI, 2020, P. 15-34.
+Raza, A., Ulansky, V. Cost model for assessing losses to avionics suppliers during warranty period. Advances in through-life engineering services. Decision Engineering: col. monography. - Springer, 2017. – P. 291-307.
+Krishtal O. A., Kiskin N. I., Klyuchko E.M., Tsyndrenko A. Ya. Pharmacological properties of amino in isolated hippocampal neurons. Розділ в: Receptors and ion channels. – Ed.by Ovchinnikov Y.A., Hucho F. – Berlin: De Gruyter, 2020. – P. 127–138.
+Білецький А.Я., Ковальчук А.В., Новіков К.А., Полторацький Д.А. Таблицы двоичных неприводимых полиномов: монографія. - Київ, Аграр Медіа Груп, 2021. – 400 с.
+Білецький А.Я., Ковальчук А.В., Новіков К.А., Полторацький Д.А. Таблицы неприводимых полиномов над полями Галуа нечётных характеристик: монографія. - Київ, Центр учебной литературы, 2021. – 692 с.
+Методи стиснення цифрових даних. Монографія / Шутко В.М., Шутко М.О., Колганова О.О. – К.: Славутич-Дельфін, 2021. – 118 с. (2, 4 розділи)
+Nathan Blaunstein, Felix Yanovsky, Vladimir Yakubov, and Sergey Shipilov, “Detection of Live People in Clutter Conditions,” Book chapter in Electromagnetic and Acoustic Wave Tomography, pp. 281-293, Monograph, CRS Press Tailor & Francis Group, Boca Raton, FL, USA, 2019, 360 pp.
+
+
+Публікації у журналах з імпакт-фактором з Core Collection Scopus та Web of Science
+Ulansky V., A. Raza, “Sinusoidal oscillators operating at frequencies exceeding unity-gain bandwidth of operational amplifiers,” Electronics (Switzerland) 2020, 9, 845, P. 1-19. (IF =2.412, Scopus, Web of Science)
+Raza A., V. Ulansky, “Optimal Preventive Maintenance of Wind Turbine Components with Imperfect Continuous Condition Monitoring,” Energies (Switzerland) 2019, V.12, №19, P. 1 –24. (IF = 2.702, Scopus, Web of Science)
+Raza A., V. Ulansky, "Optimization of Condition Monitoring Decision Making by the Criterion of Minimum Entropy," Entropy (Switzerland) 2019, V. 21, №12, P. 1 –18. (Scopus, Web of Science, IF = 2.494)
+Ulansky, V., Raza, A. and Oun, H. Electronic circuit with controllable negative differential resistance and its applications. - Electronics, 2019. - V. 8(4). - P. 1-20. (IF =2.412, Scopus, Web of Science)
+Ulansky, V., Raza, A. Modelling of false alarms and intermittent faults and their impact on the maintenance cost of digital avionics. – Procedia manufacturing. – Elsevier, 2018. - V. 16. – P. 107-114. (Scopus)
+Ulansky V., V., Terentyeva, I. Availability modeling of a digital electronic system with intermittent failures and continuous testing. – Engineering letters, 2017. – V. 25(2). – P. 104-111. (Scopus, Web of Science)
+Raza, A., Ulansky, V. Modelling of predictive maintenance for a periodically inspected system. - Procedia CIRP. – Elsevier, 2017. - V. 59. - P. 95-101. (Scopus, Web of Science)
+Gonchar OO., Maznychenko AV., Klyuchko OM., Mankovska IM., Butowska K, Borowik A, Piosik Ja, Sokolowska I. C60 Fullerene Reduces 3-Nirtopropionic Acid-Induced Oxidative Stress Disorders and Mitochondrial Dysfunction in Rats by Modulation of P53, Bcl-2 and Nrf2 Targeted Proteins. International Journal of Molecular Sciences, 2021, V.22. – №11 – P.5444-5468.
+A. Raza, V. Ulansky. Through-Life Maintenance Cost of Digital Avionics. Applied Sciences, v. 11, is. 2, pp. 1-30, 2021. DOI: https://doi.org/10.3390/app11020715
+V. Ulansky, I. Machalin, I. Terentyeva. Assessment of Health Monitoring Trustworthiness of Avionics Systems. International Journal of Prognostics and Health Management, v. 12, is. 2, pp. 1-14, 2021. DOI: https://orcid.org/0000-0003-1684-4980
+Ulansky V, Raza A, Milke D. Two-Terminal Electronic Circuits with Controllable Linear NDR Region and Their Applications. Applied Sciences. 2021; 11(21):9815, pp. 1-33. https://doi.org/10.3390/app11219815 (IF = 2,679, Scopus, Web of Science)
+J. Gabrusenko, A. Holubnychyi, Zhengbing Hu, A. Taranenko, and F.J. Yanovsky, “Estimation of Electromagnetic Shielding Efficiency,”Telecommunications and Radio Engineering, vol.78, issue 2, 2019, pp. 181-189. DOI: 10.1615/TelecomRadEng.v78.i2.90.
+A. Rudiakova, Yu. Averyanova, and F. Yanovsky, “Model of Hydrometeors with Multicomponent Mixtures when Doppler-Polarimetric Remote Sensing,”Telecommunications and Radio Engineering, vol.78, issue 1, 2019, pp. 87-95. DOI: 10.1615/TelecomRadEng.v78.i1.100.
+Felix J. Yanovsky, “Some algorithms for unmanned aerial vehicles navigation. Book review,” TWMS Journal of Pure and Applied Mathematics, Vol. 10, Issue 2, 2019, pp. 246-247.
+Yuliya Averyanova, Anna Rudiakova, and Felix Yanovsky, “Drop deformation estimate with multi-polarization radar,”International Journal of Microwave and Wireless Technologies, Published online by Cambridge University Press: 10 June 2020, pp. 870-877.DOI: https://doi.org/10.1017/S1759078720000732
+GabrousenkoY.,TaranenkoA.,Yanovsky F.,Zavhorodnii S., “Modeling of the Cellular Communication system coverage area taking into account the external details of the terrain”, International Journal of Modern Education and Computer Science, Volume 13, Issue 4, Pages 35 – 44, August 2021.DOI: 10.5815/ijcnis.2021.04.04
+Olga Shcherbyna, Maksym Zaliskyi, Olena Kozhokhina, Felix Yanovsky, "Prospect for Using Low-Element Adaptive Antenna Systems for Radio Monitoring Stations", International Journal of Computer Network and Information Security(IJCNIS), Vol.13, No.5, pp.1-17, 2021. DOI: 10.5815/ijcnis.2021.05.01
+
+
+Публікації у виданнях у Scopus та Web of Science – статті у матеріалах та тези конференцій
+Beletsky A. Generalized Pseudorandom Generators of the Galois and Fibonacci Sequences, CEUR Workshop Proceedings, Vol. 2654, 2020, P. 165-181.
+Beletsky A. Ya. Galois Generalized Matrices in Stream Ciphers / A. Ya. Beletsky // Telecommunications and Radio Engineering, Vol 79, 2020, # 8. – p.p. 649-666. DOI: 10.1615/TelecomRadEng. V79.i8.20
+Beletsky A. Ya. Generalized Algorithms for Stream Encryption of Signals in Communication Channels with the UAV, IEEE Ukrainian Microwave Week, Kharkiv, Ukraine. September 2 – 25, 2020, P. 397-402.
+Chervoniak Y. Passive Acoustic Radar System for Flying Vehicle Localization / Y. Chervoniak, R. Sinitsyn // Proceedings of 23rd International Microwave and Radar Conference (MIKON), October 5-8, 2020, Warsaw, Poland. - 2020. - P. 278-281.
+Klyuchko O.M., Shutko V.N., Morozova I.V., Navrotskyi D.O., Mykolushko A.M. Biosensor as technical device with possibilities of information signals coding. 2020 International Congress “Aviation in XXIc.” - Proceedings, 2020. – 9 p.
+Miroshnichenko S. , O. Miroshnychenko, Y. Khobta. Digital X-ray Tomosynthesis Applications for Screening Racehorse Bone Tissue. 2020 IEEE 40th International Conference on Electronics and Nanotechnology (ELNANO). 526-529.
+Beletsky A. Generalized Gray Transforms and Synthesis Symmetric Systems of Walsh Functions / A. Beletsky // Telecommunications and Radio Engineering, Vol 78, 2019, # 4. – p.p. 74-87. DOI: 10.1615/TelecomRadEng. V78.i4.20.
+Beletsky A. Ya. Synthesis of Сryptoresistant Generators of Pseudorandom Numbers Based on Generalized Galois and Fibonacci Matrixes. // Radio Electronics, Computer Science, Control, 2019. Vol 3(50), p.p. 86-98.
+Gabrusenko Ye.I., A.G. Holubnychyi, Zhengbing Hu, A.G. Taranenko, F.J. Yanovsky. Estimation of Electromagnetic Shielding Efficiency. Telecommunications and Radio Engineering, 2019. vol.78, issue 2, P. 181-189.
+Ilnitskyi L. , O. Shcherbyna, I. Mykhalchuk, O. Kozhokhina. Control of the antenna radiation pattern for radiomonitoring systems // 5th International Conference Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD), 22.10.2019, IEEE, P. 210-213.
+Lavrynenko O., A. Taranenko, Ye.I. Gabrusenko, I. Machalin, I. Terentyeva, D. Bakhtiarov. Protected voice control system of UAV. 2019 IEEE 5th International Conference Actual Problems of Unmanned Aerial Vehicles Developpement / Proceedings Kyiv, October 22-24, 2019, P. 295-298.
+Miroshnichenko S. , A. Nevgasymyi, O. Miroshnichenko, Y. Khobta, N. Miroshnichenko. Features Of Images Obtained by Examinations Of Large Animals On X-Ray Tomosynthesis Units. 2019 IEEE 39th International Conference on Electronics and Nanotechnology (ELNANO). P 536-541.
+Miroshnichenko S. , O. Miroshnychenko, Y. Khobta. Optimization of operating parameters for examinations of race horses on x-ray tomosynthesis units. 2019 IEEE 20th International Conference on Computational Problems of Electrical Engineering (CPEE). Pp 1-4.
+Chervoniak Y. TDoA and Doppler Shift Estimation Method for Passive Acoustic Location of Flying Vehicles / Y. Chervoniak, R. Sinitsyn, F. Yanovsky, O. Zaporozhets // Proceedings of 2018 IEEE 17th International Conference on Mathematical Methods in Electromagnetic Theory (MMET), July 2-5, 2018, Kyiv, Ukraine. - 2018. - P. 119-122.
+Holubnychyi A. G., G. F. Konakhovych, A. G. Taranenko, Ye.I. Gabrusenko. Comparison of Additive and Multiplicative Complementary Sequences for Navigation and Flight Control Systems. 2018 IEEE 5th International Conference Methods and Systems of Navigation and Motion Control/ Proceedings Kyiv, October 16-18, 2018, P. 24-28.
+Raza, A., Ulanskyi, V. Analyses of warranty losses to avionics suppliers. - 2018 IEEE Aerospace conference, 4-11 March 2018, Big Sky, Montana, USA. – 2018 IEEE Aerospace Conference Proceedings. – New York: Curran Associates, Inc. - 2018 - P. 3727-3737.
+Taranenko A. G., Ye.I. Gabrusenko, A. G.Holubnychyi, I. A. Slipukhina. Estimation of Redundant Radionavigation System Reliability. 2018 IEEE 5th International Conference Methods and Systems of Navigation and Motion Control/ Proceedings Kyiv, October 16-18, 2018, P. 28-32.
+Machalin I. A., I. Ye. Terentyeva, A. G. Taranenko, Ye.I. Gabrusenko. Method for Estimation the Veracity of Diagnosis of the Aircraft Navigation and Landing Radio-electronic Systems. 2018 IEEE 5th International Conference Methods and Systems of Navigation and Motion Control/ Proceedings Kyiv, October 16-18, 2018, P. 250-254.
+Miroshnychenko S, O Miroshnychenko, A Nevgasymyi, Y Khobta. Reduction of x-ray doses in chest tomosynthesis. 2018 IEEE 38th International Conference on Electronics and Nanotechnology (ELNANO). P. 398-401.
+Rudiakova A.N., A.Y. Lipinskii, F.J. Yanovsky, “Optoelectronic Aided Polarimetric Weather Radar Signal Processing”, Proceedings of 2018 IEEE 17th International Conference on Mathematical Methods in Electromagnetic Theory (MMET), Kyiv, Ukraine, 2018. – P. 111-114.
+Sinitsyn R. Invariant methods of wideband acoustic signals detection and target localization / R. Sinitsyn, F. Yanovsky, Y. Chervoniak, V. Makarenko, V. Tokarev, O. Zaporozhets, N. Sinitsyna // Proceedings of 2018 9th International Conference on Ultrawideband and Ultrashort Impulse Signals (UWBUSIS), September 4-7, 2018, Odessa, Ukraine. - 2018. - P. 294-298.
+Aznakayev E., Aznakayeva D., Bidnyi M. , Borodii T. Object Detection with Passive Acoustic Graphene Nanosensor / IEEE Microwaves, Radar and Remote Sensing Symposium, August 29-31, Kyiv, Ukraine, 2017. – 4 p.
+Chervoniak Y. Signal processing in passive acoustic location for aircraft detection / Y. Chervoniak, R. Sinitsyn, F. Yanovsky, V. Makarenko, V. Tokarev, O. Zaporozhets // Proceedings of 2017 Signal Processing Symposium (SPSympo), September 12-14, 2017, Jachranka, Poland. - 2017. - P. 1-5.
+Chervoniak Y. Algorithm of Passive Acoustic Locator Data Processing for Flying Vehicle Detection and Tracking / Y. Chervoniak, R. Sinitsyn, F. Yanovsky, V. Makarenko, V. Tokarev, O. Zaporozhets // Proceedings of 2017 IEEE Microwaves, Radar and Remote Sensing Symposium (MRRS), August 29-31, 2017, Kyiv, Ukraine. - 2017. - P. 43-48.
+Gabrusenko Ye.I., V.V. Pilinsky, V.S. Lazebny. Protection of Direct Current Circuits of Unmanned Aerial Vehicle by Screen. 2017 IEEE 4rd International Conference Actual Problems of Unmanned Aerial Vehicles Developpement / Proceedings Kyiv, October 17-19, 2017, P. 163-166.
+Gorovyi, A. Roenko, A. Pitertsev, I. Chervonyak, V. Vovk, “Real-time system for indoor user localization and navigation using bluetooth beacons”, Proc. Int. Conf. on Electrical and Computer Engineering (UKRCON-2017), Kyiv, 2017, P. 1025–1030.
+Gorovyi, A. Roenko, A. Pitertsev, I. Chervonyak, V. Vovk, "Framework for real-time user positioning in GPS denied environments, Int. Signal Processing Symp. (SPSympo-2017), Jachranka, 2017, art. № 8053695.
+Ivanov V.A., Zadorozhnyi O.S. Radio signal distortion assessment by non directional antennas of the helicopter. ICAT-2017: IEEE XІ International conferenceon Antenna Theory and techniques, 24 – 27 May 2017: Kyiv, 2017. – P. 383 – 385.
+Raza, A., Ulansky, V. Generalized cost functions of avionics breakdown maintenance strategy. - 2017 IEEE Aerospace conference, 4-11 March 2017, Big Sky, Montana, USA. – 2017 IEEE Aerospace Conference Proceedings. – New York: Curran Associates, Inc. - 2017 - P. 3775-3789.
+Tkachenko V.S., A.Y. Lipinskii, “Mathematical Model of Volume Optical Interconnection Reconfiguration Utilizing Acousto-Optic Beam Forming”, 2017 IEEE First Ukraine Conference on Electrical and Computer Engineering (UKRCON), May 29 – June 2, 2017, Kyiv (Ukraine), P. 688-691, 2017.
+Ulansky, V. Raza, A. Determination of the optimal maintenance threshold and periodicity of condition monitoring. - First world congress on condition monitoring (WCCM), 13-16 June 2017, London, UK. – WCCM proceedings. - New York: Curran Associates, Inc. – 2017. - P. 1343-1355.
+Shutko V., etc. Visually Lossless Compression of Retina Images 2018 IEEE 38th International Conference on Electronics and Nanotechnology (ELNANO), April 24-26, 2018: abstracts. – Kyiv (Ukraine). – РP. 255-260.
+Shutko V., etc. Two-Dimensional Spectral Detector for Baggage Inspection X-Ray System International conference Advanced computer information technologies (ACID), June 1-3, 2018: abstracts. Ceske Budejovice (Czech Republic).
+Shutko V., etc. Application of spline-Fourier transform for radar signal processing 2019 IEEE 15th International Conference on the Experience of Designing and Application of CAD Systems, February 26 – March 2, 2019: abstracts. – Polyana (Ukraine).
+Shutko V., etc. The Doppler Radar Signals Processing International Confe-rence on Advanced Computer Information Technologies (5-7 June 2019, Ceske Budejovice, Czech Republic), ACIT 2019 – Proceedings.
+Shutko V., etc. Analytical links in the tasks of digital content compression 1st International Workshop on Cyber Hygiene & Conflict Management in Global Information Networks, November 30, 2020. – Kyiv, 2020. – PP. 204-214.
+Shutko V., etc. Method for Improving the Efficiency of Online communication Systems Based on Adaptive Multiscale Transformation International Conference on Advanced Computer Information Technologies (ACIT) 2020, Czech Republic. – PP. 824–829.
+Gabrousenko Y.,Taranenko A.,Yanovsky F.,Zavhorodnii S., Modeling of the Cellular Communication system coverage area taking into account the external details of the terrain. International Journal of Modern Education and Computer Science, Volume 13, Issue 4, Pages 35 – 44, August 2021. DOI: 10.5815/ijcnis.2021.04.04 (Scopus)
+Sushchenko, O., Bezkorovainyi, Y., Colitsyn, V., Yanovsky, F., Modeling possibility to increase measuring range of MEMS inertial unit, 2021 IEEE 16th International Conference on the Experience of Designing and Application of CAD Systems, CADSM 2021 - Proceedings, 2021, pp. 10–14, DOI: 10.1109/CADSM52681.2021.9385260 (Scopus)
+Ostroumov, I., Kuzmenko, N., Sushchenko, O., ...Yanovsky, F., Zaliskyi, M., Ukrainian navigational aids network configuration estimation, 2021 IEEE 16th International Conference on the Experience of Designing and Application of CAD Systems, CADSM 2021 - Proceedings, 2021, pp. 5–9, DOI: 10.1109/CADSM52681.2021.9385226 (Scopus)
+Ivashchuk, O., Ostroumov, I., Kuzmenko, N., ...Yanovsky, F., Shcherbyna, O., A configuration analysis of Ukrainian flight routes network, 2021 IEEE 16th International Conference on the Experience of Designing and Application of CAD Systems, CADSM 2021 - Proceedings, 2021, pp. 6–10, DOI: 10.1109/CADSM52681.2021.9385263 (Scopus)
+Maksym Zaliskyi; Oleksandr Solomentsev; Nataliia Kuzmenko; Felix Yanovsky; Olga Shcherbyna; Olha Sushchenko; Ivan Ostroumov;Yuliya Averyanova, "Sequential Method of Reliability Parameters Estimation for Radio Equipment," 2021 IEEE 12th International Conference on Electronics and Information Technologies (ELIT), 2021, pp. 37-40, doi: 10.1109/ELIT53502.2021.9501099. (Scopus)
+Olga Shcherbyna;Maksym Zaliskyi;Oleksandr Solomentsev;Nataliia Kuzmenko;Felix Yanovsky;Ivan Ostroumov;Yuliya Averyanova;Olha Sushchenko, "Diagnostic Process Efficiency Analysis for Block Diagram of Electric Field Parameters Meter," 2021 IEEE 12th International Conference on Electronics and Information Technologies (ELIT), 2021, pp. 5-9, doi: 10.1109/ELIT53502.2021.9501136. (Scopus)
+O. Sushchenko, Felix Yanovsky, O. Solomentsev, . N. Kuzmenko, Yu. Averyanova, M. Zaliskyi, I. Ostroumov, O. Shcherbyna, "Design of Robust Control System for Inertially Stabilized Platforms of Ground Vehicles," IEEE EUROCON 2021 - 19th International Conference on Smart Technologies, 2021, pp. 6-10, doi: 10.1109/EUROCON52738.2021.9535612. (Scopus)
+O. Sushchenko, Felix Yanovsky et al, “Gimballed Attitude and Heading Reference System for Marine Vehicles,” 2021 IEEE 3rd Ukrainian Conference on Electrical and Computer Engineering (UKRCON), 2021, August 25-27. (Scopus)
+Yu. Averyanova, F. Yanovsky, O. Shcherbina, I. Ostroumov, N. Kuzmenko, M. Zaliskyi, O.Solomentsev, O. Sushchenko, “Polarimetric radar drop size evaluation for wind speed estimate based on Weber criterion,” Signal Processing Symposium, SPSympo 2021, Lodz, Poland, Sep, 21-23, 2021. (Scopus)
+Yuliya Averyanova, Anna Rudiakova, and Felix Yanovsky, Drop deformation estimate with multi-polarization radar, International Journal of Microwave and Wireless Technologies, Published online by Cambridge University Press: 10 June 2020, pp. 870-877.
+
+
+Статті у наукових фахових виданнях ДАК України (НАУ), включених до міжнародних наукометричних баз даних (ECS ICV = 98,8 (2019))
+Ilnitskyi L.Y., Multifunctional radio monitoring antenna / L.Y., Ilnitskyi L.V. Sibruk, I. I. Mykhalchuk. // Electronics and Control Systems. – 2018. – Т.2, № 56, С.126-132.
+Taranenko A., Ye.I. Gabrusenko, A.G. Holubnychyi, O. Lavrynenko. Operational reliability management of the reserved electronic system. Electronics and control systems No1(63), 2020, P. 86-92.
+Ivanov V.A., Myakishev І.К., Zadorozhnyi O.S. Beats in the helicopter radio channel of one-band signal. Proceedings of the National Aviation University. – 2019. – No.1 (78) – P. 50 – 53.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Mathematic model of the immune system of continuous interaction system operator. Electronics and Control Systems, – №2(64), 2020. – P.9-16.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Compromise solution of conflict situations in the problem of optimal control in decision making under the complex situational conditions. «Electronics and Control Systems», №2(60), 2019. – P. 76-82.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Mathematic models for development and compensation of hypoxic states during ischemic heart disease in fight crews’ personnel. «Electronics and Control Systems», №1(59), 2019. – P. 82-90.
+Aralova A.A., Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Automatic information system for the investigation of adaptation possibilities of flight crews’ personnel. «Electronics and Control Systems», №2(56), 2018. – P. 106–113.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Algorithms for data models processing for integral estimation of flight crews’ personnel states. «Electronics and Control Systems», №1(55), 2018. – P. 99-106.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Algorithmic and program support for optimization of interval hypoxic training modes selection of pilots. «Electronics and Control Systems», №2(52), 2017. – P.85-93.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Mathematic and program models for investigation of reliability of operator professional activity in “Human-Machine” systems. «Electronics and Control Systems», №1(51), 2017. – P. 105-113.
+Shutko V.N., Zakhmatov V.N., Kolganova O.O., Navrotskyi D.A., Mykolushko A.N. Information systems with chemosensitive detectors for environment protection. Electronics and Control Systems, Кyiv, №2(64), 2020. – P. 17-23.
+Shutko V.N., Zakhmatov V.N., Kolganova O.O., Mykolushko A.N. Theoretical bases for the development of chemosensitive detecting devices for environment protection . Electronics and Control Systems, Кyiv, №3(61), 2019. – P. 68-73.
+Shutko V.N., Zakhmatov V.N., Shutko O.O., Mykolushko A.N. Mathematical and physical models of devices for detection of some chemical substances in the environment. Electronics and Control Systems, Кyiv, №2(60), 2019. – P. 83-87.
+Aralova N.I., Klyuchko O.M., Mashkin V. I., Mashkina. I.V., Radziejowski P.А., Radziejowska M.Р. Mathematical model of conflict-controlled processes in self-organization of respiratory system. Cyb.and Comp.Eng. Medical and Biological Cybernetics, Кyiv, 2021, №3(205).–P.52-70.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Mathematical model of functional respiratory system for the investigation of harmful organic compounds influences in industrial regions. Cyb.and Comp.Eng. Medical and Biological Cybernetics, 2021, №1(203), p.58-76.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V. Mathematical model for the investigation of human organism functional self-organization. Electronics and Control Systems, Kyiv, 2021.– №2(68), P. 9-17.
+Melnyk O.S., Mykolushko A.M, Myshynskyi A.O. Nanocircuits for Protection of Cipher Informations.//Electronic and Control Sistems, N1(67), 2021, pp.61-67.
+
+
+Статті у наукових фахових виданнях України (НАУ)
+Білецький А.Я., Ключко О.М., Шутко В.М., Морозова І.В. Розробка ефективних методів та засобів отримання й захисту інформації: фізична модель біосенсора та кодування даних. Захист інформації, 2021, Т. 23. – № 2. – С.89-101.
+Ключко О.М. Інформаційна система з біосенсором та захистом даних: розробка концептуальних напрямків. Захист інформації, 2021, Т. 23. – № 1. – С. 6-20.
+Klyuchko O.M., Navrotskyi D.A., Kolganova O.O., Mykolushko A.N. Neurobiosensors and their possibilities of information signals coding. Open Access Proceed. Journal of Physics: Conference Series. World Congress “Aviation in XXI”, 10-12.10.2020. Київ, Україна, E-публікація.
+Ключко О. M., Шутко В.М., Колганова О.О. Методологічні основи створення елементів комплексних систем захисту інформації: фізична модель штучної молекулярної пам’яті на основі двох типів органічних сполук. Безпека інформації, 2020, Т.26. – №2 – С. 99-107
+Ключко О. M., Білецький А.Я., Шутко В.М., Колганова О.О. Розробка науково-методичних основ захисту інформації: фізична модель штучної молекулярної пам’яті на основі сполук – похідних фенолу. Захист інформації, 2020, Т.22. – №3 – С. 157-166
+Дослідження харатеристик малогабаритної спіральної антени / Ільницкий Л.Я., Михальчук І.І., Щербина О.А. // ВІТІ: збірка наукових праць. – К: Військовий інституту телекомунікацій та інформатизації ім. Героїв Крут, 2020 – Вип.1 С.35-45.
+Accuracy characteristics of radio monitoring antennas / O. A. Shcherbyna, L. Y. Ilnitskyi, I. I. Mykhalchuk, O. V. Kozhokhina. // Radio Electronics, Computer Science, Control. – 2020. – № 3, Р. 42-56.
+Антенна система для станцій радіомоніторингу / Ільницкий Л.Я., Щербина О.А., Михальчук І.І. // Наукоємні технології: наук. журнал, – К:НАУ -2020, №1 (45), С. 28-40.
+Кільцева антенна решітка для системи радіомоніторингу / Ільницкий Л.Я., Щербина О.А., Михальчук І.І. // Наукоємні технології: наук. журнал, К:НАУ –2020, – №2 (46). С. 153-164.
+Білецький А.Я., Ковальчук А.В., Новіков К.А., Полторацький Д.А. Алгоритм синтеза неприводимых полиномов линейной сложности. Безпека інформації, 2020, Т. 22, № 2. – С. 74-87.
+Шутко В.М., ін. Розробка ефективних методів та засобів отримання й захисту інформації: фізична модель біосенсора та кодування даних – Безпека інформації, 2021, Т.27. – №1.
+Синтез інформаційної системи діагностування складних об’єктів / Морозова І.В., Іванець О.Б., Назарчук М.А., Миколушко А.М., Іваницький Є.С. // Українській метрологічний журнал. – 2020. – № 1. – P. 50-51.
+Мельник О.С., Козаревич В.О. Моделювання програмованих одноелектронних наносхем.//Вісник НТУ «ХПІ» «Математичне моделювання в техніці та технологіях. №3(1357), 2020-2021рр., с.57-62.
+
+
+Статті у наукових фахових виданнях ДАК України, включених до міжнародних наукометричних баз даних та з імпакт-фактором (BTxA:IF=0,2; ICV=100 (2019))
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V., Radziejowski P., Radziejowska M. Mathematical model for the investigation of hypoxic states in the heart muscle at viral damage. Biotechnologia Acta, Кyiv. – 2021. – V.14. – №5. – P.38-52.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V., Semchik T.A. Mathematical models of immune processes and their applications. Biotechnologia Acta, K, 2020, V.13. – №5 – P. 5-18.
+Aralova N.I., Klyuchko O.M., Mashkin V.I., Mashkina I.V., Semchik T.A. Integrated mathematical model for imitation of the course of viral disease and correction of induced hypoxic state. Biotechnologia Acta, K, 2020, V.13. – №3 – P. 30-44.
+Klyuchko O.M., Beloshitsky P.V. Biosensor concept and data input to biomedical information systems. Medical informatics and engineering, K, 2020, №3 – P.51-69.
+Klyuchko O.M. Electronic information systems in medicine and biology: general analysis. Medical informatics and engineering, K, 2020, V.50. – №2 – P. 111-123.
+Ключко О. M. Медична інформаційна система моніторингу стану здоров’я населення із захистом персональних даних. Медична інформатика та інженерія, K,2020, V.49. – №1 – С. 17-28.
+Klyuchko O.M., Biletsky A. Ya. Computer recognition of chemical substances based on their electrophysiological characteristics. Biotechnologia Acta, K, 2019, V.12. – №5 – P. 5-28.
+Klyuchko O.M., Aralova N.I., Aralova A.A. Electronic automated work places for biological investigations. Biotechnologia Acta, K, 2019, V.12. – №2 – P.5-26.
+Klyuchko O.M. Biotechnical information systems for monitoring of chemicals in environment: biophysical approach. Biotechnologia Acta, K, 2019, V.12. – №1 – P. 5 - 28
+Klyuchko O.M. Electronic expert systems for biology and medicine. Biotechnologia Acta, K, 2018, V.11. – №6 – P. 5-28.
+Klyuchko O.M., Klyuchko Z.F. Electronic information systems for monitoring of populations and migrations of insects. Biotechnologia Acta, K, 2018, V.11. – №5 – P. 5-25.
+Klyuchko O.M., Klyuchko Z.F. Electronic information systems for monitoring of populations and migrations of insects. Biotechnologia Acta, K, 2018, V.11. – №5 – P. 5-25.
+Klyuchko O.M. Electronic computer technologies for using in biotechnology: electronic medical information systems. Biotechnologia Acta, K, 2018, V.11. – №3 – P. 5–26.
+Klyuchko O.M. Electronic information systems in biotechnology. Biotechnologia Acta, K, 2018, V.11. – №2 – P. 5 – 22.
+Klyuchko O.M., Onopchuk Yu.M. Some trends in mathematical modeling for biotechnology. Biotechnologia Acta, K, 2018, V.11. – №1 – P. 39-57.
+Klyuchko O.M. Cluster analysis in biotechnology. Biotechnologia Acta, K, 2017, V.10.–№5– P. 5-18.
+Klyuchko O.M. Application of artificial neural networks method in biotechnology. Biotechnologia Acta, K, 2017, V.10. – №4 – P.5-13.
+Klyuchko O.M. On the mathematical methods in biology and medicine. B iotechnologia Acta, K, 2017, V.10. – №3 – P.31–40.
+Klyuchko O.M., Buchatsky L.P., Rud Yu.P., Melezhyk O.V. Creation of fish databases for electronic interactive map: tables and keys. Fisheries science of Ukraine. - 2019, V.50. – №4 – P. 37-57.
+Klyuchko O.M., Buchatsky L.P., Rud Yu.P., Melezhyk O.V. Fish information databases construction: data preparation and object-oriented system analysis. Fisheries science of Ukraine. - 2019, V.49. – №3 – P. 32-47.
+Klyuchko O.M. Electrophysiological studies of Nephila clavata venom and toxin influence on hippocampal neuronal membranes after Aspergillus oryzae proteases pretreatment. Studia Biologica, Lviv, 2020, V.14. – №3 – P. 29-48.
+Klyuchko O.M. Venom and toxins from Argiope lobata: electrophysiological studies. Studia Biologica, Lviv, 2020, V.14. – №2 – P. 39-56.
+Klyuchko O.M. Comparative analysis of Araneidae venoms and toxins: chemical structures and electrophysiological effects. Studia Biologica, Lviv, 2020, V.14. – №1 – P. 89-104.
+Klyuchko O.M. Biologically active phenol and indole derivatives of terrestrial arthropods: electrophysiological and chemical characteristics. Studia Biologica, Lviv, 2019, V.13. – №2 – P. 99-116.
+Klyuchko O.M. Investigations of chemical substances of terrestrial Arthropods. Studia Biologica, Lviv, 2019, V.13. – №1 – P.129-144.
+
+
+Статті у наукових виданнях інших держав
+Ilnitskyi L.Y., L.V. Sibruk, I. I. Mykhalchuk. Radio monitoring antenna for directional finding Telecommunications and Radio Engineering (Danbury, USA)– 2019.–V.78, №8.– Р. 651-662(I-net publ)
+Aralova N.I., Klyuchko O.M., L. Ya.- H. Shakhlina. Parameters of athlete respiratory system dependence on organism hormonal status during hypoxic mixtures inhalation: research on mathematical models. SciFed Journal of Sports Medicine, USA, 2018, V.1, Is.2 – P.1-11. (I-net publ)
+
+
+Участь у конференціях: публікація матеріалів та тез наукових доповідей
+A. Закордонні конференції:
+Klyuchko O.M., Beloshitsky P.V. Telecommunication And Digital Technologies For Extreme Conditions In Ukraine: Continuation Of EMBS Traditions. International Conference on Telemedicine & Digital Health,Joint Conference On Pathology and Digital Health(Great Britain),Sept21, 2021, I-net publ.
+Klyuchko O.M., Beloshitsky P.V. Our steps to the heights of digital medicine: development of software package and databases with personal data protection for Ukrainian Polissya region. DigiHealthDay2021Symposium, Pfarrkirchen(Germany), 2021.
+Gonchar O.O., Klyuchko O.M., Mankovska I.M. N-Acetylcysteine Neuroprotective Effect on Restraint-induced Oxidative Stress in rat brain. МНК «Физико-химическая биология как основа современной медицины», 21.05.2021, Тез.докл.Респ. конф. посв. 75-л. T.В. Барковского, с.73-74 (Беларусь,Минск,гос.мед.ун-т)
+Klyuchko O.M., Beloshitsky P.V. Diversity of electronic information systems: “EcoIS” monitoring system. DigiHealthDay2020Symposium, Pfarrkirchen(Germany), 13.11.2020 (I-net publ)
+Ilnitskyi L, O. Shcherbyna, I. Mykhalchuk, Olena Kozhokhina. The antenna array with ring elements // Proc. of Signal Processing Symposium (SPSympo), 12-14 September 2017.? Jachranka (Poland). – 2017. – Р. 1-4.
+Klyuchko O.M., Beloshitsky P.V. Diversity of electronic information systems: “EcoIS” monitoring system. DigiHealthDay2020Symposium, Pfarrkirchen(Germany), 13.11.2020. (I-net publ)
+Aralova N.I., Biloshitsky P.V., Klyuchko O.M. Mathematical models of system mechanisms of organism adaptation to hypoxia. World Congress in Mountain Medicine. Chronic Hypoxia Symposium. - LaPaz, Bolivia. - Feb23-Mar2, 2019. – p. 17
+Biloshitsky P.V., Klyuchko O.M. Studying of sport medicine problems at Elbrus Medical and Biological Station. World Congress in Mountain Medicine. Chronic Hypoxia Symposium. - LaPaz, Bolivia. - Feb23-Mar2, 2019. – p. 18.
+Pyatchanina T.V., Klyuchko O.M., Mazur M.G. Using of contemporary methods of medical microimages automatic processing in practical oncology. МНК «Физико-химическая биология как основа современной медицины», 25.05.2019, Беларусь, Минск,гос.мед.ун-т. - Тез.докл.Респ. конф.посв.110-л.В.А. Бандарина, ч.2, с.81-82
+Morozova I.V., Ivanets O.B., Burichenko M.Yu., Kvach Yu.N. Actual aspects of flight safety on the basis of measuring electrical indicators - Metrology and metrology assurance 2021: XXXI International scientific symposium, 7-11 September 2021: рroceeding. – Sozopol, Bulgaria, 2021. – Р. 76-79.
+Morozova I.V., P. Kulakov,O. Ivanets,V. Kucheruk, A. Kulakova, Ju. Moskvichova Criterion assessment of the probability of deviation of objects from the normal state - Metrology and metrology assurance 2021: XXXI International scientific symposium, 7-11 September 2021: рroceeding. – Sozopol, Bulgaria, 2021. – Р. 141-144.
+Morozova I.V., Ivanets O.B. Features of evaluation of complex objects with stochastic parameters - Advanced computer information technologies: XI International conference, , 15-17 September 2021: IEEE. – Deggendorf, Germany, 2021. – Р. 159-162.
+Kozarevych V.O., Melnyk O.S. Controlled illumination of artificial welkin with led systems - The VIII International Science Conference «Impact of modernity on science and practice», April 6 – 7, 2021, Madrid, Spain. 193 p. – рр. 13-15
+Kozarevych V.O., Melnyk O.S. Practice of design modern nanocircuits - The XXIII International Science Conference «Theory, practice and science», April 27 – 30, 2021, Tokyo, Japan. 493 p.
+Kozarevych V.O., Melnyk O.S. Computer Simulationof Cipher Nanodevices Computer Simulationof Cipher Nanodevices - Scientific Collection «InterConf», (72): with the Proceedings of the 5 th International Scientific and Practical Conference «Scientific Community: Interdisciplinary Research» (August 26-28, 2021). Hamburg, Germany: Busse Verlag GmbH, 2021. 479 p.- pp. 435-442.
+
+
+B. Конференції в Україні: міжнародні та вітчизняні:
+
+B.1. Статті у матеріалах конференцій
+Klyuchko O.M., Electronic information system for monitoring of organic chemical pollution in environment. // стаття в збірці: Матер. XIII МНТК "АВІА-2019" 19-21 квітня 2019 р. м. Київ, Україна, С. 13.13-13.16.
+Klyuchko O.M., Contemporary electronic expert system for recognition of environmental pollutants. // стаття в збірці: Матер. XIII МНТК "АВІА-2019" 19-21 квітня 2019 р. м. Київ, Україна, С. 13.1-13.4.
+Klyuchko O.M., Navrotskyi D.A., Kolganova O.O., Mykolushko A.N.Neurobiosensors and their possibilities of information signals coding. World Congress “Aviation in the XXI c.”, 10-12.10. 2018. Kyiv, (I-net publ). P. 6.2.10-6.2.14.
+Ключко О.М. Вирішення окремих задач у галузі інформаційної безпеки: біофізичний підхід// стаття в збірнику: Матер. XIII МНТК "АВІА-2017" 19-21 квітня 2017 р. м.Київ, Україна, С. 10.11-10.15
+Ключко О.М., П’ятчаніна Т.В., Мазур М.Г. Огляд деяких математичних методів у дослідженні онкологічної патології // стаття в збірнику: Матер. XIII МНТК "АВІА-2017" 19-21 квітня 2017 р. м.Київ, Україна, С. 10.6-10.10
+Shutko V., etc. Physical model of chemosensitive channel-receptor complex: electronical approach «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2021»: Матер.МНПК. – 2021.
+Shutko V., etc. Fast spline transformation for the second derivative calculation – ХІV Міжнародна науково-технічна конференція «АВІА–2019», 23-25 квітня, 2019. – Київ (Україна).
+Shutko V., etc. Method of Adaptive Multi-scale Transformation for Image Data Compression Advances in Intelligent Systems and Computing: the International Conference on Computer Science and Information Technologies, CSIT 2020, September 23–26, 2020. – Zbarazh. – PP. 743–757.
+Shutko V., etc. Neurobiosensors and their possibilities of information signals coding Open Access Proceedings Journal of Physics: Conference Series. World Congress “Aviation in XXI”, 10-12.10.2020. Київ, Україна, E-збірка http://conference.nau.edu.ua/index.php/Congress/Congress2020/paper/viewFile/7628/6675
+V.N. Azarskov, O. A. Sushchenko, F.J. Yanovsky, L.S. Zhiteckii, K.Yu. Solovchuk. Robust process control based on generalized inverse model concept, The 9th World Congress “Aviation in the XXI-st Century, Kyiv, Ukraine, Sep. 22-24, 2020, pp. 1-8.
+F. J. Yanovsky, E.G. Aznakayev, V.I. Karpenko, D.O. Navrotsky, V.V Kozlov. Optimisation tools for controlling biotechnological processes of biogas production, The 9th World Congress “Aviation in the XXI-st Century, Kyiv, Ukraine, Sep. 22-24, 2020, pp. 1-8. http://conference.nau.edu.ua/index.php/Congress/Congress2020/paper/viewFile/7856/6947
+Morozova I.V., Shutko V.M., Klyuchko O.M., Mykolushko A.M., Ivanytskyi Y.S. Neurobiosensors as elements of the hybrid electronic information systems - Авіація в XXI столітті – Безпека в авіації та космічної технології: IX Всесвітній конгрес, 22 – 24 вересня 2020 р.: матер. доп. – К., 2020. – С. 6.2.7-6.2.12.
+Morozova I.V., Korchan V.M. Uniaxial sun tracking system - Авіація в XXI столітті – Безпека в авіації та космічної технології: IX Всесвітній конгрес, 22 – 24 вересня 2020 р.: матер. доп. – К., 2020. – С. 6.3.13-6.2.20.
+Козаревич В.О., Мельник О.С. Наноелектронні пристрої з програмованою логікою - Матеріали ХХVІІ Міжнародної науково-практичної інтернет-конференції «Проблеми та перспективи розвитку сучасної науки в країнах Європи та Азії» // Збірник наукових праць. – Переяслав, 2020 р. – сс. 150-152.
+Мельник О.С., Тишкова І.О. Конфігуровані великі інтегральні схеми.//Всеукраїнська науково-технічна конференція «Проблеми аеронавігації, електроніки та телекомунікації» , Київ, 26-27.11.2020.
+Melnyk O.S., Moskalenko B.D. Temperature Influence of Nanocircuits.//XXI conf. Polit “Challenger of science today”. 5-9.04.2021, Kyiv
+Melnyk O.S., Kozarevych V.O. Nanoshemes with Configurated Structures //XXI conf. Polit “Challenger of science today”. 5-9.04.2021, Kyiv.
+
+
+B.2. Тези за доповідями на конференціях
+Бідний М. , Панін С. Шляхи та можливості використання адитивних технологій в Україні і закордоном / – Матеріали НТК " Політ -2018". - Київ, 2018. – 2 с.
+Бойко І. Ф., Іваницький Є. С. Проблеми обчислення коефіцієнтів Фур’є при стохастичному аналізі нелінійних систем // Матеріали ХІІІ МНТК «АВІА-2017». – К.: НАУ, 2017. – С. 10.1 – 10.5.
+Бойко І. Ф., Іваницький Є. С. Розпізнавання випадкових сигналів у спектрах стохастичних ортогональних базисів // Проблеми розвитку глобальної системи зв’язку, навігації, спостереження та організації повітряного руху CNS/ATM: тези доповідей НТК, м. Київ, 21 – 23 листопада 2018 р. – К.: НАУ, 2018. – С. 36.
+Бойко І. Ф., Іваницький Є. С. Аналіз нелінійних систем з використанням стохастичних ортогональних розкладень // Всеукраїнська науково-технічна конференція «Проблеми аеронавігації, електроніки та телекомунікацій», 26 – 27 листопада 2020 р., м. Київ.
+Іванов В.О., Мякішев І.К., Задорожний О.С. Спотворення односмугового сигналу в антенному тракті гелікоптера. ПОЛІТ. Сучасні проблеми науки: тези доп. ХVІІІ міжнар. наук.-практ. конф. мол. уч. і студ., м. Київ, 3-6 квітня 2018 р.: тези доп. – К.: НАУ, 2018. – С. 53-54.
+Іванов В.О., Мякішев І.К., Задорожний О.С. Пульсації діаграми спрямованості антенної системи конвертоплана. ПОЛІТ. Сучасні проблеми науки: тези доп. ХІХ міжнар. наук.-практ. конф. мол. уч. і студ., м. Київ, 1-5 квітня 2019 р.: тези доп. – К.: НАУ, 2019. – С. 57-58.
+L. Ilnitskyi, L. Sibruk, I. Mykhalchuk. Antenna of Mobile Radio Monitoring System // The Eight Word Congress “AVIATION IN THE XXI-st CENTURY” 10-12 October 2018. ? Kyiv (Ukraine). – 2018.
+Ключко О.М., Пітерцев О.А., Миронов Д.О., Тищук Б.В. Біоінформаційна система «ЕкоІС» з базами даних та інкорпорованими біосенсорами. НТК «Проблеми аеронавігації, електроніки та телекому-нікацій”, зб.тез конф. ФАЕТ, 26-27.11.2020.м.Київ, Україна. – с.70-72.
+Ключко О.М., Бурцева Н.В., Іваницький Є.І., Миронов Д.О. Актуальні зміни у класифікації електронних інформаційних систем для біології та медицини. НТК «Проблеми аеронавігації, електроніки та телекому-нікацій”, зб.тез конф. ФАЕТ, 26-27.11.2020.м.Київ, Україна. – с.72-74.
+Beloshitsky P.V., Klyuchko O.M., Bilyk I.I., Beloshitsky A.S. Technical and medical aspects of coronavirus disease treatment (2019-nCoV) «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2020»: Матер.ХIIІ МНПК. – К: «НАУ-друк» 2020. – С.69-71.
+Klyuchko O.M., Gonchar O.O. Investigation of acute hypoxia and hypoxic-hyperoxic adaptation for the development of novel devices. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2020»: Матер.ХIIІ МНПК. – К: «НАУ-друк» 2020. – С.72,73.
+Ключко О.М., П’ятчаніна Т.В., Мазур М.Г. Розробка методів автоматизованої обробки зображень для потреб вітчизняної онкології. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2019»: Матер.ХIІ МНПК. – К: «НАУ-друк» 2019. – С. 98-99
+Klyuchko O.M. , Pyatchanina T.V., Mazur M.G. Methods of mathematics and bioinformatics in contemporary oncology. World Congress “Aviation in the XXI c.”, 10-12 жовтня 2018р. м.Київ, Україна, стаття в E-збірнику, С. 6.2.10-6.2.14
+Аралова Н.І., Ключко О.М., Машкін В.І., Машкіна І.В. Математичне моделювання функціональної самоорганізації системи дихання льотчиків. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2018»: Матер.ХІ МНПК. – К: «НАУ-друк» 2018. – С. 268-269.
+П’ятчаніна Т.В., Ключко О.М., Мазур М.Г. Комбіноване застосування реляційних баз даних зображень для діагностики, терапії та прогнозу онкологічних захворювань. «Інтегровані інтелектуальні робототехнічні комплекси»-«ІІРТК-2017»: Матер.Х МНПК. – К: «НАУ-друк» 2017. – С. 275-276.
+Ключко О.М. Розробка математичних та програмних моделей блокування поширення інформації у структурах абстрактних елементів. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2017»: Матер.Х МНПК. – К: «НАУ-друк» 2017. – С. 242-243.
+Shutko V.N., Zakhmatov V.N., Kolganova O.O. Electronic information system for the fire prevention with chemosensitive detectors. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2020»: Матер.ХIIІ МНПК. – К: «НАУ-друк» 2020. – С.80, 81.
+Beloshitsky P.V., Klyuchko O.M., Beloshitsky A.S. Information-bioinformation-bioinformatics. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2021»: Матер.ХIV МНПК. – К: «НАУ-друк» 2021. – С.57-58.
+Gonchar O.O., Klyuchko O.M., Kovalchuk P.R. Creation of electronic biomedical databases with information about substances for hypoxic states correction. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2021»: Матер.ХIV МНПК. – К: «НАУ-друк» 2021. – С.59-60.
+Klyuchko O.M., Shutko V.N., Gonchar O.A., Kolganova O.O., Mykolushko A.N. Physical model of chemosensitive channel-receptor complex: electronical approach. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2021»: Матер.ХIV МНПК. – К: «НАУ-друк» 2021. – С.61-62.
+Klyuchko O.M., Beloshitsky P.V., Navrotskyi D.A., Kovalchuk P.R. Comparative analysis and classification of electronic information systems in medicine, biology and neurophysiology. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2021»: Матер.ХIV МНПК. – К: «НАУ-друк» 2021. – С.63-64.
+Shutko V.N., Klyuchko O.M., Kolganova O.O., Pitertsev O.A., Burtseva N.V Technical system with detectors of chemical substances for aviation. «Інтегровані інтелектуальні робототехнічні комплекси»- «ІІРТК-2021»: Матер.ХIV МНПК. – К: «НАУ-друк» 2021. – С.65-66.
+Beloshitsky P.V., Klyuchko O.M., Elbrus Medical-Biological Station of the National Academy of Sciences of Ukraine: development of biotechnical space technologies.. XV Міжн.конгрес “AVIA-21”, 20-22.04.2021, Київ, Україна, ст. в E-збірці.
+Klyuchko O.M., Gonchar O.O. Carbon nanostructures as potent nanoprotector against emotional stress-induced oxidative disorders in brain tissue. XV Міжн.конгрес“AVIA-21”, 20-22.04.2021, Київ, Україна, ст. в E-збірці, c.1-5.
+Ключко О.М., Бурцева Н.В., Іваницький Є.І., Миронов Д.О. Актуальні зміни у класифікації електронних інформаційних систем для біології та медицини. «Проблеми аеронавігації, електроніки та телекомунікацій”, зб.тез конф. ФАЕТ, 26-27.11.2020. м.Київ, Україна. – с.72-74.
+Ключко О.М., Пітерцев О.А., Миронов Д.О., Тищук Б.В. Біоінформаційна система «ЕкоІС» з базами даних та інкорпорованими біосенсорами. Біоінформаційна система «ЕкоІС» з базами даних та інкорпорованими біосенсорами. НТК «Проблеми аеронавігації, електроніки та телекому-нікацій”, зб.тез конф. ФАЕТ, 26-27.11.2020.м.Київ, Україна. – с.70-72.
+Morozova I.V., Korchan Development of methods identification Io devices - Політ. Сучасні проблеми науки: XXI міжнар. наук.-практ. конф. молод. уч. і студ., 5-9 квітня 2021 р.: тези доп. – К., 2021. – С. 107.
+Морозова І.В., Терещенко Ю.М. Удосконалення показників робочого процесу в теплових двигунах поліпшенням сумішоутворення і згорання палива - АВІА-2021: XI міжнар. наук.-техн. конф., 20 –22 квітня 2021 р.: тези доп. – К., 2021. – С. 56.16-58.17.
+Morozova I.V., Korchan Methods of identification Io devices АВІА-2021: XI міжнар. наук.-техн. конф., 20 –22 квітня 2021 р.: тези доп. – К., 2021. – С. 27.9-28.9.
+Морозова І.В. Комплексний підхід до вирішення завдань поліпшення параметрів і характеристик складних об’єктів Комплексне забезпечення якості технологічних процесів та систем: XI міжнар. наук.-практ. конф., 16–17 квітня 2021 р.: тези доп. – Чернігів., 2021. – Т. 1. – С. 114.
+Козаревич В.О., Мельник О.С. Nanoschemes with configurated structures: POLIT. CHALLENGES OF SCIENCE TODAY. AIR NAVIGATION. ELECTRONICS. TELECOMMUNICATIONS: Abstracts of the XXth International conference of higher education students and young scientists, Kiev, 2021, National Aviation University/ editorial board Isaienko V.М. [and others]. – К.: NAU, 2021. – 106 р.
+
+
+Навчально-методичні публікації
+Іванов В.О., Є.І.Габрусенко, Л.В.Сібрук, Д.П.Бондарнко., Задорожний О.С. Електромагнітна сумісність електронних пристроїв та систем. Методичні рекомендації для виконання лабораторних робіт. – К. :НАУ, 2019. – 64 с.
+Іванов В.О., Л.В. Сібрук, Є.І. Габрусенко, О.С. Задорожний, Д.П. Бондаренко. Електромагнітна сумісність електронних пристроїв та систем. Лабораторний практикум для спеціальності 171 «Електроніка». – К.: НАУ, 2019. – 60 с.
+Габрусенко Є.І.. Основи математичного моделювання електронних пристроїв. Лабораторний практикум. Лабораторний практикум для спеціальності 171«Електроніка». – К.: НАУ, 2018. – 32 с.
+Електроніка, схемотехніка та мікропроцесори: Методичні рекомендації до виконання курсової роботи / Укладачі: М. Бідний, О. Кожохіна. – К. : НАУ, 2018. – 44 с.
+Цифрові пристрої: Лабораторний практикум / Укладачі: М. Бідний, В. Мігель, М. Нємтінов. - К. : НАУ, 2019. – 54 с.
+Технології програмування в приладобудуванні: Лабораторний практикум / Укладачі: М. С. Бідний, Н. В. Бурцева, В. О. Козаревич. – К.: НАУ, 2020. – 52 с.
+Тараненко А.Г., Є.І. Габрусенко. Системи мобільного зв’язку. Методичні рекомендації для спеціальності 172 «Телекомунікації та радіотехніка» – К.: НАУ, 2020.
+Морозова І.В., Білецький А.Я. Основи спектрального аналізу: Навчальний посібник – K.: Print, 2020. – 224 с.
+Морозова І.В., Іванець О.Б., Нечипорук В.В., Нечипорук О.П. Конструювання і технології електронної апаратури та систем: Навчальний посібник – K.: Print, 2020. – 181 с.
+Мельник О.С. Схемотехніка мікро- та наносистем. – Текст лекцій та лабораторний практикум для бакалаврів спец. 153 – «Мікро- та наносистемна техніка» - К.: НАУ, 2021р. 124 с.
+Мельник О.С. Фізика електронних компонентів та їх моделювання. Лабораторний практикум по проєктуванню тунельно-резонансних наноструктур для магістрів спец.153 – «Мікро- та наносистемна техніка» - К.: НАУ, 2021р. 84 с.

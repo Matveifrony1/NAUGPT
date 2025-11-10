@@ -1,0 +1,14 @@
+Заголовок: Участь у June’s IPD Week Cisco Networking Academy
+URL: http://kszi.nau.edu.ua/novini/197-uchast-u-june-s-ipd-week-cisco-networking-academy
+==================================================
+Участь у June’s IPD Week Cisco Networking Academy
+З 12 по 16 червня 2023 р відбувся заключний в поточному навчальному сезоні Cisco IPD Week (Cisco Instructor Professional Development Week) - тиждень підвищення кваліфікації інструкторів LNA (локальна мережева академія) Cisco.
+У заключній сесії Cisco IPD Week взяла участь інструктор  LNA Cisco кафедри комп’ютеризованих систем захисту інформації (КСЗІ), старший викладач Олена Дубчак.
+Під час нинішнього Cisco IPD Week розглядалися важливі теми щодо новітніх та удосконалення наявних мережевих технологій, засобів кібербезпеки та програмного забезпечення, зокрема:
+AI in Education - How We May Teach and Learn;
+Introduction to Phishing and Malware Analysis;
+Closing the Cybersecurity Skills Gap with Education;
+How to Create Troubleshooting Activities Using PT Activity Wizard;
+Teaching DevNet: Best Practices for Success тощо.
+Особливу увагу серед учасників червневого освітнього тижня викликала дискусія від автора популярного видання «Cisco CCNA Routing and Switching 200-120 Official Cert Guide and Library Simulator» - тема «Wendell Odom discusses the Cisco CertRoadMap on Your CCNA Study Plans».
+Отримані знання та досвід надають можливість інструкторам LNA Cisco - викладачам кафедри КСЗІ використовувати новітні підходи, методи та технології під час викладання освітніх компонент здобувачам вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності 125 «Кібербезпека».

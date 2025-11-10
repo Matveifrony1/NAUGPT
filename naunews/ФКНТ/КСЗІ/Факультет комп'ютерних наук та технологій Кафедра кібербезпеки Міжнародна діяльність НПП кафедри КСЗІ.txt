@@ -1,0 +1,15 @@
+Заголовок: Міжнародна діяльність НПП кафедри КСЗІ
+URL: http://kszi.nau.edu.ua/novini/217-mizhnarodna-diyalnist-npp-kafedri-kszi
+==================================================
+Міжнародна діяльність НПП кафедри КСЗІ
+Старший викладач кафедри комп’ютеризованих систем захисту інформації Олена Дубчак, інструктор локальної мережевої академії (LNA) Cisco Networking Academy, у межах міжнародної діяльності кафедри та відповідно до укладеної угоди із Cisco, протягом 27.11.2023 р. – 01.12.2023 р. взяла участь в Instructor Professional Development (IPD) Week - міжнародній освітній програмі щодо підвищення кваліфікації інструкторів академії.
+Під час IPD Week Sessions розглядалися важливі теми щодо новітніх та удосконалення наявних мережевих технологій, засобів кібербезпеки та програмного забезпечення, зокрема:
+Teaching Beyond Textbooks: Integrating Core Skills into the Classroom
+Network Programmability using Netmiko for those new to Python
+Threat Hunting Hands-on with Cisco XDR
+DNA Center. Part Automation
+New Entrepreneurship Series
+Setting Up Vulnerable Active Directory Lab For Pentester's Playing Ground
+Ethical Hacker. Part 2
+Building Bridges for Employment of the Marginalized, тощо.
+Досвід і навички, отримані під час підвищення кваліфікації (15 год., 0,5 кред.) щодо вивчення і впровадження передового досвіду, зокрема, з організації освітнього процесу, особливостей навчання та сприяння працевлаштування в галузі ІТ осіб з особливими потребами, надають можливість використовувати новітні підходи, методи та технології під час викладання освітніх компонентів для здобувачів вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем» спеціальності 125 «Кібербезпека та захист інформації».

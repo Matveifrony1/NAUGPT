@@ -1,0 +1,36 @@
+Заголовок:Локальне дослідження характеристик магнітного поля
+
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/direction_3_ua
+==================================================
+Локальне дослідження характеристик магнітного поля
+
+Global Earth’s Magnetic field is one of the most important things in planetary structure. Also magnetic field is one of the key elements for navigation purposes. Its parameters are extremely important for direction detection and other applications. For example in inertial navigation systems global magnetic field has been used for sensors calibration. Characteristics of magnetic field have been using for rotation detection and angular speed calculation too. Typically total magnetic field in some point of atmosphere has been sum of thee different components: main magnetic field – is result of geomagnetic process inside of Earth core; external magnetic field – is result of sun influence, depends on current solar activity and usually less than 5% of total magnetic field; anomalous – is result of influence of different ground anomalous areas which contain some ore deposits with magnetic characteristics in earth crust. But some of magnetic anomalies are impossible to description by ore deposits for example “Big Atlantic anomaly”. Nowadays it is possible to detect influence of different human – made structures to total magnetic field. This is the result of wide metal construction usage in city building. Of course this type of influence is a part of anomalous magnetic field, but it is directly connected with results of human changing. In this case we can access natural and human based components of anomalous field. Also for humane based part we can include different electrical devices which can result in magnetic injection.
+
+Sensors
+Magnetic field is characterized by intensity vector, usually. Intensity vector “T” is the sum of the vectors strengths of several fields[5]. Typically, the vector T is estimated from its projections, on the some Cartesian coordinate system (Tx, Ty, Tz components). Also important two angles: declination(D) and inclination(I), which indicate position of intensity vector in space, horizontal TH and vertical Tz components of T.
+
+
+Declination is positive for an eastward deviation of the field relative to true north. It can be estimated by comparing the magnetic north/south heading on a compass with the direction of a celestial pole.
+
+The inclination is given by an angle that can assume values between -90° (up) to 90° (down). In the northern hemisphere, the field points downwards. It is straight down at the North Magnetic Pole and rotates upwards as the latitude decreases until it is horizontal (0°) at the magnetic equator.
+
+All sensors which we need we can find inside of typical tablet or in modern cell phone. That’s way it is need 3 magnetometers (they will sense Tx, Ty, Tz components of intensity vector), 3 gyroses (to detect angular position of tablet) and positioning sensor – GPS receiver (to data composition).
+
+
+With the help of GPS receiver we measured: Height - a scalar value, in meters; Lat - scalar geodetic latitude, in degrees, where north latitude is positive and south latitude is negative; Lon - A scalar geodetic longitude, in degrees, where east longitude is positive, and west longitude is negative. With the help of Magnetic Field sensors – Tx, Ty, Tz – components of magnetic field vector in nanotesla (nT), usually. With the help of Gyroscope – rotation angle data.
+
+In experiment it was used cell phone Samsung Galaxy I9300, and free Android application "Data Recording" for data collecting and store.
+
+As a result of software measurement we have got text files with measured data. Pitch, roll and azimuth - these variables determine the position of device in the space. Azimuth serves as a compass, returning a value from 0 to 360 degrees, where 0 is north. Roll, which defines the "looks" screen phone in the ground or in the sky. Returns a value from 0 to 180 degrees, as you turn the phone to the right (180 degrees when the screen looks down), and from 0 to -180 as you turn your phone left. Pitch determines the angle of the phone in an upright position, returns a value from 0 to 180 (when tilted to the right) and from 0 to -180 when tilted to the left.
+
+   
+References
+Ostroumov I. Local magnetic field data processing / Ostroumov I., Mironyuk O., Nychak M. // Proceeding of the NAU. – 2015. – № 1. – 23-28 p.
+А. С. 53899 України. Комп’ютерна програма «Оцінювання характеристик магнітного поля Землі»/ І.В. Остроумов, O.O. Миронюк, М.В. Ничак. – заявка від 26.10.14; опубл. 03.03.15. Mironyuk, M.V., Ostroumov I.V. Magnetic field data processing with personal electronic device / Polit. Challenges of science today: XIV International Scientific and Practical Conference of Young Researchers and Students, April 2–3, 2014 : theses. – К., 2016. – 34p.
+Nychak M.V., Ostroumov I.V. Mobile device data fixing systems analysis / Polit. Challenges of science today: XIV International Scientific and Practical Conference of Young Researchers and Students, April 2–3, 2014 : theses. – К., 2016. – 34p.
+Ostroumov I.V. Interpolation of magnetic field characteristics by spline functions / I.V. Ostroumov, O.O. Mironyuk, M.V. Nychak // ІV National Scientific Conference of young scientists and students «Problems and prospects of Aeronautics and Astronautics» 28 – 29 October 2015 y – Kyiv, 2015. – P. 5.
+Nychak M.V. Investigation of magnetic field/ M.V. Nychak, O.O. Mironyuk, I.V. Ostroumov // Polit. Challenges of science today: XIV International Scientific and Practical Conference of Young Researchers and Students, April 2–3, 2014 : theses. – К., 2014. – 34p.
+Nychak M.V Real time sensors data processing/ M.V. Nychak, V.I. Zaporozhets, I.V. Ostroumov // Polit. Challenges of science today: XIV International Scientific and Practical Conference of Young Researchers and Students, April 2–3, 2014 : theses. – К., 2014. – 35p.
+Ostroumov I.V. Navaids facility for aircraft positioning / I.V. Ostroumov // The Sixth World Congress “AVIATION IN THE XXI-st CENTURY” - "Safety in Aviation and Space Technologies". Volume 2. – Kyiv: NAU, 2014. – 3.2.1-3.2.5 pp.
+Mironyuk O.O. Tablet location tracking by inertial sensors / O.O. Mironyuk, M.V. Nychak, V.I. Zaporozhets, I.V. Ostroumov // ІІI National Scientific Conference of young scientists and students «Problems and prospects of Aeronautics and Astronautics» 23 – 24 October 2014 y – Kyiv, 2014. – P. 13.

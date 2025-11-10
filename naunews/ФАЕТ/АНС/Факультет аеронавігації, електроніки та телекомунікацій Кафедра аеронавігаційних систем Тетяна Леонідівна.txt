@@ -1,0 +1,77 @@
+Заголовок:Тетяна Леонідівна
+Малютенко
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/cadre_maliutenko_ua
+==================================================
+Тетяна Леонідівна
+Малютенко
+
+старшй викладач кафедри АНС
+E-mail: tetiana.maliutenko@npp.kai.edu.ua
+ORCID: 0000-0002-3525-3935
+Google Scholar
+SCOPUS
+IEEE
+WoS
+RG
+У 2007 році закінчила ФІТ ІІДС Національного Авіаційного університету, спеціальність «Системи аеронавігаційного обслуговування». Захисти ла диплом магістра на тему " Радіопротидія апаратурі систем наведення потентійних засобів ураження " .
+
+З 2007-2011 рр. навчалась в аспірантурі НАУ.
+
+З 2011 по теперішній день працюю асистентом кафедри АНС.
+
+На кафедрі викладаю англійською, російською та українською мовами наступні дисципліни для студентів інституту Аеронавігації: " Супутникові навігаційні системи", "Моделювання аеронавігаційних систем", "Навігаційні системи".
+
+Приймала участь у науково-дослідн ій робот і « Теоретичні засади високоточних визначень координат в реальному часі на основі супутникових радіонавігаційних систем 494-ДБ08 » у 2008-2010 рр.
+
+Підвищення кваліфікації
+Національній академії педагогічних наук України ДЗВО «Університет менеджменту освіти» Центральний інститут післядипломної освіти (період з 10.02.2020 по 11.09.2020 р.) та отримала свідоцтво СП 35830447/1244-20 (7 кредитів (210 годин) ЄКТС) від 11 вересня 2020 р.
+«Великий курс про ШІ в освіті», період проходження курсу 26 травня по 9 червня 2025 р.;
+курси англійської мови Vocabulary for General English Маріупольський університет 30 жовтня 2024 р. по 28 лютого 2025 р.;
+курси англійської мови Practical English Маріупольський університет 30 жовтня 2024 р. по 29 квітень 2025 р.;
+сертифікат Центру мовної сертифікації та англомовної освіти за професійним спрямуванням ПА № 00238 від 27.12.2024 р. «Державний університет «Київський авіаційний інститут»»
+сертифікат IT Ukraine Association Teacher’s Internship: AI- tools for Education held by EPAM № EPAMTI2585, січень-лютий 2025 р.
+сертифікати “Altium”, 09.11.2024 (Altium Designer Essentials - On Demand); 07.02.2025 (Altium 365 Design Management and Set Up); 07.03.2025 (Altium 365 Training Bundle); 07.03.2025 (Altium 365 Library Management).
+2008
+V.M. Kondratuk, Malyutenko Tetyana Ways and methods of transfer navigation information in real time// Третій Всесвітній конгрес “Авіація у XXI столітті”.- 2008.-C.31.6-31.14.
+Melkumyan V. H., Malyutenko Tetyana Applied problem of service technological systems designing// Третій Всесвітній конгрес “Авіація у XXI столітті”.- 2008.-C.31.14-31.22.
+2009
+В.В. Загоруйко, Т.Л. Малютенко, Критерії якості диференціальо-корегувальної станції// IХ Міжнародній науково-технічній конференції «АВІА-2009».-2009.-C.7.41-7.45.
+2010
+В.Г.Мелкумян, Т.Л. Малютенко Моделювання методу корекції координатно-часових визначень в комбінованому режимі// Вісник Інженерної Академії.-2010.-№3-4
+Melkumyan V. H., Malyutenko Tetyana The combined method of coordinate determinations using GNSS// Четвертий Всесвітній конгрес “Авіація у XXI столітті”.- 2010.
+2011
+Мелкумян В.Г., Малютенко Т.Л. «Вимірювання координатних визначень глобальної навігаційної супутникової системи в реальному часі»// Вісник НАУ .- 2011.-№2.
+
+2012
+В.Г. Мелкумян, Т.Л. Малютенко, Підвищення точності координатних визначень на основі вимірювання фази несучої сигналів глобальної навігаційної супутникової системи// Х Міжнародній науково-технічній конференції «АВІА-2012».-2012.
+
+E.A. Kovalevskiy., Malyutenko Tetyana Satellite signals quality monitoring in case periodic anomalies //П’ятий Всесвітній конгрес “Авіація у XXI столітті”.- 2012.
+2013-2014
+Малютенко Т.Л., Мелкумян В.Г. Аналіз забезпечення високоточної навігації транспортних засобів в реальному часі. Авіа-2013: XI міжнар. наук.–техн. коф., 21-23 травня 2013. – Т.2. –С.7.26-7.30.
+Maluitenko T., Melkumyan V. Problem formalization of polyergatic transport technological systems design. Proceedings of the National Aviation University. –2014. –№4.– P.21-27.
+Малютенко Т.Л. Супутникова навігаційна технологічна система. Проблеми розвитку глобальної системи зв’язку, навігації, спостереження та організації повітряного руху CNS/ATM: всеукр. наук.–техн. коф., 17-19 листопада 2014 р.:тези доп. – К., 2014. – С.68.
+Maluitenko T., Melkumyan V., Ostroumov І. Control of process degradation of transport technological system. The Sixth world congress “Aviation in the XXI-st century”. –2014.-№4.– P.3.215-3.218.
+2015-2016
+Maluitenko T., Melkumyan V., Ostroumov І. Models of Consideration of Degradation and Regenerative Processes During the Service Technological Systems Design. Proceedings of the National Aviation University.– 2015. –№1. – P.30-36.
+Maluitenko T., Melkumyan V., Kovalevskiy E. Determination of geographical coordinates of the spacecraft at limited number of visible navigation satellites Proceedings of the Seven world congress “Aviation in the XXI-st century”. –2016.– P. 3.6.8 – 3.6.12.
+Maluitenko T., Melkumyan V., Kovalevskiy E. Navigation and ballistic support spacecrafts Proceedings of the Seven world congress “Aviation in the XXI-st century”. –2016.– P. 3.6.26 – 3.6.31.
+Малютенко Т.Л., Мелкумян В.Г., Остроумов І.В. Навігаційні системи. Методи навігаційних визначень з використанням характеристик природних явищ. Лабораторний практикум/ уклад.: В.Г. Мелкумян, І.В. Остроумов, Т.Л.Малютенко – К.: НАУ, 2016. – 64 с.
+2017-2018
+Малютенко Т.Л., Харченко В.П., Шмельова Т.Ф., Васильєв Д.В., Знаковська Є.А. та ін.. Методологія ситуаційного колективного управління пілотованими і безпілотними літальними апаратами в єдиному повітряному просторі. Монографія. – 2017. Т. 1. – с. 119
+Малютенко Т.Л., Харченко В.П., Шмельова Т.Ф., Васильєв Д.В., Знаковська Є.А. та ін.. Методологія ситуаційного колективного управління пілотованими і безпілотними літальними апаратами в єдиному повітряному просторі. Монографія. – 2017. Т. 2. – с. 119
+2019
+Сушич О.П., Приходько І.А. Малютенко Т.Л. Автономний контроль цілісності навігаційних визначень супутникових навігаційних систем Вісник Інженерної Академії України.–2019.–№4. – C.7-13. Конин В.В, Малютенко Т.Л. Приходько И.А Погурельский А.С. Компоненты GNSS в среде MATLAB Тези доповіді Загальноукраїнська конференція “MATLAB та комп'ютерні обчислення в освіті, науці та інженерії”. – 2019. –C. 29-30.
+Тарасевич С.М., Малютенко Т.Л. Застосування MULTI-GNSS для визначення координат об'екта Тези доповіді Всеукраїнська науково-технічна конференція молодих учених і студентів "Проблеми аеронавігації, електроніки та телекомунікацій" – К.: НАУ, 2019. –C. 20
+Каленченко В.Р., Малютенко Т.Л. Оцінка місцеположення за допомогою супутникової навігації GALILEO ТА COMPASS Тези доповіді Всеукраїнська науково-технічна конференція молодих учених і студентів "Проблеми аеронавігації, електроніки та телекомунікацій" – К.: НАУ, 2019. –C. 20
+Малютенко Т.Л., Сушич О.П., Приходько І.А Автономний контроль цілісності навігаційних визначень супутникових навігаційних систем Вісник Інженерної Академії України.–2019.–№4. – C.7-13.
+2020-2021
+Methods for Research and Study GNSS in Remote Mode Tetiana Maliutenko, Valeriy Konin, Olexiy Pogurelskiy, Irina Pryhodko, 2021 IEEE International Conference on Information and Telecommunication Technologies and Radio Electronics(UkrMiCo), (Kyiv,November 29 – December 3, 2021),K.,2021,P.195-199.
+T. Maliutenko, O. Pohurelsky, I. Pryhodko, O. Melnykova Laboratory workshop in a Multisim environment skills in the fundamentations of aviation electronic systems for students speciality “Air traffic service”- АВІА-2021: XIII міжнар. наук.-техн. конф., 20-22 квітня, 2021 р.: тези доп. – К., 2021. – с.6.62-6.64.
+Малютенко Т.Л., Конін В.В., Погурельський О.С., Приходько І.А., Сушич О.П. Дистанційне дослідження глобальних навігаційних супутникових систем – Матеріали другої міжнародної конференції "MATLAB та комп’ютерні обчислення в освіті, науці та інженерії", квітень 24-28, 2021 р., Київ – 48-51 с.
+2024
+Simulation of the Functional and Performance Behavior of Multi-GNSS Constellation, Pogurelskiy, Olexiy, Konin, Valery; Prykhodko, Iryna; Maliutenko, Tetiana; Sushych, Oleksii; Ishchenko, Oksana Proceedings of the 2nd International Workshop on Advances Civil Aviation Systems Development, Editors Ivan Ostroumov, Maksym Zaliskyi, March 2024, p. 125-136. LNNS volume 992, 10.1007/978-3-031-60196-5_11 .
+Performance Analysis of Intentional Interference on Multi-GNSS Receivers, Sushych, Oleksii; Pogurelskiy, Olexiy; Konin, Valery; Kutsenko, Oleksandr; Prykhodko, Iryna; Maliutenko, Tetiana Proceedings of the 2nd International Workshop on Advances Civil Aviation Systems Development, Editors Ivan Ostroumov, Maksym Zaliskyi, March 2024, p. 114-124., . LNNS volume 992, 10.1007/978-3-031-60196-5_10 .
+Revealing the Criteria for Detecting the Spoofing and Premediated Interference of GNSS Signals Using the Experimental Simulation Model, Konin, Valery; Pogurelskiy, Olexiy; Prykhodko, Iryna; Maliutenko, Tetiana; Zhalilo, Alexey; Yakovchenko, Alexandr, Proceedings of the 2nd International Workshop on Advances Civil Aviation Systems Development, Editors Ivan Ostroumov, Maksym Zaliskyi, March 2024, p. 101-113., . LNNS volume 992, 10.1007/978-3-031-60196-5_9 .
+2025
+Research of the Influence of Retransmission Radio Interference on SBAS Characteristics, Konin, Valery; Maliutenko, Tetiana; Devid Duchet; Natali Caccioppoli Proceedings of the 3rd International Workshop on Advances Civil Aviation Systems Development, Editors Ivan Ostroumov, Karen Marais, Maksym Zaliskyi, March 2025.

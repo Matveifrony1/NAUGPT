@@ -1,0 +1,25 @@
+Заголовок: Курс «Introduction to Data Science, Business Analytics and Artificial Intelligence»
+Дата: 18/04/2016
+URL: https://nau.edu.ua/ua/news/2016/4/kurs-introduction-to-data-science-business-analytics-and-artificial-intelligence.html
+==================================================
+
+23 та 24 квітня Програма з комп'ютерних наук Українського католицького університету спільно з IBM, КПІ, Науковим товариством НАУ i Science & Youth організовує курс «Introduction to Data Science, Business Analytics and Artificial Intelligence» старшого наукового співробітника IBM Canada та професора за сумісництвом Університету Торонто і Українського католицького університету – Олександра Романка.
+Теми курсу:
+Introduction to data science and analytics
+Basic statistics
+Modeling techniques
+Simulation modeling
+Optimization
+Data mining
+Machine learning and artificial intelligence
+Data visualization and visual analytics
+Decision making and software for business analytics
+Курс «Introduction to Data Science, Business Analytics and Artificial Intelligence» є безкоштовним.
+По закінченню всі учасники отримають сертифікат від IBM та Програми з комп’ютерних наук Українського католицького університету (CS@UCU).
+Для участі просимо зареєструватись:
+http://goo.gl/forms/MJba6vkXdP
+Мова курсу – українська (презентаційні слайди англійською)
+Дата – 23 та 24 квітня 2016 року
+Місце – м. Київ, Національний авіаційний університет, проспект Космонавта Комарова 1
+Докладніша інформація:
+http://www.analyticsua.com/

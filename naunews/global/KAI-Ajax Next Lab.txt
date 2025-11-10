@@ -1,0 +1,127 @@
+Заголовок:KAI-Ajax Next Lab
+
+Дата: ----------
+URL: https://innovation.kai.edu.ua/2025/08/07/kai-ajax-next-lab/
+==================================================
+Лабораторії
+/
+KAI-Ajax Next Lab
+KAI-Ajax Next Lab
+обладнання
+УЧАСТЬ У ПОДІЯХ
+НАШІ КУРСИ
+ПРОЄКТИ НАШИХ РЕЗИДЕНТІВ
+команда
+FAQ
+електроніка
+ФАЕТ, ауд. 3.108–3.109.
+
+Для студентів, аспірантів та викладачів
+
+KAI AJAX LAB — інженерний коворкінг для розробників електроніки та embedded-систем. Створений у співпраці Київського Авіаційного Інституту та Ajax Systems.
+20+ робочих місць з повноцінними Dev-наборами.
+Logic analyzers, осцилографи, паяльні станції.
+STM32, ESP32, NRF, Raspberry Pi, Arduino.
+3D-принтери, лазерний гравер, інструментальна зона.
+Банк електронних компонентів — резистори, сенсори, плати, конектори тощо.
+Сервер GitLab CI/CD, доступ до приватного Docker-реєстру, VR-тестові бокси.
+Залишити заявку
+НАЗАД ДО ЛАБОРАТОРІй
+обладнання
+KAI Innovations Image 230
+01
+гідропульсуюча машина для втомних випробувань ГРМ-2А
+Lorem ipsum dolor sit amet consectetur. Viverra placerat phasellus cursus ultrices urna. Cursus at quis egestas amet donec. Aliquet sit vel sodales quis nibh malesuada. Non sem lacus neque eleifend gravida turpis. Cursus at quis egestas amet donec. Aliquet sit vel sodales quis nibh malesuada. Non sem lacus neque eleifend gravida turpis.
+
+Показати більше
+1
+/
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+УЧАСТЬ У ПОДІЯХ
+01
+
+Software Robotics Hackaton at Kyiv School of Economics
+
+опис
+
+Cтуденти КАІ студентського конструкторського бюро “Sky”, за підтримки лабораторії Kai-Ajax LAB, збірна команда з ФАЕТ кафедри ЕРМІТ, АКІК та з ФКНТ, прийняли участь у хакатоні Software Robotics Hackaton/ Наша команда зайняла четверте місце продемонструвавши нетривіальні рішення та цікаві підходи до вирішення завдання ✈️
+
+коли:
+
+3-4 травня, 2025
+
+
+1
+
+/
+
+2
+
+НАШІ КУРСИ
+Embedded Engineering Internship from Ajax Systems
+Quality Assurance Device від Ajax Systems
+Майстер-класи з STM32
+Патенти та авторські свідоцтва
+ПРОЄКТИ НАШИХ РЕЗИДЕНТІВ
+
+Розробка нових апаратурних засобів для мікро- і нанозондування поверхні.
+
+Дослідження топографії поверхні з нанометровим розділенням.
+
+команда
+
+KAI
+ТЕТЯНА СОЛОМАХА
+КЕРІВНИЦЯ ЛАБОРАТОРІЇ
+ignatovych@kai.edu.ua
+
+показати більше
+
+KAI
+БОГДАН ЧУМАЧЕНКО
+АДМІНІСТРАТОР
+ignatovych@kai.edu.ua
+
+показати більше
+
+KAI
+ДМИТРО СЕНЧУК
+АДМІНІСТРАТОР
+ignatovych@kai.edu.ua
+
+показати більше
+
+KAI
+ДЕНИС НАВРОЦЬКИЙ
+ВИКЛАДАЧ
+ignatovych@kai.edu.ua
+
+показати більше
+
+KAI
+ІГНАТОВИЧ СЕРГІЙ
+ІНЖЕНЕР
+ignatovych@kai.edu.ua
+
+показати більше
+
+KAI
+ІГНАТОВИЧ СЕРГІЙ
+ІНЖЕНЕР
+ignatovych@kai.edu.ua
+
+показати більше

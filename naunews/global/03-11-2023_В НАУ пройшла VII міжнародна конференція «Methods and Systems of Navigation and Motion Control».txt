@@ -1,0 +1,28 @@
+Заголовок: В НАУ пройшла VII міжнародна конференція «Methods and Systems of Navigation and Motion Control»
+Дата: 03/11/2023
+URL: https://nau.edu.ua/ua/news/2023/11/v-nau-proyshla-vii-mizhnarodna-konferentsiya-methods-and-systems-of-navigation-and-motion-control.html
+==================================================
+
+З 24 по 27 жовтня 2023 року в рамках розвитку IEEE (Institute of Electrical and Electronics Engineers) спільноти Національного авіаційного університету відбулась VII міжнародна конференція «Methods and Systems of Navigation and Motion Control».
+Організаторами конференції виступили: Національний авіаційний університет, IEEE Ukraine Section, IEEE Ukraine Section SP/AES Societies Joint Chapter.
+До участі у проведенні засідання секції були залучені провідні фахівці авіаційної та космічної галузі з наступних ЗВО:
+-Національного авіаційного університету;
+-Національного технічного університету України «Київський політехнічний інститут імені Ігоря Сікорського»;
+-Дніпровського державного технічного університету;
+-КНУ ім. Т. Шевченка;
+-Національного університету біоресурсів і природокористування України;
+-Національного університету кораблебудування ім. адмірала Макарова;
+-Tarsus University (Туреччина);
+-Національного аерокосмічного університету ім. М.Є. Жуковського «Харківський авіаційний інститут»;
+-Хмельницького національного університету;
+-Наукового центру аерокосмічних досліджень Землі НАН України;
+-Волинського національного університету імені Лесі Українки;
+-Харківського національного університету радіоелектроніки;
+-Київського національного університету технологій та дизайну.
+Серед доповідей, в яких визначено наукову і практичну цінність, можна відмітити наступні:
+-«Object Detection and Classification Based on their 3D Models», авторів Victor Sineglazov, Kirill Ryazanovskiy, (Національний авіаційний університет, Україна).
+-«Graph Analysis of Connections in Ukrainian-Turkish Flight Routes Networks», авторів O. Ivashchuk, Ivan Ostroumov, (Національний авіаційний університет, Україна).
+-«Wireless Technologies Modular Construction of Aviation Gas Turbine Engines», авторів Serhii Tovkach, (Національний авіаційний університет, Україна).
+-«Robust Stabilization of an Autonomous Marine Vehicle on Programmed Trajectories», авторів V. Timchenko, V. Horbov (Національний університет кораблебудування ім. адмірала Макарова, Миколаїв, Україна).
+-Drone-Assisted Path Planning Optimization for Mobile Robots in Dynamic Scenarios», авторів Muhammed Mirac Ozer, Murat Bakirci (Tarsus University (Туреччина).
+Бажаємо всім учасникам наснаги, нових звершень та досягнень!

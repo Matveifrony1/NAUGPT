@@ -1,0 +1,26 @@
+Заголовок: 23 листопада 2021р. о 9-00 початок Всеукраїнської
+науково-технічної конференції «СТАЛИЙ РОЗВИТОК ГЛОБАЛЬНОЇ СИСТЕМИ
+ЗВ’ЯЗКУ, НАВІГАЦІЇ, СПОСТЕРЕЖЕННЯ ТА ОРГАНІЗАЦІЇ ПОВІТРЯНОГО РУХУ
+CNS/ATM-2021»!
+Дата: unknown
+URL: https://www.ans.nau.edu.ua/news_295_ua
+==================================================
+</p><br><div style="text-align:right;"><A class=nazv>( 2021-11-23 )<font color="white">.......</font></A></div></TD></tr></table></div></TD></tr><tr><td align=center><br> <A class=name href="javascript:window.history.back();"><< Назад</A></tr></td></table><br><br><br><div align="center"><a class="brea" href="https://www.ans.nau.edu.ua/about_ua" title="Кафедрa АНС">ПРО НАС</a><a class="brea" href="https://www.ans.nau.edu.ua/news_ua" title="Новини"> > Новини</a></div></div><div class="footer"><div class="footer_left">КАФЕДРА АЕРОНАВІГАЦІЙНИХ СИСТЕМ <br>
+03058, м.Київ,<br> Проспект Любомира Гузара 1,<br> корпус 11, аудiтория 325</div><div class="footer_center">
+<IMG s_rc="https://www.ans.nau.edu.ua//main/picture/nau.gif" border="0" width="150px" align="middle">
+</div><div class="footer_right">Контактні телефони<br>
+Кафедра: +38(044) 406-72-44</div>
+<br><a class="sm">Design & Suport by </a><a class="sm" href="https://www.ostroumov.sciary.com">Ivan Ostroumov</a></div><div align="right">&copy;Air Navigation Systems Department, KAI. All rights are reserved</div>
+</div></div>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LMZ0PB8ZDZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LMZ0PB8ZDZ');
+</script>
+
+</BODY>
+</HTML>

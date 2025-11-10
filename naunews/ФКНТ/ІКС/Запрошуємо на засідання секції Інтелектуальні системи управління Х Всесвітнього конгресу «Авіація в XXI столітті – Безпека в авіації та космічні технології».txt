@@ -1,0 +1,18 @@
+Заголовок: Запрошуємо на засідання секції Інтелектуальні системи управління Х Всесвітнього конгресу «Авіація в XXI столітті – Безпека в авіації та космічні технології»
+URL: https://ccs.nau.edu.ua/novini/congress_2022
+==================================================
+Запрошуємо Вас взяти участь у засіданні секції “Інтелектуальні системи управління” X Всесвітнього конгресу “Авіація у XXI столітті” – “Безпека в авіації та космічні технології”. Засідання секції відбудеться 28 вересня 2022 року о 17:30 в режимі Zoom Meeting (url:
+https://us04web.zoom.us/j/9531699122?pwd=Q1pFZFVnaUdZM01YUlNnSE5Wc3czUT09
+, Meeting ID: 953 169 9122, Passcode: 9ZsKtN).
+Посилання на програму всіх засідань конгресу:
+http://congress.nau.edu.ua/2022/programa/
+Будуть заслухані наступні доклади:
+1. Corporative control of unmanned aerial vehicles based on synchronized motion. D.P. Kucherov.
+2. A neural network application for classification of a sign language dactylemes. O.M. Hlazok, I.A. Balytska
+3. Recurrent neural networks for passengers traffic data forecasting. Architecture overview and comparison.
+L.V. Sibruk, I.V. Zakutynskyi.
+4. Intellectualized computer network control system. А. Savchenko, I. Chuba, N. Rybasova, O. Shevchenko.
+5. Інфологічна модель критеріїв виникнення нештатних ситуацій на об’єктах критичної інфраструктури. О.О. Писарчук, Т.С. Сорокопуд.
+6. Гібридний алгоритм кластеризації зображень опікових ран для систем цифрової медицини. О.В. Палагін, А.М. Касім.
+7. Впровадження інформаційних систем управління підприємствами нафтопереробної промисловості. А.В. Бредніков.
+8. Функціональне моделювання процесів андерайтингу авіаційної компанії. П.М. Павленко, С.О. Тетерін, Т.М. Захарчук, В.Ф. Лучков.

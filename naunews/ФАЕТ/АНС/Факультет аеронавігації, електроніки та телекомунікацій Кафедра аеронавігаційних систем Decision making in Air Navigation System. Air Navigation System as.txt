@@ -1,0 +1,21 @@
+Заголовок:Decision making in Air Navigation System. Air Navigation System as a socio-technical system
+
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/direction_4_ua
+==================================================
+Decision making in Air Navigation System. Air Navigation System as a socio-technical system
+
+Air Navigation System (ANS) is presented as a socio-technical system (STS). The Air Navigation Sociotechnical Systems (ANSTS) tend to have two common features: high technologies and high risk activities. The circular of ICAO presents the safety case for cultural interfaces in aviation safety with reference main conceptual safety models: the SHEL model, Reason’s model of latent conditions, and the Threat and Error Management (TEM) model and etc. The evolution of human factor's models is presented (from 1972 to present time).
+
+Analyzed influence the factors of professional and non-professional activities on the decision making (DM) in ANSTS. So, we have the system of professional factors: knowledge, skills, and abilities in learning, professional activity and the system of non-professional factors: individual-psychological (temperament, attention, perception, thinking, imagination, nature, freedom, health, experience, memory); psycho-physiological (touch response human-operator (H-O), neuromuscular delay, spontaneous, emotional, rational types of activity); socio-psychological (cultural, economic interests, social priorities, the political views, to the legal regulations etc). Experimental models of preferences operators ANSTS under the influence of non-professional factors (pilots, air traffic controllers, managers) was obtained for using Expert Judgment Method.
+
+Presented models of DM operators of ANSTS: the deterministic models (DM for using network planning); the stochastic decision-making models (DM in risk for using decision-tree; DM in uncertainty for using criteria Vald, Laplace, Savage, Hurwicz); the neural network, fuzzy models, the Markov network models, GERT-models. Modeling of behavioral activity of Human-operators of ANSTS in flight emergencies. Examples of modeling DM for engineers, pilots, air traffic controllers, UAV operators, managers etc.
+
+Analysis of the development of situation and forecasting of development of emergency situation in ANSTS is presented. Modeling of bipolar choice of operator STS for using of reflexion theory, Markov network etc. Choosing in the direction of positive, negative pole, a mixed choice and forecasting of development of the situation. The method of generalization of heterogeneous factors of professional and non-professional activities in ANSTS. The methodology for analysis of flight situation development using GERT's and Markov’s networks.
+
+Diagnostic of operators obtained for using research of behavioral operator activities and groups of operators in ANSTS: socionic methods for determining the type of information metabolism of the individual, energy consumption for the choice of profession, sociometry methods to determine the compatibility of operators in the group etc. The research of obtaining the real characteristics of the emotional state of H-O without interference in ergonomic conditions of operator activity is required. With the system approach personality types of aviation professionals and their interactions during the performance of professional tasks in the small group on the example of the controllers’ team.
+
+The man-machine system as ANSTS is presented: Information-analytical diagnostic system for the research of human operator air navigation systems; Decision Support Systems (DSS). Examples of DSS are presented: DSS of air traffic controller in the emergency situational, the flight dispatcher’s DSS, DSS of UAV operator etc.
+
+
+

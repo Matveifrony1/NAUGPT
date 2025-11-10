@@ -1,0 +1,34 @@
+Заголовок: Розпочато тріал-доступ до платформи Web of Science
+Дата: 15/05/2017
+URL: https://nau.edu.ua/ua/news/2017/5/rozpochato-trial-dostup-do-platformi-web-of-science.html
+==================================================
+
+До 10 червня 2017 року в межах проекту «ТОРНАДО» від Консорціуму e-VERUM університетська спільнота НАУ може скористатися тестовим доступом до баз відомої наукометричної платформи Web of Science від корпорації Thomson Reuters:
+Web of Science Core Collection:
+- Science Citation Index Expanded (1970-2016) – бібліографічна база статей із більш ніж 8500 провідних наукових і технічних журналів світу зі 150 дисциплін;
+- Social Science Citation Index (1970-2016)– бібліографічна база статей із 3000 журналів світу з 50 суспільствознавчих дисциплін;
+- Arts and Humanities Citation Index (1975-2016) – бібліографічна база статей із понад 1700 провідних журналів світу з мистецтва та гуманітарних наук;
+- Conference Proceedings Citation Index (1990-2016) – база матеріалів конференцій.
+Book Citation Index (2003-2016) – інструмент пошуку по базах журналів, книг та матеріалів конференцій.
+Journal Citation Reports (2004–2015) – результати оцінки провідних журналів світу на основі даних цитування.
+Derwent Innovations Index (1963-2016)– база даних по патентах.
+Medline® (1950-2016) – бібліографічна база статей із медичних наук.
+Russian Science Citation Index (2002–2016).
+Scielo Citation Index (1980–2016).
+Emerging Sources Citation Index (2015–2016).
+Korean Journal Index (1980–2016).
+Chinese Science Citation Database (1989–2016).
+Адреса доступу:
+http://webofscience.com/
+Ресурс InCites Journal Citation Reports доступний за адресою:
+https://jcr.incites.thomsonreuters.com
+Web of Science: Інструкція користувача (
+http://wokinfo.com/media/mtrp/wok5_wos_qrc_ru.pdf
+), довідка по всім базам даних (
+http://images.webofknowledge.com/WOKRS520B4.1/help/ru_RU/WOK/hp_search.html
+), тренінги (
+https://www.youtube.com/user/WOKtrainingsRussian
+).
+Доступ надається лише в локальній мережі університету або за допомогою VPN.
+Інформаційний бюлетень березень 2017 р
+.

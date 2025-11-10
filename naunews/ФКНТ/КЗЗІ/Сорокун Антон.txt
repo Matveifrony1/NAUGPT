@@ -1,0 +1,28 @@
+Заголовок:Сорокун Антон
+
+Дата: ----------
+URL:http://www.kzzi.nau.edu.ua/sorokun-anton/
+==================================================
+Сорокун Антон
+Доцент кафедри технічного захисту інформації, кандидат технічних наук.
+
+Народився 21 грудня 1992 року у м. Києві. Навчався з 2009 по 2014 та закінчив Національний авіаційний університет, ступінь: магістр, спеціальність: «Компʼютерні системи та мережі». кваліфікація: науковий співробітник (обчислювальні системи), аналітик компʼютерних систем.
+
+Науковий ступінь: кандидат технічних наук, 05.12.02 «Телекомунікаційні системи та мережі», тема дисертації «Метод зниження бітового об’єму відеознімків для підвищення якості відеосервісу з використанням інфокомунікаційних систем», диплом ДК № 058412, видано 26 листопада 2020 року.
+
+Друга вища освіта отримана протягом 2012-2014 в Національному авіаційному університеті за спеціальністю: «Маркетинг». кваліфікація: фахівець з методів розширення збуту (маркетолог)
+
+ORCID: orcid.org/0000-0001-8469-641X
+
+DOI: 10.15587/2313-8416.2018.127526
+
+E-mail: anton.sorokun@npp.nau.edu.ua
+Місцезнаходження в НАУ: 11.411
+
+Основні наукові праці:
+
+1) Sorokun A., Barannik V., Stetsenko O., Musienko A., Yudin O. Technology for Efficient Encoding of Structural Components Using the Multi-Agent Approach for Telecommunication Tools and Devices. The Experience of Designing and Application of CAD Systems in Microelectronics CADSM’2018: The 14th International Conference, Polyana-Svalyava (Zakarpattya), Ukraine, 21–25 Feb. 2018. – P. 29–31.
+
+2) Anton Sorokun, Vladimir Barannik, Viktoria Himenko, Natalia Barannik, Yuriy Stasev, Alexander Musienko. Effective Coding Method of Video Frames in Infocommunications IEEE Problems of Infocommunications. Science and Technology (PICS&T’2018): Materials of IEEE Second International Scientific-Practical Conference, Kharkiv, Ukraine, Oct. 13–15, 2018. – P. 144–147.
+
+3) Сорокун А., Мелешко Т. Перспективи зменшення впливу направлених кібератак методами підвищення завадостійкості сигналів з багатопозиційною фазовою маніпуляцією. Кібербезпека та програмна інженерія: тези доп. Міжнародної науково-технічної конференції “АВІА-2023”, Україна, Київ, 18-20 квітня 2023 р. М-во освіти і науки України, Київ, НАУ, ФКПІ, 2023. С. 234-237.

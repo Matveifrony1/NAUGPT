@@ -1,0 +1,60 @@
+Заголовок:Публікації студентів
+
+Дата: ----------
+URL: https://applmaths.nau.edu.ua/show.php?id=281
+==================================================
+Публікації студентів
+Публікації студентів кафедри «Прикладної математики»
+
+за 2017-2022 роки.
+
+За період 2017-2022 рр. за безпосередньої участі студентів кафедри опубліковано:
+
+4 статті у видання, що індексуються в SCOPUS;
+8 статей у виданнях, що входять до переліку фахових в Україні;
+5 статей у збірниках праць за матеріалами міжнародних конференцій в Україні;
+отримано 1 патент на корисну модель
+82 тез доповідей на міжнародних конференціях в Україні.
+SCOPUS
+
+Prystavka, A. Chyrkov, V. Sorokopud, V. Kovtun, “Automated Complex for Aerial Reconnaissance Tasks in Modern Armed Conflicts”, CEUR Workshop Proceedings, Volume 2588, P. 57-66, 2019.   (scopus)
+Prystavka, S. Dolgikh, O. Cholyshkina, D. Karpenko, “Automated Object Recognition System based on Convolutional Autoencoder”, In: Proceeding 10th International Conference on “Advanced Computer Information Technologies”, Deggendorf, Germany, 16-18 Semptember, 2020, P.830-833.   (scopus)
+Yurchuk I. Segmentation of digital images of aerial photography / Kovdrya V., Bilyanska L. // 2019 IEEE International conference “Actual problems of unmanned aerial vehicles developments” (APUAVD), October 22-24, 2019, Kyiv, Ukraine. – K.: NAU. – P.258-261. . (scopus)
+Philip Prystavka, Kseniia Dukhnovska, Oksana Kovtun, Olga
+Leshchenko, Olha Cholyshkina, Vadym Semenov ANALYSIS OF THE
+ACCURACY OF RECOGNITION OF AERIAL OBJECTS ON THE
+BASIS OF DATA SETS WITH DIFFERENT AGGREGATION OF
+CLASSES// Eastern-European Journal of Enterprise Technologies/ 2022
+(прийнята до публікації) (scopus)
+ 
+
+Статті у виданнях, що входять до переліку
+
+фахових в Україні
+
+ 
+
+Піскунов О.Г. Визначення області  бачення камери при  аерофотозйомці   /    О. Г. Піскунов,  І. А. Юрчук,  Л. В. Білянська  // Наукоємні технології. – 2017. – Т. 35. – №. 3. – С., 204-208.
+ПриставкаП.О. Експериментальний зразок автоматизованої системи пошуку підозрілих об’єктів на відео з безпілотного повітряного судна /  Приставка П.О., Чирков А.В., Сорокопуд В.І. // Системи озброєння і військова техніка. – 2017. – №2(50). – С. 26–32.
+Приставка П.О. Дослідження похідних лінійної комбінації В-сплайнів п’ятого порядку / Приставка П.О., Чолишкіна О.Г., Мартюк Б.І. // Актуальні проблеми автоматизації та інформаційних технологій : Зб. наук. праць. – Дніпро, 2017. – Т.21. – С.52–64.
+P. Prystavka Feature detection for realistic images based on b-splines of 3rd order related to interpolar on average / P. Prystavka, Tyvodar, B. Martyuk // Proceedings of the National Aviation University.– 2017.–№2 (71). –P. 76 – 83.
+Приставка П.О. Дослідження похідних лінійної комбінацій В-сплайнів четвертого порядку / Приставка П.О., Мартюк Б.І., Чолишкіна О.Г.// Актуальні проблеми автоматизації та інформаційних технологій : Зб. наук. праць. – Дніпро, 2016. – Т.20. –С.73–81
+Приставка П.О., Чирков А.В., Сорокопуд В.І., Здота Д.В., «Імітаційна апробація інформаційної технології навігації літального апарата за оптичним каналом», Наукоємні технології, № 3(47), С. 370-377, 2020.
+Чирков А.В., Гісь Д.І., Приставка П.О. Спосіб автоматизованого пошуку цільових об’єктів на відео з БпЛА в режимі пост-обробки // Захист інформації, 21(2), с.97103, 2019. doi: 10.18372/2410-7840.21.13767
+Приставка П., Чолишкіна О., Козачук О, Яременко Д.
+Нейромережева автоматизація наповнення набору даних
+аерофотозйомки // Інформаційні технології та суспільство, 2022. –
+Випуск 2 (4). С. 88–99.
+Статті за матеріалами міжнародних конференцій в Україні
+
+Приставка П.О. Пошук об’єктів за допомогою детекторів особливих точок на основі сплайн-моделі зображення / Приставка П.О., Мартюк Б.І.// АВІА–2017: Матеріали ХІІІ міжнародної науково–технічної конференції (19–21 квітня 2017р.). –К.: НАУ, 2017. –  С.7.99 – 7.103.
+Yurchuk I. Automation of the topological classification of convolutions of piecewise continuous functions / I.Yurchuk, Salov// Proceedings of the 14th International scientific conference ”AVIA-2019”, April 23-25, 2019, Kyiv, Ukraine. – K.:NAU. – P. 10.62-10.65
+Yurchuk I. On topological aspects of the digital image segmentation / Pasichnyk M., Yurchuk I.// The 13th summer school “Analysis, topology and applications”, july 29- august 11, 2018, Vychnytsya, Chernivtsi region, Ukraine: abstracts . –  Chernivtsi:ChNU, 2018. –  50-52.
+Кубайчук О. Аналіз та стабілізація фінансової системи методами теорії графів./ Кубайчук О., Боличев Б. // ХХХІV Всеукраїнська науково-практична інтернет-конференція «Тенденції та перспективи розвитку науки і освіти в умовах глобалізації» [Електронний ресурс]. – Переяслав-Хмельницький, 2018. – Вип. 34. – С. 381–383.
+Жук П.Ф., Іллічева Л.М., Герасимчук О. Mathematical modeling and numerical realization of direct calorimetry problem / The Ninth World Congress "AVIATION IN THE XXI-st CENTURY". Kyiv, Ukraine, September 22-24, 2020
+Патенти
+
+Приставка П.О. Система для пошуку підозрілих об'єктів за відеоданими з камери безпілотного повітряного судна (БПС)/ Чирков А.В., Сорокопуд В.І., Кондратюк В.М., Куценко О.В., Білик А.Ю // Патент на корисну модель №126747 Україна, МПК (2006.01) B64C 13/20, G01C 11/04, G01C 13/00, G01C 21/26, G06K 9/80; власник Національний авіаційний університет. – № u 2017 10682; заявл. 11.2017; опубл. 10.07.2018. – бюл. №
+ 
+
+ 

@@ -1,0 +1,147 @@
+Заголовок:Євгенія Анатоліївна
+Знаковська
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/cadre_znacovskay_ua
+==================================================
+Співробітники кафедри
+
+Знаковська Євгенія АнатоліївнаЄвгенія Анатоліївна
+Знаковська
+кандидат технічних наук
+доцент
+доцент кафедри АНС
+E-mail: yevheniia.znakovska@npp.kai.edu.ua
+ORCID: 0000-0002-9064-6256
+Google Scholar
+SCOPUS
+DBLP
+LN
+FB
+Педагогічний стаж – 21 рік.
+
+Основні етапи діяльності
+
+З 1995 р. по 2001 р. – навчання в Національному авіаційному університеті за фахом "Обслуговування повітряного руху".
+
+З 2002 р. по 2005 р. – навчання в аспірантурі Національного авіаційного університету.
+
+З 2001 р. по 2004 р. – молодший науковий співробітник кафедри Аеронавігаційних систем Факультету інформаційних технологій Інституту інформаційно-діагностичних систем Національного авіаційного університету.
+
+З 2004 р. по 2006 р. – асистент кафедри Аеронавігаційних систем Факультету інформаційних технологій Інституту інформаційно-діагностичних систем Національного авіаційного університету.
+
+З 2006 р. по 2007 р. – молодший науковий співробітник, старший викладач кафедри Аеронавігаційних систем Факультету інформаційних технологій Інституту інформаційно-діагностичних систем Національного авіаційного університету.
+
+В 2007 р. захистила кандидатську дисертацію в Національному авіаційному університеті за спеціальністю 05.22.13 «Навігація та управління рухом» на тему: «Моделювання основних складових ризиків втрати цілісності аеронавігаційних засобів».
+
+З 2007 р. по теперішній час – доцент кафедри Аеронавігаційних систем Інституту Аеронавігації Національного авіаційного університету.
+
+У 2012 р. отримала вчене звання доцента кафедри Аеронавігаційних систем.
+
+Автор 67 друкованих праць. З них 56 наукових, 4 навчально-методичні праці та 7 авторських свідоцтв.
+
+
+Наукові інтереси:
+Цілісність аеронавігаційних засобів;
+Метеопідтримка;
+Штучний інтелект;
+Безпілотні літальні апарати;
+Супутникові системи;
+Операційні системи;
+Програмування C++, Java, Python.
+Дисципліни
+«Основи прикладних інженерних технологій», «Алгоритмізація та програмування в авіаційному транспорті», «Геоінформаційні системи», «Програмування мікропроцесорів та мікроконтролерів», «Операційні системи реального часу», «Програмування БАС», «Операційні системи та системи програмування», «Мови програмування», «Середовища програмування та проектування БАС», «Інтелектуалізація процесів аеронавігаційного обслуговування».
+
+Учасниця англомовного проекту НАУ з викладання навчальних дисциплін англійською мовою. Навчальні курси англійською мовою: «Основи прикладних інженерних технологій», «Алгоритмізація та програмування в авіаційному транспорті», «Геоінформаційні системи», «Операційні системи та системи програмування».
+
+Сертифікати
+                   
+Публікації
+﻿
+2001
+Бабак Є.А.Загальні принципи визначення цілісності аеронавігаційної системи // Матеріали ІІІ міжнародн ої науково-технічн ої конференці ї « АВІА–2001 » . – К., НАУ. – 2001. – Т.IV. – С. 19.32 - 19.36.
+Бабак Є.А. Оцінка впливу системних помилок на характеристики аеронавігаційного обслуговування // Матеріали Міжнародн ої науков ої конференці ї студентів та молодих вчених « Наука і молодь » . – К., НАУ. – 2001. – С. 51.
+2002
+Харченко В.П., Кукуш А.Г. , Бабак Є.А. Перевірка гіпотези нормального функціонування супутникової радіонавігаційної системи // Матеріали І V міжнародн ої науково-технічн ої конференці ї « АВІА–2002 » . – К., НАУ. – 2002. – Т.I I . – С. 21.159 - 21.162.
+Харченко В.П., Кукуш А.Г. , Бабак Є.А. Гіпотеза якості функціонування супутникової радіонавігаційної системи при різноточному спостереженні та негаусових похибках // Вісник НАУ. К.: НАУ. – №2 - 2002. – С. 85-90.
+Харченко В.П., Кукуш А.Г. , Бабак Є.А. , Закора С.А. Класифікація конфліктних ситуацій між ЛА та вибір зон небезпеки // Вісник НАУ. К.: НАУ. – № 3 – 2002. – С. 79 - 88 .
+2003
+Харченко В.П., Кукуш А.Г., Бабак Є.А. Методи визначення цілісності аеронавігаційних засобів // Матеріали V міжнародної науково-технічної конференції «АВІА–2003». – К., НАУ. – 2003. – Т. I I . – С. 21.116–21.119.
+Супутникові системи авіаційного зв'язку Харченко В.П., Бабак Є.А., Паук С.М., Нестерова Л.М. – Навчальний посібник. – К.: НАУ, 2003. – 188 с.
+Знаковська Є.А. Аналіз методів оцінки цілісності аеронавігаційних засобів // Вісник НАУ. К.: НАУ. – №3 – 2003. – С. 56-59.
+Kharchenko V.P., Znakovs'ka E.A., Kukush A.G. Modeling of aircrafts collision using Importance Sampling Technique// Proceedings of the NAU. – 2003. №2. – С . 27-30.
+2004
+Бабак В.П., Харченко В.П., Знаковська Є.А. Дослідження ймовірності катастрофічної ситуації методом моделювання рідкісних подій за оптимальною вибіркою // Вісник НАУ. К.: НАУ – №4. – 2004. – С. 3-7.
+2005
+Харченко В.П., Знаковська Є.А. Моделювання порушення цілісності на основі методів дерева ризику і моделювання рідкісних подій // Вісник НАУ. К.: НАУ, 2005. – №1. – С. 23-26.
+Знаковська Є.А. Моделювання порушення цілісності на основі методів дерева ризику і моделювання рідкісних подій на різних етапах польоту. / / Матеріали к онференці ї студентів та молодих вчених « Політ – 2005 » . Тези. К.: НАУ, 2005. – С.97.
+2006
+Харченко В.П., Знаковська Є.А., Нагаев С.В., Кукуш А.Г., Доценко С.И. Выбор объема выборки в методе моделирования редких событий. / Кибернетика и системный аналіз. №1. 2006. – С. 79-86.
+Знаковська Є.А. Определение объема выборки при моделировании редких событий нарушения целостности // Матеріали V ІІ міжнародної науково-технічної конференції «АВІА–2006». – К., НАУ. – 2006.
+Знаковська Є.А. Програмна реалізація методу моделювання рідкісних подій порушення цілісності аеронавігації // Науч.-техн. Журнал "Технологические системы", №3(35).2006. – С.31-33.
+2007
+Знаковська Є.А. Дослідження ймовірності втрати повітряних кораблів на оптимальному об'ємі вибірки для різних регіонів планети // Матеріали VІІI міжнародної науково-технічної конференції «АВІА–2007». – К.: НАУ, 2007. – С.21.101-21.104.
+2011
+Знаковська Є.А. Оцінка ризику втрати повітряних кораблів у повітряному просторі Україні за новими правилами ешелонування / Є.А. Знаковська, І.В.Остроумов, Ю.В. Чинченко // Вісник Інженерної академії України. – 2011. – № 1 – С. 30 - 34.
+Богуненко М.М., Знаковська Є.А., Креденцар С.М. Аналіз сучасних геоінформаційних програм для рішення аеронавігаційних задач//Материалы Международной научно-технической конференции студентов и молодых учёных «Информационные управляющие системы и компьютерный мониторинг 2011». – Донецк: ДонНТУ. – 2011. – Том.3 . – С. 8-12.
+Знаковська Є.А. Підтримка прийняття рішень щодо безпеки польотів за допомогою багатокритеріального оцінювання альтернатив / Є.А. Знаковська, Ю.В. Чинченко, І.В. Остроумов // Проблеми інформатизації та управління. – 2011. – №1. – С. 162-167.
+Знаковська Є.А, Сириця В.В. Використання оптимальної вибірки для дослідження ймовірності втрати повітряних кораблів // Матеріали к онференці ї студентів та молодих вчених « Політ – 20 11» . Тези. К.: НАУ, 20 11 . – Т.ІІ. – С. 45 .
+Богуненко М.М., Знаковська Є.А Зменшення негативного впливу повітряних кораблів на оточуюче середовище//Материалы научно - методичної конференции «Проблеми розвитку глобальної системи зв’язку, навігації, спостереження та організації повітряного руху CNS / ATM ». – Київ: Національний авіаційний університет. – 2011. – С. 11.
+Богуненко М.М., Знаковська Є.А., Креденцар С.М. Actual Geoinformational Systems analysis for solving airnavigation problems// Вісник Національного авіаційного університету. – 2011. – №3. – С. 66-74.
+2012
+Знаковська Є.А. Вивчення ефекту / дефекту ризикованості рішень з профілактики авіаційних пригод // О.М. Рева, В.П. Харченко, О.М. Алексєєв, Є.А. Знаковська, Д.Г. Бабейчук // Вісник двигунобудування. – 2012. – №2. – С. 70-79.
+Знаковська Є.А. Математична модель для ідентифікації сузір’я навіга-ційних супутників GPS, GLONASS і GALILEO // Харченко В.П., О.Г. Кукуш, Є.А. Знаковська // Вісник НАУ. – 2012. – №3(52). – С. 5-8.
+Знаковська Є.А. Алгоритм ідентифікації сузір’я навігаційних супутників GPS, GLONASS і GALILEO // Системи обробки інформації: зб. наук. праць. – Харків: ХУПС, 2012. – Вип.8 (106). – С. 16-19.
+Богуненко М.М., Знаковська Є.А. Застосування інформаційних технологій для тренування навичок заповнення плану польоту у новому форматі // Проблеми інформатизації та управління: Збірник наукових праць: Випуск 3(39). - К.: НАУ – 2012. – С. 18-22 .
+Богуненко М . М ., Харченко В . П ., Знаковська Є . А . Navigation “Preparation for the flight on the great-circle track”//Term paper method guide for students of major 6.070102 “Air navigation” .
+Знаковська Є.А. Алгоритм моделювання рідкісних подій порушення цілісності аеронавігаційних засобів // Проблеми інформатизації та управління: Збірник наукових праць: Випуск 3(39). - К.: НАУ – 2012. – С. 47-51.
+Богуненко М.М., Знаковська Є.А. Автоматизація розрахунку глісади заходу на посадку// Тези доповідей науково-технічної конференції «Проблеми розвитку глобальної системи зв’язку, навігації, спостереження та організації повітряного руху CNS/ATM ». – Київ: Національний авіаційний університет. – 2012. – С. 11.
+Знаковська Є.А. Алгоритм ідентифікації сузір’я навігаційних супутників при завадах з невідомим розподілом // Вісник Інженерної академії України. – 2012. – № 3-4. – С. 24­27.
+Операційні системи та системи програмування. Харченко В.П., Знаковська Є.А., Бородін В.А. – Навчальний посібник. – К.: Вид-во Нац. авіац. ун-ту «НАУ-друк», 2012. – 348 с.
+А. С. 45760 України. Комп’ютерна програма «Тренажер для заповнення плану польоту FPL-trainer» / В.П. Харченко, Є.А. Знаковська, В.В. Величко. – заявка від 25.07.12; опубл. 25.09.12.
+2013
+Богуненко М.М., Знаковська Є.А. Застосування лідарів для дослідження параметрів супутнього сліду// Тези доповідей ХІІІ міжнародної науково-практичної конференції молодих учених і студентів «Політ. Сучасні проблеми науки». Тези. К.: НАУ, 2013. – С.95.
+2014
+Закора С.А., Знаковська Є.А., Мельник К.В., Шмельова Т.Ф., Шостак О.В. Комплекс оцінювання та прогнозування ситуації в соціотехнічних аеронавігаційних системах за умов ризику та невизначеності// Тези доповідей науково-технічної конференції «Проблеми розвитку глобальної системи зв’язку, навігації, спостереження та організації повітряного руху CNS/ATM ». – Київ: Національний авіаційний університет. – 2014. – С. 14.
+А. С. 53177 України. Комп’ютерна програма «Conflicting traffic» / Є.А. Знаковська. – заявка від 14.11.13; опубл. 17.01.14.
+А. С. 56819 України. Комп’ютерна програма «Прийняття рішень в умовах невизначеності» / Т.Ф. Шмельова, Є.А. Знаковська, Г.М. Івлева. – заявка від 12.08.14; опубл. 09.10.14.
+2015
+А. С. 61934 України. Комп’ютерна програма «DecisionTree» / Т.Ф. Шмельова, Є.А. Знаковська. – заявка від 21.07.15; опубл. 29.09.15.
+2016
+Shmelova T. Modeling of the Decision Making by UAV’s Operator in Emergency Situations / T. Shmelova, D. Bondarev. Y. Znakovska // 4th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC-2016). 2016 IEEE 4d International Conference. Kyev, 18-20 October 2016.:Proceeding. – P.31-34
+2017
+Kharchenko, V., Shmelova, T., Znakovska, Y., Bondarev, D., & Stratiy, A. (2017). MODELLING OF DECISION MAKING OF UNMANNED AERIAL VEHICLE’S OPERATOR IN EMERGENCY SITUATIONS. Proceedings of National Aviation University, 70(1), 20–28. https://doi.org/10.18372/2306-1472.70.11419
+А.с. Комп’ютерна програма «UAV - AS» свідоцтво про реєстрацію авторського права на твір/ №73549 від 22.08.2017 / Т.Ф. Шмельова, Є.А.Знаковська, Д.І.Бондарєв, О.М. Алєксєєв
+Методологія ситуаційного колективного управління пілотованими і безпілотними літальними апаратами в єдиному повітряному просторі: наукові матеріали. В 3-х томах. Том 1 Методичне забезпечення тренажерної підготовки операторів інтегрованої системи управління пілотованими і безпілотними літальними апаратами /Харченко В. П., Шмельова Т.Ф., Васильєв Д.В., Знаковська Є.А., Луппо О.Є., Лазоренко В.А., Аргунов Г.Ф., Малютенко Т.Л., Бондарєв Д.І., Петрушевський А.О., Чинченко О.Г./ Под ред. Харченко В.П.: – К. : НАУ, 2017. – 120 с.
+Методологія ситуаційного колективного управління пілотованими і безпілотними літальними апаратами в єдиному повітряному просторі: наукові матеріали. В 3-х томах. Том 2. Інтегровані корпоративні моделі для колективного управління пілотованими і БПЛА в єдиному повітряному просторі в умовах ризику і невизначеності / Харченко В.П., Шмельова Т.Ф., Знаковська Є.А., Бугайко Д.О., Луппо О.Є., Лазоренко В.А., Аргунов Г.Ф. Мухіна М.П., Малютенко Т.Л., Кузьменко Н.С., Бондарєв Д.І., Петрушевський А.О., Шостак О.В., Благая Л.В./ Под ред. Харченко В.П.: – К. : НАУ, 2017. – 120 с.
+2019
+Знаковська Є.А. Програмування мікропроцесорів і мікроконтролерів БПЛА – Лабораторний практикум. – К.: Вид-во Нац. авіац. ун-ту «НАУ-друк», 2019. – 96 с.
+2020
+Rudas, S. I., Znakovska, E. A., Bondarev, D. I. (2020). Artificial Intelligence Methods in Aviation Specialist Training for the Analysis and Transmission of Operational Meteorological Information. In T. Shmelova, Y. Sikirda, & A. Sterenharz (Eds.), Handbook of Research on Artificial Intelligence Applications in the Aviation and Aerospace Industries (pp. 306-322). IGI Global.
+2021
+Yuliya Averyanova, E. Znakovskaja, Weather Hazards Analysis for small UASs Durability Enhancement, IEEE International Conference on Actual Problems of Unmanned Air Vehicles Developments Proceedings (APUAVD), 19-21 Oct. 2021, pp.41-44.
+А.с. Комп’ютерна програма « Електронний посібник «Комплекси безпілотних повітряних суден: методологія ергодизайнерського оцінювання » свідоцтво про реєстрацію авторського права на твір/ №102855 від 25.02.2021 / Рубцов А.Л., Свірко В.О., Харченко В.П., Шмельова Т.Ф., Знаковська Є.А.
+2022
+Y. Znakovska, Yu. Averyanova, “Simulation of UAS Operator's Decision-Making under Different Weather Conditions,” Proceedings of IEEE 4th International Conference on Modern Electrical and Energy System (MEES), 2022, pp.1-4.
+Y. Znakovska, Yu. Averyanova,” The Spatial Relationships of Meteorological Data for Unmanned Aerial System Decision-Making Support,” Book Chapter Electronic Governance with Emerging Technologies: First International Conference, EGETC 2022, Tampico, Mexico, September 12–14, 2022, Revised Selected Papers, pp.64-80.
+2023
+M. Ivanytskyi, Y. Znakovska and Y. Averyanova, "Meteorological Information Access and Decision-Making for UAS Flight Planning," 2023 17th International Conference on the Experience of Designing and Application of CAD Systems (CADSM), Jaroslaw, Poland, 2023, pp. 28-32.
+Ivanytsky M.S., Znakovska E.A., Averyanova Y.A. Algorithm for meteorological and information support of a drone. Політ. Сучасні проблеми науки. аеронавігація. електроніка. телекомунікації: Тези доповідей ХХІІІ Міжнародної науково-практичної конференції здобувачів вищої освіти і молодих учених, 4-7 квітня, Київ, 2023, Національний авіаційний університет / Редакційна колегія М.Луцький [та ін.]. – К.: НАУ, 2023. – C. 194.
+А.с. Комп’ютерна програма «Метеорологічна підтримка прийняття рішення оператором безпілотного повітряного судна» («Метеопідтримка ПР оператором безпілотного повітряного судна») свідоцтво про реєстрацію авторського права на твір/ №с202301775 – заявка від 20.03.23; опубл. 18.04.23./ Знаковська Є.А., Авер’янова Ю.А., Благая Л.В.
+M. Ivanytskyi, Y. Znakovska and Y. Averyanova, UAS Flight Trajectory Optimization Algorithm Based on Operative Meteorological Information. CEUR Workshop Proceedings, 3426, 2023, pp. 287 – 297.
+Y. Averyanova, Y. Znakovska, Decision-Making Automation for UAS Operators Using Operative Meteorological Information. CEUR Workshop Proceedings, 3468, 2023, pp. 139 – 149.
+Averyanova, Y., Znakovska, Y. (2023). Optimizing UAS Missions with Advanced Weather Monitoring and Analysis Software. In: Ortiz-Rodríguez, F., Tiwari, S., Usoro Usip, P., Palma, R. (eds) Electronic Governance with Emerging Technologies. EGETC 2023. Communications in Computer and Information Science, vol 1888. Springer, Cham, pp 12–23. https://doi.org/10.1007/978-3-031-43940-7_2
+Y. Znakovska and Y. Averyanova, "The Software Architecture for Weather-Related Hazards Avoidance When Decision-Making Support of UAS Operators," 2023 13th International Conference on Advanced Computer Information Technologies (ACIT), Wrocław, Poland, 2023, pp. 501-505, doi: 10.1109/ACIT58437.2023.10275509.
+M. Ivanytskyi, Y. Znakovska and Y. Averyanova, "Software Solution for UAS Route Planning and Flight Control Using Operative Meteorological Information," 2023 IEEE 7th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC), Kyiv, Ukraine, 2023, pp. 24-28, doi: 10.1109/MSNMC61017.2023.10329228.
+M. Ivanytskyi, Y. Znakovska and Y. Averyanova, Simulation of UAS Flight Parameters for the Software for Route Planning Under Different Weather Conditions, 2023 IEEE 5th International Conference on Modern Electrical and Energy System (MEES), Kremenchuk, Ukraine, 2023, pp. 1-4, doi: 10.1109/MEES61502.2023.10402373. (Scopus).
+Y. Znakovska and Y. Averyanova, Preliminary fault tree analysis of UAS flight failure under weather hazards, 2023 13th International Conference on Dependable Systems, Services and Technologies (DESSERT), Athens, Greece, 2023, pp. 1-6, doi: 10.1109/DESSERT61349.2023.10416441. (Scopus).
+2024
+M. Ivanytskyi, Y. Znakovska and Y. Averyanova, "Software for UAS Control and Navigation Support using the Centered Meteorological Dataspace," 2024 2nd International Conference on Unmanned Vehicle Systems-Oman (UVS), Muscat, Oman, 2024, pp. 1-4, doi: 10.1109/UVS59630.2024.10467171.
+Ivanytskyi M., Averyanova Y., Znakovska Y., Shershen B. Aircraft Flight Path Correction During the Flight Execution Phase Using the Operative Information on Weather Hazards Lecture Notes in Networks and Systems, 992 LNNS, 2024, pp. 31 - 41, DOI: 10.1007/978-3-031-60196-5_3.
+Ivanytskyi, M., Averyanova, Y., Znakovska, Y. (2024). Security Analysis of Meteorological Support Software for UAS Flight Planning. In: Nechyporuk, M., Pavlikov, V., Krytskyi, D. (eds) Integrated Computer Technologies in Mechanical Engineering - 2023. ICTM 2023. Lecture Notes in Networks and Systems, vol 996. Springer, Cham. https://doi.org/10.1007/978-3-031-60549-9_37.
+Averyanova, Y., Ivanytskyi, M., Shershen, B., Znakovska, Y., & Zhdanova, Y. (2024). Simulation of wind-related hazards avoidance when UAS operation in urban environment. CEUR Workshop Proceedings, 3732, 125-135.
+Znakovska, Y. et al. (2024). The Information Technologies Use for UAS Operators’ Training. In: Faure, E., et al. Information Technology for Education, Science, and Technics. ITEST 2024. Lecture Notes on Data Engineering and Communications Technologies, vol 222. Springer, Cham. , Pages 327 – 338. https://doi.org/10.1007/978-3-031-71804-5_22.
+O. Pogurelskiy et al., "Estimation Positioning Accuracy for GPS/EGNOS Mode in Ukraine Region," 2024 IEEE 17th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET), Lviv, Ukraine, 2024, pp. 1-4, doi: 10.1109/TCSET64720.2024.10755700.
+I. Ostroumov et al., "Effective Trajectory Data Storage for Tracking Applications," 2024 IEEE 17th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET), Lviv, Ukraine, 2024, pp. 276-280, doi: 10.1109/TCSET64720.2024.10755923.
+R. Voliansky, M. Zaliskyi, I. Ostroumov, Y. Averyanova, O. Holubnychyi, O. Sushchenko, Y. Znakovska and O. Pogurelsky, "Variable-structure controller design for electric drives with variable-torque load," 5th International Conference on Sustainable Futures: Environmental, Technological, Social and Economic Matters, Kryvyi Rih, Ukraine, IOP Conf. Ser.: Earth Environ. Sci. 1415 012105, May 2024, pp. 1-10, doi:10.1088/1755-1315/1415/1/012105.
+2025
+Shershen, B., Ivanytskyi, M., Averyanova, Y., Znakovska, Y. (2025). Study of ZigBee-Based Communication to Share Operative Weather Information Between UASs in the Frame of Smart Cities Concept. In: Ortiz-Rodriguez, F., Tiwari, S., Krisnadhi, A.A., Medina-Quintero, J.M., Valle-Cruz, D. (eds) Electronic Governance with Emerging Technologies. EGETC 2024. Communications in Computer and Information Science, vol 2245. Springer, Cham. https://doi.org/10.1007/978-3-031-77029-6_6.

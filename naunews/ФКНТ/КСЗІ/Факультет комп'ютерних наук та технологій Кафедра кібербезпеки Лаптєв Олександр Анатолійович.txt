@@ -1,0 +1,90 @@
+Заголовок:Лаптєв Олександр Анатолійович
+
+Дата: ----------
+URL: https://fit.knu.ua/archives/18923
+==================================================
+Лаптєв Олександр Анатолійович
+лаптєв_Доктор технічних наук, старший науковий співробітник, доцент кафедри кібербезпеки та захисту інформації. 
+
+Вища освіта:
+
+Київське вище військове авіаційне інженерне училище, спеціальність  — Авіаційне обладнання.
+
+Додаткова освіта:
+
+1999 рік – Курси підвищення кваліфікації післядипломної освіти в галузі захисту інформації з обмеженим доступом, за напрямком «Організація захисту інформації в комп’ютерних системах» у КПІ ім. Сікорського. Свідоцтво СПК АК №050358.
+2019 рік – Курси підвищення кваліфікації «Системи технічного захисту інформації». Сертифікат № СТ38855349 / 081-19. Державний університет телекомунікацій.
+2020 рік – Курси англійської мови. Свідоцтво №25782 за програмою «Англійська мова як іноземна» на рівні В2.
+Захищені дисертації:
+
+Кандидатська дисертація, спеціальність 20.02.14 «Озброєння і військова техніка», 2002 рік.
+Докторська дисертація : «Методологічні основи автоматизованого пошуку цифрових засобів негласного отримання інформації» за спеціальністю 05.13.21 «Системи захисту інформації»,  2020 рік.
+Досвід роботи: 
+
+ 1981 – 2004 рр. – проходження військової служби в Збройних Силах.
+2004-2015 рр. – старший науковий співробітник Національного наукового- дослідного центру оборонних технологій і безпеки України.
+2015-2019 рр. – старший науковий співробітник Науково-методичного центру кадрової політики Міністерства оборони України.
+2019 – 2020 рр. – доцент кафедри систем інформаційного та кібернетичного захисту Державного університету телекомунікацій.
+2020 –2021 рр. — професор кафедри систем інформаційного та кібернетичного захисту інформації Державного університету телекомунікацій.
+З вересня 2021 доцент кафедри кібербезпеки та захисту інформації факультету інформаційних технологій Київського національного університету імені Тараса Шевченка.
+Наукові праці: 
+
+Дві монографії,  три науково-методичних посібники з технічного захисту інформації. Один посібник англійською мовою.
+
+Понад 110 наукових публікацій у галузі математичного моделювання сигналів засобів негласного знімання інформації, технічного захисту інформації. З них 23 публікації, що індексуються наукометричною базою Scopus. Індекс Гірша в Scopus – 7, у Google Scholar – 11.
+
+Профілі:
+
+Google Scholar
+Scopus
+Web of Science
+ResearchGate
+Orcid
+DBLP
+Основні публікації:
+
+1. Монографії, підручники, посібники
+– О.А. Лаптєв. Методологічні основи автоматизованого пошуку цифрових засобів негласного отримання інформації. – К. Міленіум. 2020 – 326 с. УДК 004.056.53. ISBN 987-966-8063-79-3. (переглянути)
+– Serhii Yevseiev, Volodymir Ponomarenko, Oleksandr Laptiev, Oleksandr Milov and others. Synergy of building cybersecurity systems. Kharkiv. Publisher PC TECHNOLOGY CENTER. 2021 – 188 с. ISBN 978-617-7319-31-2 (on-line). ISBN 978-617-7319-32-9 (print). DOI: 10.15587/978-617-7319-31-2 (переглянути)
+– О.А.Лаптєв, В.В.Собчук, О.М. Станжицький, Н.В Лукова-Чуйко. A comprehensive method of evaluating the effectiveness of the distance learning system in higher education institutions. In book : education, science, research during martial law. Collective monograph. Riga, Latvia : «Baltija Publishing», November 14, 2022. 374 p.(pp.209-231). DOI: https://doi.org/10.30525/978-9934-26-247-0-9. (переглянути)
+– Laptiev O., and other. Methodological aspect of ensuring state security in the mind threats. University of Security Management in Koshitze. Slovakia. 2023. 272 p. ISBN 978-80-8185-058-. (Charter 10. pp.-137-150).(переглянути)
+– Лаптєв О.А., Кузавков В.В., Хорошко В.О. «Системи пошуку засобів негласного зняття акустичної інформації» – К. Міленіум. 2023 – 282 с. (переглянути) 
+– O.Laptiev, V.Savchenko, G.Shuklin, O.Stefurak. Detection and blocking of means of illegal obtaining of information at objects of information activity.Kyiv. SUT. 2020. – 125 р.(переглянути)
+
+2. Публікації, що індексуються у Scopus або Web of Science
+– Oleksandr Laptiev, German Shuklin, Vitalii Savchenko, Oleg Barabash, Andrii Musienko and Halyna Haidur. The Method of Hidden Transmitters Detection based on the Differential Transformation Model. International Journal of Advanced Trends in Computer Science and Engineering (IJATCSE) Volume 8 No. 6 .November – December 2019. Scopus Indexed – ISSN 2278 – 3091.pp.2840 – 2846. DOI: 10.30534/ijatcse/2019/26862019 (переглянути)
+– Olexandr Laptiev, German Shuklin, Spartak Hohonianc, Amina Zidan, Ivanna Salanda. Dynamic model of Ceber Defence Diagnostics of information Systems with the Use of Fozzy Technologies IEEE ATIT 2019 Conference Proceedings Kyiv, Ukraine, December 18-20, pp.116 –120 (переглянути)
+– Oleksandr Laptiev, Oleh Stefurak, Igor Polovinkin, Oleg Barabash, Savchenko Vitalii, Olena Zelikovska. The method of improving the signal detection quality by accounting for interference. 2020 IEEE 2nd International Conference on Advanced Trends in Information Theory (IEEE ATIT 2020) Conference Proceedings Kyiv, Ukraine, November 25-27. pp.172 –175. (переглянути)
+– Oleksandr Laptiev, Savchenko Vitalii, Serhii Yevseiev, Halyna Haidur, Sergii Gakhov, Spartak Hohoniants. The new method for detecting signals of means of covert obtaining information. 2020 IEEE 2nd International Conference on Advanced Trends in Information Theory (IEEE ATIT 2020) Conference Proceedings Kyiv, Ukraine, November 25-27. pp.176 –181.(переглянути)
+– Valentyn Sobchuk, Volodymyr Pichkur, Oleg Barabash, Oleksandr Laptiev, Kovalchuk Igor, Amina Zidan. Algorithm of control of functionally stable manufacturing processes of enterprises. 2020 IEEE 2nd International Conference on Advanced Trends in Information Theory (IEEE ATIT 2020) Conference Proceedings Kyiv, Ukraine, November 25-27. pp.206 –211.(переглянути)
+– Vitalii Savchenko, Oleksandr Laptiev, Oleksandr Kolos, Rostyslav Lisnevskyi, Viktoriia Ivannikova, Ivan Ablazov. Hidden Transmitter Localization Accuracy Model Based on Multi-Position Range Measurement. 2020 IEEE 2nd International Conference on Advanced Trends in Information Theory (IEEE ATIT 2020) Conference Proceedings Kyiv, Ukraine, November 25-27. pp.246 –251. (переглянути)
+– Oleg Barabash, Andrii Musienko, Spartak Hohoniants, Oleksandr Laptiev, Oleg Salash, Yevgen Rudenko, Alla Klochko. Comprehensive Methods of Evaluation of Efficiency of Distance Learning System Functioning. International Journal of Computer Network and Information Security(IJCNIS), Vol. 13, No. 1, Feb. 2021. pp 16–28. DOI: 10.5815/ijcnis.2021.01.02. (переглянути)
+– A.O. Korchenko, V.O. Breslavskyi, S.P Yevseiev, N.K. Zhumangalieva, A.O. Zvarych, S.V. Kazmirchuk, O.A. Kurchenko, O.A. Laptiev, O. V. Severinov, S. S. Tkachuk. Development of a method for construction of linguistic standards for multicriterial evaluation of HONEYPOT efficiency. Eastern-European journal of enterprise technologies. Vol.1№2 (109), 2021 рр. 14–23. ISSN (print)1729 – 3774. ISSN (on-line) 1729-4061. DOI: 10.15587/1729-4061.2021.225346. (переглянути)
+– Serhii Yevseiev, Oleksandr Laptiev, Sergii Lazarenko, Anna Korchenko, Іryna Manzhul. Modeling the protection of personal data from trust and the amount of information on social networks. Number 1 (2021), «EUREKA: Physics and Engineering» pp.24–31. DOI:10.21303/2461-4262.2021.001615.(переглянути)
+– O.Laptiev, V.Savchenko, A. Kotenko, V.Akhramovych, V.Samosyuk, G.Shuklin, A.Biehun. Method of Determining Trust and Protection of Personal Data in Social Networks. International Journal of Communication Networks and Information Security (IJCNIS), Vol. 13, No. 1, 2021. рр. 15-21. (переглянути)
+– Oleksandr Laptiev, Vitalii Savchenko, Andrii Pravdyvyi, Ivan Ablazov, Rostyslav Lisnevskyi, Oleksandr Kolos, Viktor Hudyma. Method of Detecting Radio Signals using Means of Covert by Obtaining Information on the basis of Random Signals Model. International Journal of Communication Networks and Information Security (IJCNIS), Vol. 13, No. 1, 2021. рр.48-54. (переглянути)
+– O.Svynchuk, O. Barabash, J.Nikodem, R. Kochan, O. Laptiev. Image compression using fractal functions.Fractal and Fractional, 2021, 5(2), 31.pp.1-14. DOI:10.3390/fractalfract5020031 – 14 Apr 2021.(переглянути)
+– Oleg Barabash, Oleksandr Laptiev, Valentyn Sobchuk, Ivanna Salanda, Yulia Melnychuk, Valerii Lishchyna. Comprehensive Methods of Evaluation of Distance Learning System Functioning. International Journal of Computer Network and Information Security (IJCNIS). Vol. 13, No. 3, Jun. 2021. рр. 62-71, DOI: 10.5815/ijcnis.2021.03.06. (переглянути)
+– Oleksandr Laptiev, Volodymyr Tkachev, Oleksii Maystrov, Oleksandr Krasikov, Pavlo Open’ko, Volodimir Khoroshko, Lubomir Parkhuts. The method of spectral analysis of the determination of random digital signals. International Journal of Communication Networks and Information Security (IJCNIS). Vol 13, No 2, August 2021 рр.271-277. ISSN: 2073-607X (Online). DOI : 10.54039/ijcnis.v13i2.5008. (переглянути)
+– S. Yevseiev, V. Ponomarenko, O. Laptiev, O. Milov and others. Synergy of building cybersecurity systems: monograph / Edited by– Kharkiv: PC TECHNOLOGY CENTER, 2021. – 188 p. (переглянути)
+– Valentyn Sobchuk, Inna Kal’chuk, Galyna Kharkevych, Oleksandr Laptiev, Yurii Kharkevych, Andriy Makarchuk. Solving the Problem of Convergence of the Results of Analog Signals Conversion in the Process of Aircraft Control. 2021 IEEE 6 th Internaional Conference. Actual Problems of Unmanned Aerial Vehicles development (APUAVD). October 19-21. 2021. Kyiv. Ukraine. рр. 29-33, ISBN: 978-1-6654-3821-6. IEEE Catalog Number: CFP2129V-USB (переглянути)
+– Oleksandr Laptiev, Serhii Yevseiev, Larysa Hatsenko, Olena Daki,Vitaliy Ivanenko,Valery Fedunov, Spartak Hohoniants. The Method of Discretization Signals to Minimize the Fallibility of Information Recovery. International Journal of Communication Networks and Information Security (IJCNIS). Vol. 13, No. 3, December 2021. pp. 340-349. DOI: 0.54039/ijcnis.v13i3.5070 (переглянути)
+– Roman Kyrychok, Oleksandr Laptiev, Rostyslav Lisnevsky, Valeri Kozlovsky, Vitaliy Klobukov. Development of a method for checking vulnerabilities of a corporate network using bernstein transformations. Eastern-European journal of enterprise technologies. Vol.1№9 (115), 2022 рр. 93–101. ISSN (print)1729 – 3774. ISSN (on-line) 1729-4061. (переглянути)
+– Volodymyr Petrivskyi, Viktor Shevchenko, Serhii Yevseiev, Oleksandr Milov,Oleksandr Laptiev,Oleksii Bychkov, Vitalii Fedoriienko, Maksim Tkachenko, Oleg Kurchenko, Ivan Opirsky. Development of a modification of the method for constructing energy-efficient sensor networks using static and dynamic sensors. Eastern-European journal of enterprise technologies. Vol.1№9 (115), 2022 рр. 15–23. ISSN (print) 1729 – 3774. ISSN (on-line) 1729-4061. DOI: 10.15587/1729-4061.2022.252988. (переглянути)
+– Sobchuk, V., Asrorov, F., Perehuda, O., …Laptiev, O., Lukova-Chuiko, N. The limited solutions method for telecommunications network information security models 2021 IEEE 3rd International Conference on Advanced Trends in Information Theory, ATIT 2021 – Proceedings, 2021, рр. 126 –131. (переглянути)
+– Lukova-Chuiko, N., Herasymenko, O., Toliupa, S., …Laptievа, T., Laptiev, O. The method detection of radio signals by estimating the parameters signals of eversible Gaussian propagation 2021 IEEE 3rd International Conference on Advanced Trends in Information Theory, ATIT 021 – Proceedings, 2021, рр. 67–70 (переглянути)
+– Zamrii I., Sobchuk V., Laptiev O., Savchenko V., Shkapa V., Kovalenko V. and Kotok V. Fractal Functions and Their Application to Source Data Coding. ARPN Journal of Engineering and Applied Sciences. Vol. 17, No. 4, 2022. рр. 424 – 435 (переглянути)
+– Oleksandr Laptiev, Valentyn Sobchuk, Yurii Shcheblanin, Oleg Barabash, Andrii Musienko, Valerii Kozlovskyi Evaluation of Efficiency of Application of Functionally Sustainable Generalized Information System of the Enterprise. 4th International Congress on Human-Computer Interaction, Optimization and Robotic Applications June 9-11, 2022, Ankara, Turkey. DOI: 10.1109/HORA55278.2022.9800037. (переглянути)
+– Oleksandr Laptiev, Nataliia Lukova-Chuiko, Serhii Laptiev, Tetiana Laptieva, Vitaliy Savchenko, Serhii Yevseiev. Development of a Method for Detecting Deviations in the Nature of Traffic from the Elements of the Communication Network. International Scientific And Practical Conference “Information Security And Information Technologies”: Conference Proceedings. 13-19 September 2021. Kharkiv – Odesa, Ukraine. рр.1-9. ISBN 978-966-676-818-9. (переглянути)
+– Vitalii Savchenko, Valeriia Savchenko, Oleksandr Laptiev, Oleksander Matsko, Ivan Havryliuk, Kseniia Yerhidzei, Iryna Novikova.Detection of Slow DDoS Attacks Based on Time Delay Forecasting. International Scientific And Practical Conference “Information Security And Information Technologies”: Conference Proceedings. 13-19 September 2021. Kharkiv – Odesa, Ukraine. рр.38-46 ISBN 978-966-676-818-9.(переглянути)
+– Oleksandr Laptiev, Serhii Yevseiev, Andrii Trystan, Valerii Chystov, Olha Matiushchenko and Iryna Zakharchenko. Solving the Problem of Convergence of the Results of Analog Signals Conversion in the Process of Aircraft Control. 2022 IEEE Third International Conference on system analysis & intelligent computing (SAIC), 04-07 Oktober, Kyiv, Ukraine. pр. 118-124. (переглянути)
+– Serhii Yevseiev, Khazail Rzayev, Oleksandr Laptiev, Ruslan Hasanov, Oleksandr Milov, Bahar Asgarova, Jale Camalova, Serhii Pohasii. Development of a hardware cryptosystem based on a random number generator with two types of entropy sources. Eastern-European journal of enterprise technologies. Vol.5 №9 (119), 2022 рр. 6–16. ISSN (print) 1729 – 3774. ISSN (on-line) 1729-4061. DOI: 10.15587/1729-4061.2022.265774 (переглянути)
+– Pichkur V., Laptiev O., Polovinkin I., Barabash A., Sobchuk A. and Salanda I. The Method of Managing Man-generated Risks of Critical Infrastructure Systems Based on Ellipsoidal Evaluation. 2022 IEEE 4th International Conference on Advanced Trends in Information Theory (ATIT), 15-17 December 2022, Kyiv, Ukraine, 2022. рр. 133 – 137. DOI:10.1109/ATIT58178.2022.10024244 (переглянути)
+– Oleksiy Kapustyan,Valentyn Sobchuk,Taras Yusypiv, Oleksandr Laptiev; Irina Shestak; Kateryna Zinchenko. Robust Stability of Limit Regimes in Distributed Signal Transmission RD Systems.2022 IEEE 4th International Conference on Advanced Trends in Information Theory (ATIT), 15-17 December 2022, Kyiv, Ukraine, 2022. pp.168 – 172. DOI: 10.1109/ATIT58178.2022.10024228 (переглянути)
+
+Наукові інтереси:
+
+ Інформаційна безпека/кібербезпека, системи технічного захисту інформації.
+
+Нагороди: Відомчі відзнаки та нагороди Міністерства оборони України, КМДА.
+

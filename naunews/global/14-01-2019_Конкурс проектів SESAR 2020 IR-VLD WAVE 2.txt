@@ -1,0 +1,31 @@
+Заголовок: Конкурс проектів SESAR 2020 IR-VLD WAVE 2
+Дата: 14/01/2019
+URL: https://nau.edu.ua/ua/news/2019/01/konkurs-proektiv-sesar-2020-ir-vld-wave-2.html
+==================================================
+
+Друга хвиля SESAR 2020 має ознаменувати собою перший значний крок для ключових європейських зацікавлених сторін, які мають взаємодіяти з метою уникнення фрагментації цифрового перетворення авіації та ідей, що змінюють правила гри для досягнення цілей єдиного європейського неба (Single European Sky) та Авіаційної Стратегії.
+Цей конкурс проектів обмежений для учасників-членів SJU (
+https://www.sesarju.eu/
+) відповідно до Регламенту SJU 219/2007, зміненого до 721/2014, де чітко вказано, що SJU виконує завдання надання грантів її членам. Члени SJU перераховані в рішенні ABD ADB(D)02-2016 від 9-го Березня 2016 року та підкріплене членською угодою SJU SJU/LC/307-CTR.
+Термін подання: 16 квітня 2019.
+Перелік тем:
+SESAR-IR-VLD-WAVE2-01-2019: PJ.19 W2 Content Integration, Performance Management and Business Case Development
+SESAR-IR-VLD-WAVE2-02-2019: PJ.20 W2 Master Planning
+SESAR-IR-VLD-WAVE2-03-2019: PJ.02 W2 Airport airside and runway throughput
+SESAR-IR-VLD-WAVE2-04-2019: PJ.04 W2 Total airport management
+SESAR-IR-VLD-WAVE2-05-2019: PJ.05 W2 Digital technologies for Tower
+SESAR-IR-VLD-WAVE2-06-2019: PJ.07 W2 Optimised airspace users operations
+SESAR-IR-VLD-WAVE2-07-2019: PJ.09 W2 Digital Network Management Services
+SESAR-IR-VLD-WAVE2-08-2019: PJ.01 W2 Enhanced Arrival and Departures
+SESAR-IR-VLD-WAVE2-09-2019: PJ.18 W2 4D skyways
+SESAR-IR-VLD-WAVE2-10-2019: PJ.10 W2 Separation Management and Controller Tools
+SESAR-IR-VLD-WAVE2-11-2019: PJ.13 W2 IFR RPAS
+SESAR-IR-VLD-WAVE2-12-2019: PJ.14 W2 Integrated CNSS
+SESAR-IR-VLD-WAVE2-13-2019: PJ.17 W2 SWIM infrastructure
+SESAR-IR-VLD-WAVE2-14-2019: VLD.01 W2 GBAS/SBAS precision approaches including variable approach paths
+SESAR-IR-VLD-WAVE2-15-2019: VLD.02 W2 Airport Surface Management, Airport Safety Nets and ATSAW
+SESAR-IR-VLD-WAVE2-16-2019: VLD.03 W2 Improving runway throughput in one airport
+SESAR-IR-VLD-WAVE2-17-2019: VLD.04 W2 Advanced Rotorcraft and Business Aviation (BA) Operations
+SESAR-IR-VLD-WAVE2-18-2019: VLD.05 W2 Virtual Centre
+Детальна інформація за посиланням:
+http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/calls/h2020-sesar-2019-1.html#c,topics=callIdentifier/t/H2020-SESAR-2019-1/1/1/1/default-group&callStatus/t/Forthcoming/1/1/0/default-group&callStatus/t/Open/1/1/0/default-group&callStatus/t/Closed/1/1/0/default-group&+identifier/desc

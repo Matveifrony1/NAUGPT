@@ -1,0 +1,18 @@
+Заголовок:  Доступні вакансії
+
+Дата: ----------
+URL: https://tks.nau.edu.ua/vakansiyi/
+==================================================
+Вакансії
+Home \
+  Доступні вакансії:
+Виробництво робототехніки
+Middle .NET Software Engineer – Ciklum
+Embedded Linux Developer – Ajax Systems
+Junior / Middle QA Automation (Python) Engineer – Ajax Systems
+Cyber Security Specialist – Ajax Systems
+Manual QA engineer (Linux, networking) – Global Logic
+Junior Service Desk Agent – Soft Serve
+Trainee Test Engineer for Cambium project – Global Logic
+Network engineer – Global Logic
+Support Specialist – Genesis

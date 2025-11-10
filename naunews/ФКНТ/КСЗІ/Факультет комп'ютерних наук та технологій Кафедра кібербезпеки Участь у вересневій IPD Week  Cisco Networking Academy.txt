@@ -1,0 +1,11 @@
+Заголовок: Участь у вересневій IPD Week  Cisco Networking Academy
+URL: http://kszi.nau.edu.ua/novini/271-uchast-u-veresnevij-ipd-week-cisco-networking-academy
+==================================================
+Участь у вересневій IPD Week  Cisco Networking Academy
+З 23 по 27 вересня 2024 р. спеціальною технічною сесією підвищення кваліфікації інструкторів  локальних мережевих академій Cisco (IPD Week - Instructor Professional Development Week) розпочався 2024 – 2025 навчальний рік у  Cisco Networking Academy.
+У сесії Cisco IPD Week взяла участь інструктор локальної мережевої академії (LNA) Cisco кафедри кібербезпеки, старший викладач Олена Дубчак.
+Під час IPD Week розглядалися теми щодо засобів кібербезпеки, програмного забезпечення, впровадження технологій АІ та удосконалення наявних мережевих технологій, зокрема:
+Using CSF 2.0 Framework To Assess Current State of Cybersecurity Posture;
+Ethical Hacker: I found a vuln in your product! Now what?
+AI Series: The Future of ICT Jobs тощо.
+Досвід і навички, отримані під час сесії, надають можливість інструкторам LNA Cisco - викладачам кафедри кібербезпеки використовувати новітні підходи, методи та технології під час викладання освітніх компонент здобувачам вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності 125 «Кібербезпека та захист інформації».

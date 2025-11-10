@@ -1,0 +1,111 @@
+Заголовок:Наукоємні технології
+Дата: ----------
+URL: https://jrnl.nau.edu.ua/index.php/SBT
+==================================================
+
+Current Issue
+Vol. 66 No. 2 (2025)
+Published: 2025-08-01
+Information technology, cybersecurity
+METHODS TO ENHANCE THE GUARANTEED PROTECTION OF PERSONAL DATA IN APPLIED INTERNET SYSTEMS
+Kostiantyn Zander, Viktor Gnatyuk
+163-172
+ PDF (Українська)
+APPLICATION OF SEMANTIC AND OBJECT SEARCH FOR OPTIMIZING MEDIA SEARCH IN OSINT INVESTIGATIONS
+Yurii Sokyran, Ivan Рarkhomenko
+173-180
+ PDF (Українська)
+Ecology, chemical technology, biotechnology, bioengineering
+THREE-COMPONENT BITUMEN COMPOSITION FOR THE PRODUCTION OF ROLLED ROOFING MATERIALS
+Dmytro Alexandrov, Oleh Grynyshyn, Yurii Khlibyshyn, Andrii Nagurskyy
+270-277
+ PDF (Українська)
+USING OF FIBROUS WASTE FROM COMPREHENSIVE PROCESSING OF ALGAE BIOMASS OF THE GENUS ZOSTERA AS A RAW MATERIAL FOR THE PRODUCTION OF PAPER MATE-RIALS
+Anastasiia Karaiumer, Antonina Kustovska
+278-287
+ PDF (Українська)
+Electronics, telecommunications and radio engineering
+MATHEMATICAL MODEL FOR OBJECT DETECTION AND RECOGNITION IN VIDEO STREAMS USING INTER-FRAME DIFFERENCE ANALYSIS
+Borys Sadovnykov, Oleksandr Zhuchenko
+181-189
+ PDF
+METHOD FOR LEADER NODE SELECTION AND PROCESSING PIPELINE FORMATION IN DISTRIBUTED TELECOMMUNICATION SYSTEMS
+Illia Syvolovskyi, Volodymyr Lysechko
+190-200
+ PDF
+METHOD OF REVERSE NONEQUILIBRIUM POSITIONAL ENCODING WITH BI-DIRECTIONAL LEXICOGRAPHY
+Valerii Barannik
+201-207
+ PDF (Українська)
+METHOD OF BIFURCATION OF BIT PLATES IN INFRARED IMAGE PROCESSING SYSTEMS
+Vladimir Barannik, Anatolii Berchanov
+208-213
+ PDF (Українська)
+A METHOD OF SELECTIVE PROCESSING OF VIDEO SEGMENTS TO IMPROVE THE QUALITY OF VIDEO IMAGES IN INTELLIGENT ANALYSIS SYSTEMS
+Vladimir Barannik, Fydor Ustymenko, Valerii Barannik, Ihor Miltcin, Oleksandr Yudin
+214-225
+ PDF (Українська)
+INTEGRATED DATA COLLECTION MODEL IN MOBILE INTERNET OF THINGS NET-WORKS
+Maksym Savka
+226-237
+ PDF (Українська)
+Transport, transport technology
+EFFICIENCY OF POWER FLOW MANAGEMENT AND MONITORING OF POWER SUPPLY PARAMETERS IN ELECTRICAL SYSTEMS OF FLIGHT SAFETY OF AIRPORTS CERTIFIED BY ICAO.
+Sergii Ilienko, Anna Ilienko, Serhii Yenchev, Viktor Tykhonov, Dmytro Zhyla
+238-249
+ PDF (Українська)
+REVIEW OF STRUCTURAL AND FUNCTIONAL CHARACTERISTICS OF MODERN TRANSPORTATION AND LOGISTICS ENTERPRISES
+Kateryna Razumova, Serhii Selishchev, Viktoriia Klymenko, Nadiya Novalska, Larisa Dokienko
+250-262
+ PDF (Українська)
+METHODOLOGY FOR ASSESSING THE IMPACT OF MODERN INFORMATION TECHNOLOGIES FOR CONTROL AND INTERACTIVE DOCUMENTATION ON AIRCRAFT READINESS FOR FLIGHT
+Yevgenii Tachynin, Serhii Yenchev
+263-269
+ PDF (Українська)
+View All Issues
+Scientific journal "Science-Based Technologies"
+
+Year of establishment: 05.03.2008
+
+Issues:
+Engineering:
+
+Information technology, cybersecurity
+Electronics, telecommunications and radio engineering
+Transport, transport technology
+Ecology, chemical technology, biotechnology, bioengineering
+
+
+Media identifier: R30-01875
+
+Professional registration in Ministry of Education and Science of Ukraine:
+Order of the Ministry of Education and Science of Ukraine № 1301 dated 15.10.2019; branch of science - technical. Category "B";
+
+Field of Science - Technical
+
+Field of Science:
+Technical and Natural Sciences
+
+Frequency:
+4 times a year
+
+Language of publication:
+Ukrainian, English
+
+Founder:
+National Aviation University
+
+Editor in Chief:
+Valeriy Kozlovskii, Doctor of En.
+
+Deputy Editor:
+Kateryna Nesterenko, Doctor of En. 
+
+Executive Secretary:
+Alina Savchenko, Doctor of En.
+
+Editorial address:03680, Kyiv-58, Ave. Huzara Lubomyra, 1,
+
+phone. 406-70-08
+
+e-mail: sbt_nau@ukr.net

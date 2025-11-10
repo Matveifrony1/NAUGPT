@@ -1,0 +1,71 @@
+Заголовок:Силабуси (англомовний проєкт)
+
+Дата: ----------
+URL: https://ksm.nau.edu.ua/educational-activities/bachelor/syllabuses-bak-eng/
+==================================================
+Силабуси (англомовний проєкт)
+ОПП «Компютерні системи та мережі»
+Галузь знань: 12 «Інформаційні технології»
+Спеціальність: 123 «Комп’ютерна інженерія»
+ОС «Бакалавр»
+
+1. Humanities and Socio-Economic Subject:
+
+1.1 History of Ukrainian Statehood and Culture (download the Syllabus)
+1.2 Business Ukrainian language (download the Syllabus)
+1.3 Professional Foreign Language (download the Syllabus)
+1.4 Philosophy (download the Syllabus)
+1.5 Physical Education and Self-improvement (download the Syllabus)
+
+2.1. Professionally Oriented Subjects:
+
+2.1.1 Higher Mathematics (download the Syllabus)
+2.1.2 Physics (download the Syllabus)
+2.1.3 Computer Logic (download the Syllabus)
+2.1.4 Programming (download the Syllabus)
+2.1.5 Discrete Mathematics (download the Syllabus) (download CTP)
+2.1.6 Computer Electronics (download the Syllabus)
+2.1.7 Computer Circuit Engineering (download the Syllabus) (download CTP)
+2.1.8 System Programming (download the Syllabus)
+2.1.9 Object Oriented Programming (download the Syllabus)
+2.1.10 System Software (download the Syllabus)
+2.1.11 Computer Architecture (download the Syllabus)
+2.1.12 Сomputer systems (download the Syllabus)
+2.1.13 Computer Networks (download the Syllabus)
+2.1.14 Database Organization (download the Syllabus)
+2.1.15 Fundamentals of Economic Cybernetics (download the Syllabus)
+2.1.16 Theory of Digital Automata (download the Syllabus)
+2.1.17 Telecommunication Data Transmission Technologies (download the Syllabus)
+2.1.18 Information Systems and Data Structures (download the Syllabus)
+2.1.19 Specialized Computer Systems and Components (download the Syllabus) (download CTP)
+2.1.20 Parallel and Distributed Computing (download the Syllabus)
+2.1.21 Computer Networks Administration (download the Syllabus)
+2.1.22 Design of Computer Systems and their Components (download the Syllabus)
+
+2.2. Practical Subjects:
+
+2.2.1 Educational Training
+2.2.1.1 Circuit Engineering Training (download the Syllabus) (download CTP)
+
+2.2.2 On-the-Job Training
+2.2.2.1 Computer Training (download the Syllabus)
+2.2.2.2 Design Technological Training (download the Syllabus)
+2.2.2.3 Major-Related Training (download the Syllabus)
+
+3. Subjects Selected by the Students:
+
+3.1 Theory of Electric and Magnetic Circuits (download the Syllabus)
+3.2 Professional English (download the Syllabus)
+3.3 Legal Principles of Computer Engineering (download the Syllabus)
+3.4 English for Specific Purpose (download the Syllabus)
+3.5 Сomputer Microelectronics (download the Syllabus)
+3.6 Fundamentals of Nanoelectronics (download the Syllabus)
+3.7 Microprocessor Systems and Microcontrollers (download the Syllabus)
+3.8 Environmental Science (download the Syllabus)
+3.9 Information Security of Computer Systems and Networks (download the Syllabus)
+3.10 Specialized Computer Architectures (download the Syllabus)
+3.11 Aviation On-board Computer Systems and Networks (download the Syllabus)
+3.12 Fundamentals of Labor Protection (download the Syllabus)
+3.13 Operation of Computer Systems (download the Syllabus)
+3.14 Modelling of Computer Systems (download the Syllabus)
+3.15 Peripheral Devices (download the Syllabus) (download CTP)

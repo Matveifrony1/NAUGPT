@@ -1,0 +1,13 @@
+Заголовок:Публікації Науковців Кафедри
+
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/publications_ua
+==================================================
+Публікації Науковців Кафедри
+
+﻿
+Перелік Публікацій у Наукометричній Базі даних SCOPUS може бути отриманий використанням наступного коду:
+
+AU-ID("Ostroumov, I. V." 23478131700) OR AU-ID("Larin, Vitaliy" 56585533600) OR AU-ID("Kharchenko, V. P." 7201365396) OR AU-ID("Averyanova, Yuliya" 23396181700) OR AU-ID("Shmelova, T." 57202443723) OR AU-ID("Kutsenko, Oleksandr V." 56471752200) OR AU-ID("Konin, V. V." 6602407642) OR AU-ID("Pryhodko, Irina" 57546984200) OR AU-ID("Pogurelskiy, Olexiy" 57216910584) OR AU-ID("Maliutenko, Tetiana" 57547753500) OR AU-ID("Znakovska, Y." 57193059025) OR AU-ID("Znakovskaja, E." 57433628700) OR AU-ID("Bondarev, Dmitriy I." 57188695430) OR AU-ID("Lazorenko, Vitalii" 57215316083)
+
+International Workshop on Advances in Civil Aviation Systems Development

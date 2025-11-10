@@ -1,0 +1,39 @@
+Заголовок:Лукашенко Вікторія Вікторівна
+
+Дата: ----------
+URL: https://ksm.nau.edu.ua/about/teachers/lukashenko-viktoriya-viktorivna/
+==================================================
+Лукашенко Вікторія Вікторівна
+< Назад
+
+Науковий ступінь, вчене звання: к.т.н., доцент
+
+Посада: доцент кафедри
+
+Аудиторія: 6-108
+
+Телефон: +38 (044) 406 73 96
+
+Email: viktoriia.lukashenko@npp.nau.edu.ua
+
+Рік та місце народження:
+1982 р., Київ
+
+Освіта:
+Повна вища
+
+Наукові інтереси:
+Методи забезпечення толерантності до затримок доставки даних у комп’ютерних мережах
+
+Навчальні дисципліни:
+Експлуатація комп’ютерних систем
+
+Публікації:
+Автор публікацій, зокрема:
+1. Nick A. Vinogradov, Victoria V. Lukashenko. Quality of service optimization in delay-tolerant networks through cross-layer organization of delivery routes, CEUR Workshop Proceedings (Computer Science-Information Systems-Information Technology, Volume 2588, 2 April 2020, ISSN 1613-0073).
+2. Vinogradov N. A., Lukashenko V. V. Energy-Efficient Routing in Delay/Disruption-Tolerant Networks. – Journal of Qafqaz University (Mathematics and Computer Science). – Journal of Qafqaz University (Mathematics and Computer Science).
+3. Кулаков Ю.А., Лукашенко В.В., Коган А.В. Способ и средства конструирования трафика на основе безопасной многопутевой маршрутизации в мобильных сетях / Ю.А. Кулаков, В.В. Лукашенко, А.В. Коган // «Известия» Национальной академии наук Азербайждана, серия «Проблемы управления и информатики». – 2014. – Т.XXXIV. – №3. – С. 85-90.
+4. Лукашенко В.В. Сравнительный анализ и оптимизация протоколов для сетей c низкой чувствительностью к задержкам / В.В. Лукашенко // Радіоелектронні і комп’ютерні системи. – 2014. – №6. – С. 145-149.
+5. Лукашенко В.В. Проблемы доставки данных в сетях с нечувствительностью к задержкам / В.В. Лукашенко // Проблеми інформатизації та управління: зб. наук. праць. – К.: НАУ, 2012. – №4 (40). – С. 42-45.
+Профіль Orcid: https://orcid.org/0000-0002-8898-2269
+Профіль Google Scholar: https://scholar.google.com.ua/citations?user=LRPsH04AAAAJ

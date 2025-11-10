@@ -1,0 +1,33 @@
+Заголовок:Темніков Володимир Олександрович
+
+Дата: ----------
+URL:http://www.kzzi.nau.edu.ua/temnkov-volodimir-oleksandrovitch/
+==================================================
+Темніков Володимир Олександрович
+
+Професор кафедри технічного захисту інформації, доктор технічних наук, старший науковий співробітник
+ 
+Народився 06 жовтня 1951 року у м. Москва. З вересня 1968 по березень 1974 року навчався у Київському політехнічному інституті за спеціальністю «Звукотехніка» і здобув диплом інженера з відзнакою. Після цього з квітня 1974 року по квітень 2000 року працював у Київському політехнічному інституті (Національному технічному університеті України «Київський політехнічний інститут» (НТУУ «КПІ»)) інженером, старшим інженером, молодшим науковим співробітником, завідувачем сектором науково-дослідної лабораторії. З 2006 року по 2010 рік навчався в заочній аспірантурі НТУУ «КПІ». З квітня 2000 року по теперішній час доцент Національного авіаційного університету.
+До професійних і наукових інтересів Темнікова В.О можна віднести наступні напрямки: Системи захисту інформації, інформаційні технології.
+ORCID: 0000-0002-5064-5785
+Scopus iD: https://www.scopus.com/authid/detail.uri?authorId=57202236044
+Google Scholar: Google Scholar
+E-mail: temnikov_v@ukr.net,
+ temnikov_v@nau.edu.ua
+
+Місцезнаходження в НАУ: 11.411
+Темніков В.О. викладає дисципліни: «Поля і хвилі в системах технічного захисту інформації», «Організаційне забезпечення технічного захисту інформації»
+
+Основні наукові праці:
+1. Tavrov D., Temnikova O., Temnikov V. Perceptual Computing Based Method for Assessing Functional State of Aviation Enterprise Employees // Advances in Intelligent Systems and Computing. Volume 836 (Recent Developments in Data Science and Intelligent Analysis of Information). – Springer, 2019. – DOI: https://dx.doi.org/10.1007/978-3-319-97885-7_7 – P.61-70 (Scopus)
+2. Temnikov V., Pavlenko P., Temnikov A., Temnikova O. The Methodology of Increasing the Functional Safety of Aviation Enterprises // 14th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering, TCSET 2018 – Proceedings. – DOI: https://dx.doi.org/10.1109/TCSET.2018.8336183 –– P.187-191 (Scopus)
+3. Pavlenko P., Tavrov D., Temnikov V., Zavgorodniy S., Temnikov A. The Method of Expert Evaluation of Airports Aviation Security Using Perceptual Calculations // Proceedings of 2018 IEEE 9th International Conference on Dependable Systems, Services and Technologies (DESSERT 2018). – DOI: https://dx.doi.org/ 10.1109/DESSERT.2018.8409168 – P.432-436 (Scopus)
+4. Tavrov D., Temnikova O., Temnikov V., Kozlovskyi V., Temnikov A. Architecture of Computing With Words Based Information Technology for Proactive Aviation Security Control // Proceedings of 2018 IEEE First International Conference on System Analysis & Intelligent Computing (SAIC). – IEEE Catalog Number: CFP18SUA-CDR ISBN: 978-1-5386-7195-5. – DOI:https://dx.doi.org/10.1109/SAIC.2018.8516802– P.72-79 (Scopus)
+5. Temnikov V., Kozlovskyi V., Temnikov A., Tavrov D., Temnikova O. Methods for Improving the Quality of the Functional State Control of Aviation Enterprises Employees // 2018 International Scientific-Practical Conference «Problems of Infocommunications. Science and Technology» (PIC S&T’2018). Conference Proceedings – IEEE Catalog Number: CFP18PIA-PRT ISBN: 978-1-5386-6609-8. – DOI: https://dx.doi.org/DOI: 10.1109/INFOCOMMST.2018.8631903 – P.145-152 (Scopus)
+6. Темніков В.О. Принципи побудови систем прийняття рішень в процесі управління інформаційною безпекою // Системи управління, навігації та зв’язку. – 2017. – Вип.4(44). – С.119-121
+7. Темніков В.О., Темнікова О.Л. Підвищення ефективності контролю функціонального стану співробітників служб авіапідприємств // Вісник Інженерної Академії України. – 2018. – №4. – С.13-16
+8. Temnikov V.A., Temnikov A.V. Modeling of information systems to support management decision-making // Proceedings of the 14th International Conference of Science and Technology “AVIA-2019”. – K.: NAU, 2019. – P.2.19-2.21
+9. Temnikov V.A., Temnikov A.V. Building information systems for decision support in airport control services // Proceedings of the 13th International Conference of Science and Technology “AVIA-2017”. – K.: NAU, 2017. – P.2.59-2.61
+10 V.А. Temnikov, A.V. Peteichuk The voice operators authentification by continuous speech considering the phonemes feature characteristics // Proceedings of The Fifth world congress “Aviation in the XXI-st century”, vol.1. – K.: NAU, 2012. – P.1.7.60-1.7.62
+11. Temnikov V.A., Peteychuk A.V. Organization of preshift and intrashift access control of ATC to the resources of information systems // Proceedings of The Fourth world congress “Aviation in the XXI-st century”, vol.1. – K.: NAU, 2010. – P.17.22-17.25
+12. Темніков В.О., Темніков А.В. Принципи побудови систем інформаційної підтримки прийняття рішень на авіаційних підприємствах // Міжнародна науково-практична конференція «Інформаційні технології та комп’ютерне моделювання». Матеріали конференції. – Івано-Франківськ, 2017. – С.32-35

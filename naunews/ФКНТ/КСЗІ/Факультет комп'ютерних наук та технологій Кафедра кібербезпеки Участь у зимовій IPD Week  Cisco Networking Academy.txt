@@ -1,0 +1,14 @@
+Заголовок: Участь у зимовій IPD Week  Cisco Networking Academy
+URL: http://kszi.nau.edu.ua/novini/332-uchast-u-zimovij-ipd-week-cisco-networking-academy
+==================================================
+Участь у зимовій IPD Week  Cisco Networking Academy
+У період з 17 по 26 лютого 2025 р. відбулася серія сесій з підвищення кваліфікації для інструкторів локальних мережевих академій (LNA) Cisco -  Instructor Professional Development (IPD) Week.
+У Cisco IPD Week взяла участь старший викладач кафедри кібербезпеки ФКНТ, інструктор LNA Cisco Олена Дубчак.
+Під час лютневої IPD Week розглядалися теми щодо: можливостей мови програмування Python для використання OpenAI ChatGPT; функціональності новітньої версії пропрієтарного ПЗ  Cisco Packet Tracer (9.0); динамічної інтеграції традиційних мереж на основі CLI з передовими рішеннями хмарового управління - уніфікованого обладнання Cisco Meraki; використання Cisco Secure Firewall в установках, таких як VMware, та хмарових сервісах на кшалт AWS и Azure, зокрема:
+The Opportunity to increase impact through Inclusive training strategies.
+Firewall Deployments: Cloud, On-Prem, and Beyond!
+Accessibility: What to Know and What to Teach.
+ChatGPT API with Python and Packet Tracer.
+Packet Tracer: Activity Wizard.
+CLI vs. Cloud-managed: Why not both with Meraki тощо.
+Досвід і навички, отримані під час сесій, надають можливість інструкторам LNA Cisco - викладачам кафедри кібербезпеки використовувати новітні підходи, методи та технології під час викладання освітніх компонент здобувачам вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності 125 «Кібербезпека та захист інформації».

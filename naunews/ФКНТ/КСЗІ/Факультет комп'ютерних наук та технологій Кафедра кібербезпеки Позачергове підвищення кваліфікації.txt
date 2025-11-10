@@ -1,0 +1,16 @@
+Заголовок: Позачергове підвищення кваліфікації
+URL: http://kszi.nau.edu.ua/novini/363-pozachergove-pidvishchennya-kvalifikatsiji
+==================================================
+Позачергове підвищення кваліфікації
+Старший викладач кафедри кібербезпеки ФКНТ  Олена Дубчак,  інструктор  локальної мережевої академії (LNA) Cisco Networking Academy, у межах міжнародної діяльності кафедри  та відповідно до укладеної угоди із Cisco, протягом 05.05.2025 р. – 09.05.2025 р. взяла участь в міжнародній освітній програмі щодо підвищення кваліфікації інструкторів академії Instructor Professional Development (IPD) Week.
+Під час травневої IPD Week розглядалися важливі теми щодо: використання АІ для удосконалення освітнього процесу; інтернету агентів АІ та їхнього впливу на перетворення інтелектуальних екосистем; ключових можливостей пропрієтарного ПЗ Cisco Packet Tracer 9.0.0.;  використання мови програмування Python  у завданнях аналітики даних; ефективних методів і ресурсів навчання під час викладання курсів Cybersecurity Essentials та Networking Essentials з використанням Cisco® Packet Tracer для навчання на основі моделювання, зокрема, такі:
+Practical Uses of AI Tools in your Classroom
+The Next Internet: Internet of AI Agents
+Smarter Networks, Smarter Engineers: Learn AI Skills That Solve Real Problems
+Getting Ready to Teach Cybersecurity Essentials and Networking Essentials
+Custom Assessments and Assignments
+Industrial Networking Essentials & Cisco Packet Tracer 9.0.0
+A cyber year in review with threat intelligence and Cisco Talos
+Auth, Tokens, and Trust: A Modern Look at API Security
+Mastering Data Analytics with Python
+Отримані під час підвищення кваліфікації (12 год., 0,4 кред.) досвід і навички щодо вивчення та впровадження передових технологій, зокрема, з організації освітнього процесу,  надають можливість використовувати новітні підходи та методи в процесі викладання освітніх компонентів для  здобувачів вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності 125 «Кібербезпека та захист інформації».

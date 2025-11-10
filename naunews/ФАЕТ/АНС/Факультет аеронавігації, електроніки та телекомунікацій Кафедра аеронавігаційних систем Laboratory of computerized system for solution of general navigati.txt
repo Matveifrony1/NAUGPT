@@ -1,0 +1,56 @@
+Заголовок:Laboratory of computerized system for solution of general navigation problems
+
+Дата: ----------
+URL: https://www.ans.nau.edu.ua/GenNavLab_ua
+==================================================
+Laboratory of computerized system for solution of general navigation problems
+
+Our TeamResearchEventsPublicationsContacts
+Our Team
+Ivan Ostroumov	Head of Research Team
+Ivan OSTROUMOV, D.Sc.
+profesor of Air navigation Systems Department
+www.ostroumov.sciary.com
+Ivan obtained his Ph.D. degree of Engineering in Navigation and Traffic Control in 2009 and D. Sc. in 2020 from National Aviation University of Ukraine. Since then, he has been a Senior research scientist and professor for National Aviation University. In 2017/2018 has being a Fulbright scholar in the school of Aeronautics and Astronautics at Purdue. His research interests are Alternative Positioning, Navigation, and Timing (APNT); ADS-B; Safety of air transportation; air traffic analysis; efficient flight planning; Navigation algorithms of FMS. Ivan is head of bachelors educational and professional program "Systems of Air Navigation Services" which is fully compatible with ICAO ATSEP Training program.
+
+Maksym Zaliskyi	Principal Investigator
+Maksym ZALISKYI, D.Sc.
+professor of the Department of Telecommunication and Radioelectronic Systems
+He received his B.Sc. and M.Sc. degrees in radio engineering from the National Aviation University, Ukraine, in 2005 and 2007, respectively. He obtained a PhD and D.Sc. degrees in aircraft equipment operation from the National Aviation University, in 2012 and 2021, respectively. He has 16 years of teaching experience and his areas of interest include data processing, equipment operation and reliability analysis. A total number of research publications is 240.
+
+Nataliia KUZMENKO	Principal Investigator
+Nataliia KUZMENKO, Ph.D.
+Seniour Researcher
+She obtained her Ph.D. degree of Engineering in Navigation and Traffic Control in 2009. Her research interests are Air traffic control, flight state recognision, Bid data analysis in air traffic, artificial intelegence.
+
+Oleksandr SOLOMENTSEV	Principal Investigator
+Oleksandr SOLOMENTSEV, D.Sc.
+professor of the Department of Telecommunication and Radioelectronic Systems
+He obtained his Ph.D. degree in Aircraft Equipment Operation in 1981 and D.Sc. in 1988 from Kyiv Institute of Civil Aviation of Ukraine. He is currently a Professor of the Department of Telecommunication and Radioelectronic Systems, the National Aviation University. He has authored 250 published papers on maintenance and operation of radio equipment, statistical data processing and reliability theory. His research interests include design and improvement of the operation system for radio equipment, statistical analysis of operational data.
+
+Olha Sushchenko	Principal Investigator
+Olha SUSHCHENKO, D.Sc.
+professor of Aerospace Control Systems Department
+She obtained her D.Sc. degree in Automation Systems of Design Works in 2015 from National Aviation University of Ukraine. She is currently a Professor of the Aerospace Control Systems Department, the National Aviation University. She has authored 250 published papers on stabilization and control systems of the wide class and navigation systems of moving vehicles. Her research interests include design and improvement of the stabilization system for aviation equipment, navigation systems, control systems of quadrotors.
+
+Oleg IVASHUK	
+Oleg IVASHUK
+Graduate Research Assistant
+Oleg is a Ph.D. student of the National Aviation University Air navigation Systems Department. He received his bachelors and masters degrees in Aviation transport from the same university in 2021 and 2023. Olegs research is aimed at determining risk in airspace to improve air traffic safety. Oleg is winner of the all-Ukrainian competition of student research projects in the field of knowledge "Aviation and Rocket and Space Technology" in 2021. He enjoys to read books, program, research and travel.
+
+Maksym Liubarets	
+Maksym LIUBARETS
+Graduate Research Assistant
+Maksym is a Ph. D. student in Air Transport. His researches focus on automation of aviation safety events investigation. Graduated from National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute" in 2001 with Master of Science degree. Since then he has been in IT as a software developer. Nowadays he focuses on aviation safety events investigation effectiveness improvements using approaches based on methods in decision making and experts evaluation. The results of his research are planned to be put into practice at National Transportation Investigation Bureau. Primary goal is to bring Ukrainian aviation safety events investigations on the next level.
+
+Tamara Galabir	
+Dasha TKACHUK
+Undergraduate Student
+Daria is a fourth-year undergraduate student in Air Traffic Management at Kyiv Aviation Institute. Her research interests focus on the intersection of civil aviation as well as the role of unmanned aerial systems in modern airspace management. She has already published articles on Effective mission planning for UAVs and Military impact on civil aviation. Daria aspires to continue her academic and professional development by contributing to safer and more efficient integration of emerging technologies into the global aviation system.
+
+Previous Laboratory Members
+Tamara Galabir	
+Tamara GALABIR
+BS (June 2025)
+EUROCONTROL
+Her research is focused on effective flight planning in civil aviation and airplane trajectory analysis in post-flight mode.

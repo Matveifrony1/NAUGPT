@@ -1,0 +1,37 @@
+Заголовок:This is a special announcement for the ESoA Course
+
+Дата: ----------
+URL: https://kafelec.nau.edu.ua/ESoA_Course-ukr.html
+==================================================
+This is a special announcement for the ESoA Course:
+
+Reflector and Lens Antennas
+
+Chalmers, Gothenburg, 22-26 September 2014
+Dear colleagues,
+I am happy to announce the following:
+There are six grants available providing free registration worth 440 EUR, sponsored by Ticra APS and Kildal Antenn AB.
+For more details see the ESoA web page, see link below. The grants will be given to Master or PhD students. Please send a request to Prof Kildal before 1 August.
+In the framework of the European School of Antennas, I am pleased to inform you that the course ?Reflector and Lens Antennas? will be organized by Chalmers University of Technology during the week 22-26 September.
+
+The objective of this course is to give an overview of how to characterize and design reflector antennas and feeds for many different applications.
+
+The course will cover the following topics:
+
+- Mon: Peter Meincke from TICRA will present design and analysis techniques for reflector antennas. TICRA is recognized as the world-leader of commercial reflector antenna software, which will serve to illustrate the presentation by means of examples.
+
+- Tue: Per-Simon Kildal and Jian Yang will contribute to the course with reflector and feed antenna designs and design methods that have been described in more than 30 journal articles and several patents, including successful commercializations. The lectures will cover: cylindrical reflector and line feed for EISCAT, small L-band reflector with beam-forming ring feed for satellite terminal, dual reflector feed system for radio telescope in Arecibo, hat feed for radio link antenna, and recent decade bandwidth Eleven feed for radio telescopes and satellite communications.
+
+- Wed: Rob Maaskant will contribute to the course with antenna designs and design methods that have been described in 30 papers by Marianna Ivashina and himself. The lectures will cover: design of a wide-band Focal Plane Array (FPA) for future radio telscopes; effects of strong array element coupling on system analysis and optimization; receiver sensitivity and feed reflector interactions.
+
+- Thu: Stefano Maci will present high frequency methods used to analyze reflection, diffraction and scattering from reflector antenna surfaces, such as geometrical optics, geometrical theory of diffraction, incremental theory of diffraction, and shadow boundary Integral techniques.
+
+- Fri: Ronan Sauleau will review the lens antenna technologies and applications for millimeter and sub-millimeter wave applications. The lectures will cover: 1) the analysis, the synthesis and the optimization of dielectric focusing systems using HF and full-wave techniques 2) the design of homogeneous / multi-shell, axis-symmetric / arbitrarily-shaped lenses (integrated lens antennas, dielectric lenses, dome antennas).
+
+Teachers: Peter Meincke (Ticra), Per-Simon Kildal, Jian Yang and Rob Maaskant (Chalmers), Stefano Maci (UNISI), Rona Sauleaus (IETR).
+
+The course fee is 440 EUR for no-profit institutions and 1100 EUR for companies. The fee includes the course teaching, lunches, social dinner and coffee breaks.
+
+For the detailed description of the course and how to registrate, please visit the web site: http://www.antennasvce.org/Community/Education/Courses/Locations
+
+Best regards, Per-Simon Kildal

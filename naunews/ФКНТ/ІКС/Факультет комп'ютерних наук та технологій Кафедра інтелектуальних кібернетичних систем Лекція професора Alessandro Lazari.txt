@@ -1,0 +1,9 @@
+Заголовок: Лекція професора Alessandro Lazari
+URL: https://ccs.nau.edu.ua/novini/lecture-professor-alessandro-lazari
+==================================================
+28 вересня відповідно до Меморандуму про співпрацю між Національним авіаційним університетом та Університетом Саленто – Департамент інновацій в інжинірінгу (Лечче, Італія) відбудеться перша лекція з циклу професора Alessandro Lazari (Ph.D. in computer engineering, multimedia and telecommunications) в межах дисципліни «Процеси забезпечення стійкості об’єктів критичної інфраструктури» для здобувачів ОС магістра ОПП «Інтелектуальні системи та технології», ОПП «Системне програмування».
+Час зустрічі – 12:00
+Посилання на зустріч: https://meet.google.com/cjv-qvsh-zby
+On September 28, in accordance with the Memorandum of Cooperation between the National Aviation University and the University of Salento – Department of Innovations in Engineering (Lecce, Italy), the first lecture of the series by Professor Alessandro Lazari (Ph.D. in Computer Engineering, Multimedia, and Telecommunications) will take place within the course “Processes for Ensuring the Resilience of Critical Infrastructure Objects” for students pursuing a Master’s degree in the programs “Intelligent Systems and Technologies” and “System Programming.”
+Meeting time: 12:00
+Link to the meeting: https://meet.google.com/cjv-qvsh-zby

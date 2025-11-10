@@ -1,0 +1,16 @@
+Заголовок: Підвищення кваліфікації інструкторів Cisco Networking Academy
+URL: http://kszi.nau.edu.ua/novini/185-pidvishchennya-kvalifikatsiji-instruktoriv-cisco-networking-academy
+==================================================
+Підвищення кваліфікації інструкторів Cisco Networking Academy
+Відповідно до угоди між Міжнародною мережевою академією Cisco Networking Academy  та кафедрою комп’ютеризованих систем захисту інформації (КСЗІ), на кафедрі понад п’ятнадцять років функціонує LNA (локальна мережева академія) Cisco.
+Cisco Networking Academy започатковано спеціальні заходи - Cisco IPD Weeks (Cisco Instructor Professional Development Weeks), які проводяться кілька разів на рік компанією Cisco для підвищення фаховості викладачів-інструкторів академій LNA Cisco з усього світу.
+Цього навчального року відбулися вже три сесії Cisco IPD Weeks, у яких взяла участь інструктор  LNA Cisco кафедри КСЗІ,  старший викладач Олена Дубчак.
+Під час IPD Week Sessions розглядалися важливі теми щодо новітніх та удосконалення наявних мережевих технологій, засобів кібербезпеки та програмного забезпечення, зокрема:
+Digital Network Architecture Center: What is it and how does it work;
+New Data Analytics Essentials Course;
+Exploring the Current Threat Landscape;
+WiFi 6 and WiFi 6E;
+Physical Networking & Network Programmability in Packet Tracer;
+New IT Essentials & Technical Topic;
+Best Practice: Using Cisco Modeling Labs for NetAcad тощо.
+Отримані знання та досвід надають викладачам – інструкторам LNA Cisco кафедри КСЗІ можливість використання нових методів, технологій та підходів під час викладання відповідних освітніх компонент здобувачам вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності 125 «Кібербезпека».

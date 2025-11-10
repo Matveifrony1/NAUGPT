@@ -1,0 +1,14 @@
+Заголовок: Підвищення кваліфікації  - участь у  Cisco IPD Week Special Technical Sessions
+URL: http://kszi.nau.edu.ua/novini/291-pidvishchennya-kvalifikatsiji-uchast-u-cisco-ipd-week-special-technical-sessions
+==================================================
+Підвищення кваліфікації  - участь у  Cisco IPD Week Special Technical Sessions
+У період з липня по вересень 2024 р. мережевою академією Cisco Networking Academy  було проведено серію спеціальних технічних сесій з метою підвищення рівня менеджменту та фаховості викладання інструкторів локальних мережевих академій (LNA)  Cisco.
+У Cisco IPD (Instructor Professional Development) Week  Special Technical Sessions взяла участь інструктор  LNA Cisco кафедри кібербезпеки ФКНТ,  старший викладач Олена Дубчак.
+Під час IPD Week розглядалися важливі теми щодо удосконалення організації освітнього процесу, впровадження технологій АІ, новітніх компонентів мережевих технологій, засобів кібербезпеки та програмного забезпечення, зокрема:
+New NetAcad.com - Program Updates & Academy Management
+New NetAcad.com - Top Instructor Tasks & Courses Customizations
+CCNA Certification New Modules
+Ethical Hacker: to found a vuln in your product
+AI Series: The Future of ICT Jobs
+Using CSF 2.0 Framework To Assess Current State of Cybersecurity
+Вивчення передового досвіду організації освітнього процесу надає можливість викладачам – інструкторам LNA Cisco кафедри кібербезпеки використовувати новітні  технології, засоби та підходи під час викладання відповідних освітніх компонентів здобувачам вищої освіти з ОПП «Безпека інформаційних і комунікаційних систем»  спеціальності 125 «Кібербезпека та захист інформації» галузі знань 12 «Інформаційні технології».
