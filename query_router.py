@@ -275,7 +275,7 @@ class QueryRouter:
                 
                 # ========== СТАРИЙ КОД ДЛЯ LM STUDIO ==========
                 else:
-                    async with httpx.AsyncClient(timeout=30.0) as client:
+                    async with httpx.AsyncClient(timeout=300.0) as client:
                         response = await client.post(
                             self.lm_studio_url,
                             json={

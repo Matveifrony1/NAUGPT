@@ -123,7 +123,7 @@ class ScheduleManager:
                     href = link.get('href')
                     if href and '/schedule/group?id=' in href:
                         full_url = self.base_url + href
-                        print(f"✅ ЗНАЙДЕНО URL: {full_url}")
+                        logger.debug(f"✅ ЗНАЙДЕНО URL: {full_url}")
                         return full_url
             
             logger.error(f"❌ Група {group_name} не знайдено в списку")
