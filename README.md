@@ -61,8 +61,8 @@ The backend handles complex query processing, semantic search through university
 ### 📋 Prerequisites
 
 **System Requirements**
-- Python 3.10 or higher
-- 8 GB RAM minimum (16 GB recommended)
+- Python 3.11 or higher
+- 16 GB RAM minimum
 - 10 GB free disk space (20 GB recommended)
 - Internet connection
 
@@ -70,229 +70,488 @@ The backend handles complex query processing, semantic search through university
 
 **1. Clone the repository**
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/nau-ai-assistant-backend.git
 cd nau-ai-assistant-backend
-\`\`\`
+```
 
 **2. Create virtual environment**
 
-\`\`\`bash
+```bash
 # Windows
 python -m venv venv
-venv\\Scripts\\activate
+venv\Scripts\activate
 
 # Linux/Mac
 python3 -m venv venv
 source venv/bin/activate
-\`\`\`
+```
 
 **3. Install dependencies**
 
-\`\`\`bash
+```bash
 pip install --upgrade pip
 pip install -r requirements.txt
-\`\`\`
+```
 
 **4. Configure environment**
 
-Create \`.env\` file in the project root. **Minimum required:**
+Create `.env` file in the project root. **Minimum required:**
 
-\`\`\`bash
+```bash
 USE_GEMINI=true
 GEMINI_API_KEY=your_gemini_api_key_here
-\`\`\`
+```
 
 **Full configuration template:**
 
-\`\`\`bash
-# Основні налаштування
+```bash
+# ===========================================
+# NAU AI Assistant Backend - Змінні оточення
+# ===========================================
+
+# ===========================================
+# ОСНОВНІ НАЛАШТУВАННЯ СЕРВЕРА
+# ===========================================
 HOST=localhost
 PORT=8000
 DEBUG=true
 ENVIRONMENT=development
 
-# Шляхи до даних
+# ===========================================
+# ШЛЯХИ ДО ДАНИХ
+# ===========================================
 VECTOR_DB_PATH=./nau_vector_db
 NEWS_DATA_PATH=./naunews
 
-# AI налаштування
+# ===========================================
+# AI НАЛАШТУВАННЯ (Gemini / LM Studio)
+# ===========================================
+# Оберіть один з варіантів:
 USE_GEMINI=true
+
+# Gemini API (рекомендується)
 GEMINI_API_KEY=your_gemini_api_key_here
 GEMINI_MODEL=gemini-2.0-flash
 
-# LM Studio (альтернатива)
+# LM Studio (локальна модель)
 LM_STUDIO_URL=http://localhost:1234/v1/chat/completions
 LM_STUDIO_TIMEOUT=300
 DEFAULT_MODEL=gemma-3-4b-it
 
-# Генерація
+# ===========================================
+# НАЛАШТУВАННЯ ГЕНЕРАЦІЇ
+# ===========================================
 GENERATION_TEMPERATURE=0.3
 MAX_TOKENS=1000
 MAX_HISTORY_MESSAGES=6
 MAX_CONTEXT_TOKENS=6000
 
-# Пошук
+# ===========================================
+# НАЛАШТУВАННЯ ПОШУКУ В БАЗІ ДАНИХ
+# ===========================================
 SEARCH_TOP_K=3
 SEARCH_SIMILARITY_THRESHOLD=0.3
 ENABLE_QUERY_EXPANSION=true
 RECENT_NEWS_DAYS=30
 BATCH_SIZE=100
 
-# Розклад
+# ===========================================
+# НАЛАШТУВАННЯ РОЗКЛАДУ
+# ===========================================
 SCHEDULE_CACHE_ENABLED=true
 SCHEDULE_REQUEST_TIMEOUT=10
 NAU_PORTAL_BASE_URL=https://portal.nau.edu.ua
 SEMESTER_START_DATE=2025-09-01
 
-# Логування
+# ===========================================
+# НАЛАШТУВАННЯ ЛОГУВАННЯ
+# ===========================================
 LOG_LEVEL=INFO
 LOG_SYSTEM_PROMPTS=false
 
-# Безпека
+# ===========================================
+# БЕЗПЕКА ТА ОБМЕЖЕННЯ
+# ===========================================
 RATE_LIMIT_REQUESTS=100
 RATE_LIMIT_PERIOD=60
-\`\`\`
+```
+
+**Important:** Replace `your_gemini_api_key_here` with your actual Gemini API key.
 
 **5. Run the server**
 
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
-First launch takes 5-15 minutes (downloads model, indexes news). Subsequent launches: 10-30 seconds.
+On first run, the system will download Jina Embeddings v3 model (~1.5 GB), load and index all news, initialize vector database, and start the server. First launch takes 5-15 minutes, subsequent launches 10-30 seconds.
 
-**6. Verify**
+**6. Verify installation**
 
-- http://localhost:8000 - Should show status OK
-- http://localhost:8000/health - Detailed health check
-- http://localhost:8000/docs - API documentation
+Open http://localhost:8000 in your browser. You should see:
 
-### ⚙️ Configuration Reference
+```json
+{
+  "status": "ok",
+  "message": "NAU AI Assistant Backend працює",
+  "version": "2.0.0"
+}
+```
 
-**Essential Settings**
+Check health status: http://localhost:8000/health
 
-| Variable | Required | Description | Default |
-|----------|----------|-------------|---------|
-| \`USE_GEMINI\` | Yes | Use Gemini (true) or LM Studio (false) | \`true\` |
-| \`GEMINI_API_KEY\` | If USE_GEMINI=true | Gemini API key | - |
-| \`GEMINI_MODEL\` | No | Gemini model | \`gemini-2.0-flash\` |
+View API documentation: http://localhost:8000/docs
+
+### ⚙️ Configuration
+
+The system is configured through environment variables in `.env` file.
+
+**Required Settings**
+
+| Variable | Description | Default |
+|----------|-------------|---------|
+| `USE_GEMINI` | Use Gemini API (true) or LM Studio (false) | `true` |
+| `GEMINI_API_KEY` | Your Gemini API key | *required if USE_GEMINI=true* |
+| `GEMINI_MODEL` | Gemini model to use | `gemini-2.0-flash` |
 
 **Server Settings**
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| \`HOST\` | Server host | \`localhost\` |
-| \`PORT\` | Server port | \`8000\` |
-| \`DEBUG\` | Debug mode | \`true\` |
-| \`ENVIRONMENT\` | Environment | \`development\` |
+| `HOST` | Server host | `localhost` |
+| `PORT` | Server port | `8000` |
+| `DEBUG` | Debug mode | `true` |
+| `ENVIRONMENT` | Environment (development/production) | `development` |
 
 **AI Settings**
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| \`LM_STUDIO_URL\` | LM Studio endpoint | \`http://localhost:1234/v1/chat/completions\` |
-| \`LM_STUDIO_TIMEOUT\` | Request timeout (sec) | \`300\` |
-| \`DEFAULT_MODEL\` | LM Studio model name | \`gemma-3-4b-it\` |
-| \`GENERATION_TEMPERATURE\` | Response creativity (0.0-1.0) | \`0.3\` |
-| \`MAX_TOKENS\` | Max response length | \`1000\` |
-| \`MAX_HISTORY_MESSAGES\` | History size | \`6\` |
-| \`MAX_CONTEXT_TOKENS\` | Context window | \`6000\` |
+| `LM_STUDIO_URL` | LM Studio endpoint (if not using Gemini) | `http://localhost:1234/v1/chat/completions` |
+| `LM_STUDIO_TIMEOUT` | LM Studio request timeout (seconds) | `300` |
+| `DEFAULT_MODEL` | Default LM Studio model name | `gemma-3-4b-it` |
+| `GENERATION_TEMPERATURE` | Response temperature (0.0-1.0) | `0.3` |
+| `MAX_TOKENS` | Max tokens in response | `1000` |
+| `MAX_HISTORY_MESSAGES` | Max messages in conversation history | `6` |
+| `MAX_CONTEXT_TOKENS` | Max tokens for context management | `6000` |
 
 **Data Paths**
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| \`VECTOR_DB_PATH\` | Vector DB directory | \`./nau_vector_db\` |
-| \`NEWS_DATA_PATH\` | News directory | \`./naunews\` |
+| `VECTOR_DB_PATH` | Vector database directory | `./nau_vector_db` |
+| `NEWS_DATA_PATH` | News data directory | `./naunews` |
 
 **Search Settings**
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| \`SEARCH_TOP_K\` | Results to return | \`3\` |
-| \`SEARCH_SIMILARITY_THRESHOLD\` | Relevance threshold | \`0.3\` |
-| \`ENABLE_QUERY_EXPANSION\` | Expand queries | \`true\` |
-| \`RECENT_NEWS_DAYS\` | Recent news range | \`30\` |
-| \`BATCH_SIZE\` | Processing batch size | \`100\` |
+| `SEARCH_TOP_K` | Number of search results | `3` |
+| `SEARCH_SIMILARITY_THRESHOLD` | Similarity threshold for filtering | `0.3` |
+| `ENABLE_QUERY_EXPANSION` | Enable query expansion | `true` |
+| `RECENT_NEWS_DAYS` | Days for recent news search | `30` |
+| `BATCH_SIZE` | Batch size for document processing | `100` |
 
 **Schedule Settings**
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| \`SCHEDULE_CACHE_ENABLED\` | Cache schedules | \`true\` |
-| \`SCHEDULE_REQUEST_TIMEOUT\` | Portal timeout (sec) | \`10\` |
-| \`NAU_PORTAL_BASE_URL\` | NAU portal URL | \`https://portal.nau.edu.ua\` |
-| \`SEMESTER_START_DATE\` | Semester start | \`2025-09-01\` |
+| `SCHEDULE_CACHE_ENABLED` | Enable schedule caching | `true` |
+| `SCHEDULE_REQUEST_TIMEOUT` | Portal request timeout (seconds) | `10` |
+| `NAU_PORTAL_BASE_URL` | NAU portal base URL | `https://portal.nau.edu.ua` |
+| `SEMESTER_START_DATE` | Semester start date for week calculation | `2025-09-01` |
 
-**Logging**
-
-| Variable | Description | Default |
-|----------|-------------|---------|
-| \`LOG_LEVEL\` | Logging level | \`INFO\` |
-| \`LOG_SYSTEM_PROMPTS\` | Show prompts in logs | \`false\` |
-
-**Security**
+**Logging Settings**
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| \`RATE_LIMIT_REQUESTS\` | Max requests/period | \`100\` |
-| \`RATE_LIMIT_PERIOD\` | Period (seconds) | \`60\` |
+| `LOG_LEVEL` | Logging level (DEBUG/INFO/WARNING/ERROR) | `INFO` |
+| `LOG_SYSTEM_PROMPTS` | Show system prompts in logs | `false` |
+
+**Security Settings**
+
+| Variable | Description | Default |
+|----------|-------------|---------|
+| `RATE_LIMIT_REQUESTS` | Max requests per period | `100` |
+| `RATE_LIMIT_PERIOD` | Rate limit period (seconds) | `60` |
 
 **Getting Gemini API Key**
 
-1. Visit https://aistudio.google.com/app/apikey
-2. Create API key
-3. Add to \`.env\`
+1. Go to https://aistudio.google.com/app/apikey
+2. Create new API key
+3. Copy and paste into `.env` file
 
-**Using LM Studio**
+**Using LM Studio Instead**
 
 1. Download from https://lmstudio.ai/
-2. Load a model (e.g., Llama 3.1 8B)
-3. Start server on port 1234
-4. Set \`USE_GEMINI=false\`
+2. Install and load a model (e.g., Llama 3.1 8B)
+3. Start local server on port 1234
+4. Set `USE_GEMINI=false` in `.env`
 
-**Production Setup**
+**Production Configuration**
 
-\`\`\`bash
+For production environment, update these settings:
+
+```bash
 DEBUG=false
 ENVIRONMENT=production
 LOG_LEVEL=WARNING
 LOG_SYSTEM_PROMPTS=false
 HOST=0.0.0.0
-\`\`\`
+```
 
 ### 📡 API Endpoints
 
-\`\`\`
-GET  /         - Health check
-GET  /health   - Detailed status
-POST /chat     - Main conversation endpoint
-POST /group/validate - Validate group name
-GET  /stats    - System statistics
-\`\`\`
+**Base URL:** `http://localhost:8000`
 
-See http://localhost:8000/docs for full API documentation.
+#### `GET /`
+
+Health check endpoint.
+
+**Response:**
+```json
+{
+  "status": "ok",
+  "message": "NAU AI Assistant Backend працює",
+  "version": "2.0.0"
+}
+```
+
+#### `GET /health`
+
+Detailed health status of all system components.
+
+**Response:**
+```json
+{
+  "status": "ok",
+  "message": "Всі компоненти працюють",
+  "details": {
+    "lm_studio": "available",
+    "database_documents": 347,
+    "components": ["db", "schedule_manager", "data_loader", "assistant"]
+  }
+}
+```
+
+#### `POST /chat`
+
+Main endpoint for conversational queries.
+
+**Request:**
+```json
+{
+  "user_name": "Ivan",
+  "message": "What classes do I have today?",
+  "group_name": "Б-171-22-1-ІР",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I help you?"
+    }
+  ]
+}
+```
+
+**Response:**
+```json
+{
+  "response": "Today you have 3 classes: Math at 9:50, Physics at 11:40, and Programming at 13:30.",
+  "status": "success"
+}
+```
+
+#### `POST /group/validate`
+
+Validate group name format and check schedule availability.
+
+**Request:**
+```json
+{
+  "group_name": "Б-171-22-1-ІР"
+}
+```
+
+**Response:**
+```json
+{
+  "is_valid": true,
+  "extracted_name": "Б-171-22-1-ІР",
+  "message": "Група знайдена",
+  "suggestions": []
+}
+```
+
+#### `GET /stats`
+
+System statistics and database information.
+
+**Response:**
+```json
+{
+  "database": {
+    "total_documents": 347,
+    "categories": {"education": 120, "news": 95, "events": 132}
+  },
+  "time_context": {
+    "time": "14:30",
+    "date": "10.11.2025",
+    "day": "Понеділок",
+    "week": 1
+  },
+  "system": {
+    "components_loaded": ["db", "schedule_manager", "data_loader", "assistant"]
+  }
+}
+```
+
+### 📁 Project Structure
+
+```
+nau-ai-assistant-backend/
+├── main.py                 # FastAPI server entry point
+├── assistant.py            # AI assistant coordinator
+├── database.py             # Vector database (ChromaDB + Jina)
+├── query_router.py         # Intelligent query routing
+├── result_validator.py     # Search result validation
+├── schedule.py             # Schedule parsing and management
+├── data_loader.py          # News loading and metadata enrichment
+├── config.py               # Configuration and constants
+├── utils.py                # Utility functions
+├── nau_structure.py        # University structure (faculties, departments)
+├── models.py               # Pydantic models for API
+├── logger.py               # Centralized logging
+├── requirements.txt        # Python dependencies
+├── .env                    # Environment configuration
+└── naunews/                # News data directory
+    ├── global/             # University-wide news
+    ├── ФКНТ/               # Faculty of Computer Science news
+    │   ├── ІПЗ/            # Software Engineering department
+    │   ├── КІТ/            # Computer Information Technologies
+    │   └── КСМ/            # Computer Systems and Networks
+    └── ФАЕТ/               # Aeronavigation Faculty news
+        ├── ТКС/            # Telecommunication Systems
+        └── АСУ/            # Avionics and Control Systems
+```
+
+### 🔄 How It Works
+
+**Request Processing Flow**
+
+1. **Client sends query** → FastAPI receives POST request at `/chat`
+
+2. **Request validation** → Pydantic models validate input data
+
+3. **Query routing** → QueryRouter analyzes the query:
+   - Determines search scope (global/faculty/department)
+   - Identifies intent (info/schedule/news/events)
+   - Generates enhancement keywords
+   - Decides if database search is needed
+
+4. **Database search** (if needed):
+   - Creates query embedding using Jina Embeddings v3
+   - Performs vector search in ChromaDB with filters
+   - Returns top-K results
+
+5. **Result validation**:
+   - LLM validates if results are relevant
+   - If not relevant: reformulates query and retries (up to 3 attempts)
+   - Returns validated results
+
+6. **Response generation**:
+   - Formats search results as context
+   - Creates system prompt with university info and schedule
+   - Sends to LLM (Gemini or LM Studio)
+   - Receives natural language response
+
+7. **Return to client** → Formatted ChatResponse with answer
+
+**Example Query Flow**
+
+```
+User: "What are the latest news from Software Engineering department?"
+  ↓
+QueryRouter: scope=ФКНТ, entity=ІПЗ, intent=news, keywords=["новини", "іпз", "software engineering"]
+  ↓
+Database: vector search with filters → 15 results
+  ↓
+Validator: check relevance → PASS (3 relevant results)
+  ↓
+LLM: generate natural response with context
+  ↓
+Response: "Here are the latest news from SE department:
+          1. Open Day on October 15th...
+          2. Students won hackathon...
+          3. New computer lab opened..."
+```
+
+### 🧪 Testing
+
+**Test with curl**
+
+```bash
+curl -X POST "http://localhost:8000/chat" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "user_name": "Test User",
+    "message": "Hello!",
+    "group_name": null,
+    "messages": []
+  }'
+```
 
 ### 🐛 Troubleshooting
 
-**ModuleNotFoundError**
-- Activate venv: \`venv\\Scripts\\activate\` (Windows) or \`source venv/bin/activate\` (Linux/Mac)
+**"ModuleNotFoundError" when running**
+
+Make sure virtual environment is activated:
+```bash
+# Windows
+venv\Scripts\activate
+
+# Linux/Mac
+source venv/bin/activate
+```
 
 **LM Studio connection failed**
-- Verify LM Studio is running on http://localhost:1234
+
+- Verify LM Studio is running
+- Check it's listening on http://localhost:1234
+- Test: `curl http://localhost:1234/v1/models`
 
 **Gemini API errors**
-- Check API key in \`.env\`
-- Verify internet connection
 
-**Database errors**
-- Delete \`nau_vector_db/\` and restart
-- Check disk space (10+ GB needed)
+- Verify API key is correct in `.env`
+- Check internet connection
+- Ensure you haven't exceeded quota
 
-**Out of memory**
-- Reduce \`BATCH_SIZE\`
-- Increase RAM
+**Database initialization errors**
+
+- Delete `nau_vector_db/` directory and restart
+- Check you have write permissions
+- Ensure enough disk space (10+ GB)
+
+**Out of memory errors**
+
+- Increase available RAM
+- Reduce `BATCH_SIZE` in config
+- Use smaller embedding model
+- Reduce number of documents
+
+### 🔧 Development
+
+**Running in development mode**
+
+```bash
+uvicorn main:app --reload --host localhost --port 8000
+```
+
+Changes to code will automatically reload the server.
 
 ---
 
@@ -300,123 +559,196 @@ See http://localhost:8000/docs for full API documentation.
 
 ### 📖 Про проєкт
 
-NAU AI Assistant Backend — готова до продакшну AI-система на FastAPI, яка допомагає студентам і співробітникам НАУ отримувати інформацію через розмовний інтерфейс. Розуміє запити українською, російською та англійською.
+NAU AI Assistant Backend — це готова до продакшну AI-система, побудована на FastAPI, яка допомагає студентам і співробітникам Національного авіаційного університету отримувати інформацію через розмовний інтерфейс. Система розуміє запити природною мовою українською, російською та англійською.
 
 ### 🚀 Швидкий старт
 
-**1-3. Клонування та встановлення**
+**1. Клонуйте репозиторій**
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/nau-ai-assistant-backend.git
 cd nau-ai-assistant-backend
+```
+
+**2. Створіть віртуальне середовище**
+
+```bash
+# Windows
 python -m venv venv
-venv\\Scripts\\activate  # Windows
-source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate
+
+# Linux/Mac
+python3 -m venv venv
+source venv/bin/activate
+```
+
+**3. Встановіть залежності**
+
+```bash
+pip install --upgrade pip
 pip install -r requirements.txt
-\`\`\`
+```
 
-**4. Налаштування .env**
+**4. Налаштуйте середовище**
 
-Мінімум:
-\`\`\`bash
+Створіть файл `.env` у кореневій директорії. **Мінімум:**
+
+```bash
 USE_GEMINI=true
 GEMINI_API_KEY=ваш_ключ_тут
-\`\`\`
+```
 
-Повний шаблон:
-\`\`\`bash
-# Основні налаштування
+**Повний шаблон:**
+
+```bash
+# ===========================================
+# NAU AI Assistant Backend - Змінні оточення
+# ===========================================
+
+# ===========================================
+# ОСНОВНІ НАЛАШТУВАННЯ СЕРВЕРА
+# ===========================================
 HOST=localhost
 PORT=8000
 DEBUG=true
 ENVIRONMENT=development
 
-# Шляхи
+# ===========================================
+# ШЛЯХИ ДО ДАНИХ
+# ===========================================
 VECTOR_DB_PATH=./nau_vector_db
 NEWS_DATA_PATH=./naunews
 
-# AI
+# ===========================================
+# AI НАЛАШТУВАННЯ (Gemini / LM Studio)
+# ===========================================
 USE_GEMINI=true
+
+# Gemini API (рекомендується)
 GEMINI_API_KEY=ваш_ключ_тут
 GEMINI_MODEL=gemini-2.0-flash
 
-# LM Studio (альтернатива)
+# LM Studio (локальна модель)
 LM_STUDIO_URL=http://localhost:1234/v1/chat/completions
 LM_STUDIO_TIMEOUT=300
 DEFAULT_MODEL=gemma-3-4b-it
 
-# Генерація
+# ===========================================
+# НАЛАШТУВАННЯ ГЕНЕРАЦІЇ
+# ===========================================
 GENERATION_TEMPERATURE=0.3
 MAX_TOKENS=1000
 MAX_HISTORY_MESSAGES=6
 MAX_CONTEXT_TOKENS=6000
 
-# Пошук
+# ===========================================
+# НАЛАШТУВАННЯ ПОШУКУ В БАЗІ ДАНИХ
+# ===========================================
 SEARCH_TOP_K=3
 SEARCH_SIMILARITY_THRESHOLD=0.3
 ENABLE_QUERY_EXPANSION=true
 RECENT_NEWS_DAYS=30
 BATCH_SIZE=100
 
-# Розклад
+# ===========================================
+# НАЛАШТУВАННЯ РОЗКЛАДУ
+# ===========================================
 SCHEDULE_CACHE_ENABLED=true
 SCHEDULE_REQUEST_TIMEOUT=10
 NAU_PORTAL_BASE_URL=https://portal.nau.edu.ua
 SEMESTER_START_DATE=2025-09-01
 
-# Логування
+# ===========================================
+# НАЛАШТУВАННЯ ЛОГУВАННЯ
+# ===========================================
 LOG_LEVEL=INFO
 LOG_SYSTEM_PROMPTS=false
 
-# Безпека
+# ===========================================
+# БЕЗПЕКА ТА ОБМЕЖЕННЯ
+# ===========================================
 RATE_LIMIT_REQUESTS=100
 RATE_LIMIT_PERIOD=60
-\`\`\`
+```
 
-**5. Запуск**
+**5. Запустіть сервер**
 
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
-Перший запуск: 5-15 хвилин. Наступні: 10-30 секунд.
+Перший запуск займає 5-15 хвилин, наступні 10-30 секунд.
 
-**6. Перевірка**
+**6. Перевірте**
 
 - http://localhost:8000 - Статус
+- http://localhost:8000/health - Детальна перевірка
 - http://localhost:8000/docs - Документація API
 
 ### ⚙️ Конфігурація
 
-**Обов'язкові налаштування**
+Повний опис налаштувань див. у [англійській версії](#configuration) вище.
+
+**Основні налаштування:**
 
 | Змінна | Опис | За замовчуванням |
 |--------|------|------------------|
-| \`USE_GEMINI\` | Використовувати Gemini | \`true\` |
-| \`GEMINI_API_KEY\` | API ключ Gemini | обов'язково |
-| \`GEMINI_MODEL\` | Модель Gemini | \`gemini-2.0-flash\` |
+| `USE_GEMINI` | Використовувати Gemini | `true` |
+| `GEMINI_API_KEY` | API ключ Gemini | обов'язково |
+| `GEMINI_MODEL` | Модель Gemini | `gemini-2.0-flash` |
 
-Решту налаштувань див. вище в англійській версії.
+**Отримання ключа Gemini:**
 
-**Отримання ключа Gemini**
+1. Перейдіть на https://aistudio.google.com/app/apikey
+2. Створіть новий API ключ
+3. Скопіюйте у файл `.env`
 
-1. https://aistudio.google.com/app/apikey
-2. Створити ключ
-3. Додати в \`.env\`
+**Для production:**
 
-**Production**
-
-\`\`\`bash
+```bash
 DEBUG=false
 ENVIRONMENT=production
 LOG_LEVEL=WARNING
+LOG_SYSTEM_PROMPTS=false
 HOST=0.0.0.0
-\`\`\`
+```
+
+### 📡 API ендпоінти
+
+```
+GET  /               - Перевірка здоров'я
+GET  /health         - Детальний статус
+POST /chat           - Основний ендпоінт діалогу
+POST /group/validate - Валідація групи
+GET  /stats          - Статистика системи
+```
+
+Повна документація: http://localhost:8000/docs
 
 ### 🐛 Вирішення проблем
 
-**ModuleNotFoundError** - Активуйте venv
-**LM Studio помилка** - Перевірте що запущений
-**Gemini помилка** - Перевірте ключ
-**База даних** - Видаліть nau_vector_db/ і перезапустіть
-**Пам'ять** - Зменшіть BATCH_SIZE
+**ModuleNotFoundError**
+- Активуйте venv: `venv\Scripts\activate` (Windows) або `source venv/bin/activate` (Linux/Mac)
+
+**Помилка підключення до LM Studio**
+- Перевірте що LM Studio запущений на http://localhost:1234
+
+**Помилки Gemini API**
+- Перевірте API ключ у `.env`
+- Перевірте інтернет-з'єднання
+
+**Помилки бази даних**
+- Видаліть директорію `nau_vector_db/` і перезапустіть
+- Перевірте наявність 10+ ГБ вільного місця
+
+**Помилки пам'яті**
+- Зменшіть `BATCH_SIZE`
+- Збільште доступну ОЗП
+
+### 🔧 Розробка
+
+```bash
+uvicorn main:app --reload --host localhost --port 8000
+```
+
+Зміни в коді автоматично перезавантажують сервер.
