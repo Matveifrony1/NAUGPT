@@ -1,0 +1,30 @@
+services:
+  nau-backend:
+    build: .
+    container_name: nau-assistant
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persistent data storage
+      - ./nau_vector_db:/app/nau_vector_db
+      - ./naunews:/app/naunews
+      # Model cache (avoid re-downloading)
+      - huggingface-cache:/root/.cache/huggingface
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - DEBUG=false
+      - ENVIRONMENT=production
+    env_file:
+      - .env
+    restart: unless-stopped
+    networks:
+      - nau-network
+
+volumes:
+  huggingface-cache:
+    driver: local
+
+networks:
+  nau-network:
+    driver: bridge
