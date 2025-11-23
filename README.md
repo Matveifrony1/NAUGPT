@@ -553,6 +553,40 @@ uvicorn main:app --reload --host localhost --port 8000
 
 Changes to code will automatically reload the server.
 
+### 🐳 Docker
+
+**Build and run**
+```bash
+# Build and start
+docker-compose up -d --build
+
+# View logs
+docker-compose logs -f
+
+# Stop
+docker-compose down
+
+# Stop and remove volumes
+docker-compose down -v
+```
+
+**Update container**
+```bash
+# Rebuild and restart
+docker-compose up -d --build
+
+# Clean old images
+docker image prune -f
+```
+
+**Configuration**
+
+Create `.env` file before running (see [Configuration](#configuration) section above).
+
+**Requirements**
+- Docker 20.10+
+- Docker Compose 2.0+
+
 ---
 
 ## Українська версія
@@ -752,3 +786,37 @@ uvicorn main:app --reload --host localhost --port 8000
 ```
 
 Зміни в коді автоматично перезавантажують сервер.
+
+### 🐳 Docker (Українська)
+
+**Збірка та запуск**
+```bash
+# Зібрати і запустити
+docker-compose up -d --build
+
+# Дивитись логи
+docker-compose logs -f
+
+# Зупинити
+docker-compose down
+
+# Зупинити і видалити volumes
+docker-compose down -v
+```
+
+**Оновлення контейнера**
+```bash
+# Пересібрати і перезапустити
+docker-compose up -d --build
+
+# Очистити старі образи
+docker image prune -f
+```
+
+**Налаштування**
+
+Створіть файл `.env` перед запуском (див. розділ [Конфігурація](#конфігурація)).
+
+**Вимоги**
+- Docker 20.10+
+- Docker Compose 2.0+
