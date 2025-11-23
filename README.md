@@ -19,6 +19,37 @@ NAU AI Assistant Backend is a production-ready AI-powered system built with Fast
 
 The backend handles complex query processing, semantic search through university news and information, real-time schedule parsing from the university portal, and generates context-aware responses using large language models.
 
+## 🔧 Engineering Notes
+
+A bit of context: this was my first large-scale AI project where I attempted to build a working RAG assistant from scratch to completion. During development, I had to solve technical challenges that influenced specific architectural decisions.
+
+<details>
+<summary><strong>📌 Technical Challenges & Design Decisions</strong></summary>
+
+<br>
+
+### 1. Limitations of Local Language Models
+Small models (2–3B parameters) produced unstable response formats, broke JSON, and mixed languages. This forced me to switch to **Gemma 3 12B** and add auxiliary layers for stabilization — query routing and result validation.
+
+### 2. Quality of Embedding Models
+Popular MiniLM models showed poor quality for Ukrainian/Russian (synonyms, abbreviations, context). Switching to **Jina Embeddings v3 (1024-dim)** provided significantly more accurate search results.
+
+### 3. Complexity of Working with Long News Texts
+University data isn't a structured QA dataset, but rather large articles, announcements, and events. I had to experiment with:
+- different chunking strategies
+- query reformulation through LLM
+- an additional Result Validator filtering layer
+
+### 4. Multi-step Pipeline for Improved Accuracy
+The idea is simple: since the data isn't perfect, a single vector search is insufficient. Therefore, the system includes:
+- **Query Router** — predicts what to search for and at what level (faculty, department, etc.)
+- **Result Validator** — checks whether retrieved documents are relevant
+- **Multi-pass retrieval** — reformulates the query and tries again if needed
+
+Combined, this provided a noticeable improvement in accuracy and reduced noise.
+
+</details>
+
 ### ✨ What Can It Do
 
 **Information Retrieval**
@@ -594,6 +625,37 @@ Create `.env` file before running (see [Configuration](#configuration) section a
 ### 📖 Про проєкт
 
 NAU AI Assistant Backend — це готова до продакшну AI-система, побудована на FastAPI, яка допомагає студентам і співробітникам Національного авіаційного університету отримувати інформацію через розмовний інтерфейс. Система розуміє запити природною мовою українською, російською та англійською.
+
+## 🔧 Технічні нотатки
+
+Невеликий контекст: це був мій перший великий AI-проєкт, де я намагався створити робочий RAG-асистент від початку й до кінця. Під час розробки довелось розв'язувати технічні задачі, які вплинули на конкретні архітектурні рішення.
+
+<details>
+<summary><strong>📌 Технічні виклики та архітектурні рішення</strong></summary>
+
+<br>
+
+### 1. Обмеження локальних мовних моделей
+Малі моделі (2–3B параметрів) давали нестабільний формат відповіді, ламали JSON та змішували мови. Через це довелось перейти на **Gemma 3 12B** і додати допоміжні шари для стабілізації — маршрутизацію запитів і валідацію результатів.
+
+### 2. Якість embedding-моделей
+Популярні MiniLM-моделі показали низьку якість для української/російської (синоніми, абревіатури, контекст). Перехід на **Jina Embeddings v3 (1024-dim)** дав значно точніші результати пошуку.
+
+### 3. Складність роботи з довгими текстами новин
+Дані університету — це не структурований QA-набір, а великі статті, оголошення, події. Довелось експериментувати з:
+- різними стратегіями chunking
+- переформулюванням запитів через LLM
+- додатковим шаром фільтрації Result Validator
+
+### 4. Багатокроковий pipeline для підвищення точності
+Ідея проста: оскільки дані не ідеальні, один векторний пошук — недостатній. Тому система включає:
+- **Query Router** — передбачає, що шукати і на якому рівні (факультет, кафедра тощо)
+- **Result Validator** — перевіряє, чи релевантні отримані документи
+- **Multi-pass retrieval** — переформульовує запит і пробує ще раз, якщо потрібно
+
+У комбінації це дало помітне підвищення точності та зменшило шум.
+
+</details>
 
 ### 🚀 Швидкий старт
 
